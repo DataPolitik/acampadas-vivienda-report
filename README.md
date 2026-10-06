@@ -13,5 +13,5 @@ September–October 2026*.
 The site is built by GitHub Pages' default Jekyll, with no custom theme. To publish:
 repository **Settings → Pages → Deploy from a branch → `main` / root**.
 
-The reports were produced with [tgmon](https://github.com/DataPolitik/tgmon). The data
+The reports were produced with tgmon, a Telegram monitoring tool. The data
 files and scripts they mention are not part of this repository.
