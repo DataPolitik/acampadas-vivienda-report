@@ -1,0 +1,14 @@
+title: Housing camps on Telegram, Spain 2026
+description: Forwarding and mention networks of the Spanish housing movement's Telegram channels, 14 September to 5 October 2026
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-default-layout
+relative_links:
+  enabled: true
+exclude:
+  - README.md
