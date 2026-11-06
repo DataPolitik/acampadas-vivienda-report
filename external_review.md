@@ -1,5 +1,7 @@
 # External channel review — tagging rule and outcome
 
+> This page covers the first study, 14 September to 5 October 2026. The mobilisation continued: see the [follow-up](followup.md), from 6 October to the 11 November strike.
+
 Project `acampadas_vivienda`, review run on 2026-10-05.
 Per-channel evidence and decisions: [external_review_log.csv](external_review_log.csv).
 

@@ -1,5 +1,7 @@
 # Project `acampadas_vivienda` — Technical Report
 
+> This page covers the first study, 14 September to 5 October 2026. The mobilisation continued: see the [follow-up](followup.md), from 6 October to the 11 November strike.
+
 Telegram channels of the Spanish housing movement and their allies during the
 September–October 2026 housing camps: how the channel list was built, how channels were
 classified, and what the forwarding and mention networks show.

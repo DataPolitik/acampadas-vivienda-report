@@ -1,5 +1,7 @@
 # Community analysis — acampadas_vivienda
 
+> This page covers the first study, 14 September to 5 October 2026. The mobilisation continued: see the [follow-up](followup.md), from 6 October to the 11 November strike.
+
 Run on 2026-10-05. Window: 2026-09-14 to 2026-10-05. Method as in the barris report.
 
 ## Method
