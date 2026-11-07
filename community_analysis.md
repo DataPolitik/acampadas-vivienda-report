@@ -1,5 +1,7 @@
 # Community analysis — first study, 14 September – 5 October 2026
 
+<p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/community_analysis.html">Español</a> · <a href="ca/community_analysis.html">Català</a></p>
+
 > This page covers the first study, 14 September to 5 October 2026. The mobilisation continued: see the [follow-up](followup.md), from 6 October to the 11 November strike.
 
 Run on 2026-10-05. Window: 2026-09-14 to 2026-10-05.

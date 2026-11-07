@@ -1,5 +1,7 @@
 # Block 1 — 6 to 19 October 2026
 
+<p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/followup_block1.html">Español</a> · <a href="ca/followup_block1.html">Català</a></p>
+
 Part of the [follow-up](followup.md) of the housing mobilisation on Telegram.
 Block 1 covers 6 October 00:00 to 19 October 24:00, Madrid time (2026-10-05T22:00Z to
 2026-10-19T22:00Z). The baseline is the [first period](acampadas_vivienda_technical_report.md)

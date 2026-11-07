@@ -1,5 +1,7 @@
 # Technical report — first study, 14 September – 5 October 2026
 
+<p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/acampadas_vivienda_technical_report.html">Español</a> · <a href="ca/acampadas_vivienda_technical_report.html">Català</a></p>
+
 > This page covers the first study, 14 September to 5 October 2026. The mobilisation continued: see the [follow-up](followup.md), from 6 October to the 11 November strike.
 
 Telegram channels of the Spanish housing movement and their allies during the

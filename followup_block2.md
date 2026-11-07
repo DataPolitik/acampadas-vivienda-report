@@ -1,5 +1,7 @@
 # Block 2 — 20 to 26 October 2026
 
+<p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/followup_block2.html">Español</a> · <a href="ca/followup_block2.html">Català</a></p>
+
 Part of the [follow-up](followup.md) of the housing mobilisation on Telegram.
 Block 2 covers 20 October 00:00 to 26 October 24:00, Madrid time (2026-10-19T22:00Z to
 2026-10-26T23:00Z). Winter time began on 25 October, so the block's last two days have

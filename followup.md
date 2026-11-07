@@ -1,5 +1,7 @@
 # Follow-up: 6 October to 2 November 2026
 
+<p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/followup.html">Español</a> · <a href="ca/followup.html">Català</a></p>
+
 The [first study](acampadas_vivienda_technical_report.md) covered 14 September to
 5 October 2026. The mobilisation went on: Maricarmen Abascal died on 7 October, the
 tenant unions called a general strike for housing for 11 November, and the camps

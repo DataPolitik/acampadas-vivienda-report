@@ -1,5 +1,7 @@
 # External channel review — tagging rule and outcome
 
+<p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/external_review.html">Español</a> · <a href="ca/external_review.html">Català</a></p>
+
 > This page covers the first study, 14 September to 5 October 2026. The mobilisation continued: see the [follow-up](followup.md), from 6 October to the 11 November strike.
 
 First study, review run on 2026-10-05.

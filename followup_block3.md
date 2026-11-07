@@ -1,5 +1,7 @@
 # Block 3 — 27 October to 2 November 2026
 
+<p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/followup_block3.html">Español</a> · <a href="ca/followup_block3.html">Català</a></p>
+
 Part of the [follow-up](followup.md) of the housing mobilisation on Telegram.
 Block 3 covers 27 October 00:00 to 2 November 24:00, Madrid time (2026-10-26T23:00Z to
 2026-11-02T23:00Z, winter time throughout).

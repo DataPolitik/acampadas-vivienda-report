@@ -1,5 +1,7 @@
 # Housing camps on Telegram, Spain, autumn 2026
 
+<p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/index.html">Español</a> · <a href="ca/index.html">Català</a></p>
+
 <div style="display:flex;align-items:center;gap:32px;flex-wrap:wrap;margin:12px 0 18px"><a href="https://www.heuristica.barcelona/datapolitik/"><img src="figures/brand/datapolitik.png" alt="DataPolitik" height="52" style="display:block"></a><a href="https://www.heuristica.barcelona/"><img src="figures/brand/heuristica.png" alt="Heurística" height="26" style="display:block"></a></div>
 
 A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by [Heurística](https://www.heuristica.barcelona/), Barcelona.
