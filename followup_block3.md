@@ -406,6 +406,12 @@ of 30 October and France's of 5 November appear in the same channels.
 **Not checked**
 - **Network maps:** their layout varies slightly between renders.
 
+**Cite this page.**
+
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Block 3 — 27 October to 2 November 2026</em>. In <em>Housing camps and Telegram communication networks in Spain, autumn 2026</em>. Observation period: 27 October – 2 November 2026. Published 7 November 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/followup_block3.html">https://datapolitik.github.io/acampadas-vivienda-report/followup_block3.html</a></p></div>
+
+Original text and figures: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Use and citation](index.md#use-and-citation)
+
 ---
 
 <div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:8px 0 10px"><a href="https://www.heuristica.barcelona/datapolitik/"><img src="figures/brand/datapolitik.png" alt="DataPolitik" height="32" style="display:block"></a><a href="https://www.heuristica.barcelona/"><img src="figures/brand/heuristica.png" alt="Heurística" height="16" style="display:block"></a></div>

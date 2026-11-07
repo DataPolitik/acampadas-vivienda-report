@@ -83,12 +83,55 @@ representació exhaustiva del moviment.
 - Els informes dels blocs i del primer estudi són traduccions de l'original en anglès;
   les figures i els fitxers CSV són en anglès.
 
-**Comentaris, discussió i ús dels resultats**
+<a id="use-and-citation"></a>
+
+## Ús i citació dels resultats
 
 Aquest repositori està obert a la lectura crítica, la discussió i la reutilització dels
-seus resultats. Convidem especialment col·lectius, sindicats i activistes a fer-se seus
-els resultats de les anàlisis, interpretar-los des de les seves pròpies experiències i
-utilitzar-los com considerin oportú.
+seus resultats, i animem activament diferents públics a utilitzar-los.
+
+- **Col·lectius, sindicats i activistes.** Feu-vos vostres les anàlisis: reinterpreteu i
+  adapteu els resultats, i utilitzeu-los en assemblees, debats, materials de comunicació
+  i les vostres pròpies anàlisis. Per als usos que cobreix la llicència no cal demanar
+  permís, i ens interessa conversar sobre les vostres interpretacions i experiències.
+- **Periodistes i mitjans.** Els resultats i les visualitzacions es poden reproduir
+  citant-ne la font. Us demanem que la identifiqueu com a «DataPolitik, un programa
+  d'Heurística», preferiblement amb un enllaç a l'informe concret, que indiqueu el període
+  d'observació i que distingiu els resultats empírics de les interpretacions i les
+  hipòtesis.
+- **Investigadors i analistes.** Són benvingudes la revisió crítica, la comparació i la
+  recerca posterior. Recomanem citar l'informe concret, el seu període d'observació, la
+  data de publicació i l'URL del repositori; cada informe acaba amb una citació suggerida.
+
+Són recomanacions i no afegeixen condicions a la llicència.
+
+**Llicència.** Els textos, les anàlisis i les figures originals que DataPolitik
+(Heurística) publica aquí es distribueixen amb la llicència
+[Creative Commons Reconeixement 4.0 Internacional (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Es poden
+compartir, reproduir, adaptar i reutilitzar, també amb finalitats comercials, sense
+demanar permís, sempre que se'n reconegui l'autoria: citant la font, enllaçant la
+llicència i indicant si s'hi han fet canvis. La llicència només cobreix el material sobre
+el qual el projecte té els drets. No s'estén al contingut de tercers, com els missatges
+de Telegram citats o referenciats als informes i als fitxers d'evidències, les
+fotografies, les captures de pantalla o altre material de procedència externa, ni als
+logotips de DataPolitik i Heurística. Als fitxers d'evidències cobreix les
+classificacions, les decisions i les notes, no el contingut de Telegram citat.
+
+**Com citar.**
+
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Acampades per l'habitatge i xarxes de comunicació a Telegram a Espanya, tardor del 2026</em>. Repositori de recerca en curs. <a href="https://datapolitik.github.io/acampadas-vivienda-report/ca/">https://datapolitik.github.io/acampadas-vivienda-report/ca/</a></p></div>
+
+**Advertiments.**
+
+- La recerca és en curs i els resultats es poden revisar a mesura que hi hagi noves
+  observacions. El repositori no pretén cobrir de manera exhaustiva el moviment ni les
+  seves xarxes de comunicació.
+- Reutilitzar no implica aval: les interpretacions o adaptacions de tercers no s'han de
+  presentar com a conclusions avalades per DataPolitik o Heurística.
+- La llicència CC BY 4.0 només s'aplica als materials originals sobre els quals el
+  projecte té els drets necessaris.
+- Qualsevol reutilització d'informació sobre persones identificables continua subjecta a
+  les obligacions de privacitat i protecció de dades aplicables.
 
 Si voleu plantejar preguntes, discutir interpretacions, assenyalar errors o compartir
 altres usos i perspectives, estarem encantats de conversar: podeu obrir una

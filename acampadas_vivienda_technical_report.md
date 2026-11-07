@@ -545,6 +545,12 @@ Final graph: 778 nodes (24 core, 91 ally, 50 media, 251 external, 342 unidentifi
 The window is fixed in time and the procedure is described in section 4. Code and raw
 data are not published; the evidence per reviewed channel is.
 
+**Cite this page.**
+
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Technical report — first study, 14 September – 5 October 2026</em>. In <em>Housing camps and Telegram communication networks in Spain, autumn 2026</em>. Observation period: 14 September – 5 October 2026. Published 6 October 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/acampadas_vivienda_technical_report.html">https://datapolitik.github.io/acampadas-vivienda-report/acampadas_vivienda_technical_report.html</a></p></div>
+
+Original text and figures: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Use and citation](index.md#use-and-citation)
+
 ---
 
 <div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:8px 0 10px"><a href="https://www.heuristica.barcelona/datapolitik/"><img src="figures/brand/datapolitik.png" alt="DataPolitik" height="32" style="display:block"></a><a href="https://www.heuristica.barcelona/"><img src="figures/brand/heuristica.png" alt="Heurística" height="16" style="display:block"></a></div>

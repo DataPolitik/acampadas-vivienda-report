@@ -471,6 +471,12 @@ en las listas.
 - **Colores:** el mapa de la red se apoya en la posición en el anillo y en la leyenda
   donde hay pares de colores que no superan la comprobación de todos los pares.
 
+**Cómo citar esta página.**
+
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Bloque 1: del 6 al 19 de octubre de 2026</em>. En <em>Acampadas por la vivienda y redes de comunicación en Telegram en España, otoño de 2026</em>. Periodo de observación: 6–19 de octubre de 2026. Publicado el 7 de noviembre de 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/es/followup_block1.html">https://datapolitik.github.io/acampadas-vivienda-report/es/followup_block1.html</a></p></div>
+
+Texto y figuras originales: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Uso y citación](index.md#use-and-citation)
+
 ---
 
 <div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:8px 0 10px"><a href="https://www.heuristica.barcelona/datapolitik/"><img src="../figures/brand/datapolitik.png" alt="DataPolitik" height="32" style="display:block"></a><a href="https://www.heuristica.barcelona/"><img src="../figures/brand/heuristica.png" alt="Heurística" height="16" style="display:block"></a></div>

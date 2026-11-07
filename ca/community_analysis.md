@@ -233,6 +233,12 @@ Notes de lectura:
 - Sindicat de Llogateres (comunitat 1) és el canal d'habitatge situat amb menys fermesa,
   amb estabilitat 0,75.
 
+**Com citar aquesta pàgina.**
+
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Anàlisi de comunitats: primer estudi, 14 de setembre – 5 d'octubre del 2026</em>. Dins de <em>Acampades per l'habitatge i xarxes de comunicació a Telegram a Espanya, tardor del 2026</em>. Període d'observació: 14 de setembre – 5 d'octubre del 2026. Publicat el 7 de novembre del 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/ca/community_analysis.html">https://datapolitik.github.io/acampadas-vivienda-report/ca/community_analysis.html</a></p></div>
+
+Text i figures originals: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Ús i citació](index.md#use-and-citation)
+
 ---
 
 <div style="display:flex;align-items:center;gap:20px;flex-wrap:wrap;margin:8px 0 10px"><a href="https://www.heuristica.barcelona/datapolitik/"><img src="../figures/brand/datapolitik.png" alt="DataPolitik" height="32" style="display:block"></a><a href="https://www.heuristica.barcelona/"><img src="../figures/brand/heuristica.png" alt="Heurística" height="16" style="display:block"></a></div>

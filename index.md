@@ -75,11 +75,54 @@ exhaustive representation of the movement.
 - The sample is a snowball from a nine-channel seed, not a census. See the limitations
   sections before drawing conclusions.
 
-**Feedback, discussion, and use of the findings**
+<a id="use-and-citation"></a>
 
-This repository is open to critical examination, discussion, and reuse of its findings.
-We particularly invite collectives, unions, and activists to take ownership of the
-analyses, interpret them in light of their own experiences, and use them as they see fit.
+## Use and citation of findings
+
+This repository is open to critical examination, discussion, and reuse of its findings,
+and we actively encourage different audiences to use them.
+
+- **Collectives, unions and activists.** Take ownership of the analyses: appropriate,
+  reinterpret and adapt the results, and use them in assemblies, discussions,
+  communication materials and your own analyses. No prior permission is needed for uses
+  covered by the licence below, and we welcome dialogue about your interpretations and
+  experiences.
+- **Journalists and media.** Findings and visualisations may be reproduced with
+  attribution. Please identify the source as "DataPolitik, a programme of Heurística",
+  preferably with a link to the specific report, state the observation period, and
+  distinguish empirical findings from interpretations and hypotheses.
+- **Researchers and analysts.** Critical examination, comparison and further research
+  are welcome. Please cite the specific report, its observation period, its publication
+  date and the repository URL; each report ends with a suggested citation.
+
+These are recommendations and add no conditions to the licence.
+
+**Licence.** The original texts, analyses and figures published here by DataPolitik
+(Heurística) are licensed under
+[Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). They may be
+shared, reproduced, adapted and reused, including commercially, without prior permission,
+provided attribution is given: name the source, link to the licence, and indicate any
+changes made. The licence covers only material for which the project holds the rights.
+It does not extend to third-party content, such as the Telegram messages quoted or
+referenced in the reports and evidence files, photographs, screenshots or other
+externally sourced material, nor to the DataPolitik and Heurística logos. In the evidence
+files it covers the classifications, decisions and notes, not the quoted Telegram content.
+
+**How to cite.**
+
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Housing camps and Telegram communication networks in Spain, autumn 2026</em>. Ongoing research repository. <a href="https://datapolitik.github.io/acampadas-vivienda-report/">https://datapolitik.github.io/acampadas-vivienda-report/</a></p></div>
+
+**Please note.**
+
+- The research is ongoing and findings may be revised as new observations become
+  available. The repository does not claim exhaustive coverage of the movement or its
+  communication networks.
+- Reuse does not imply endorsement: interpretations or adaptations by others should not
+  be presented as conclusions endorsed by DataPolitik or Heurística.
+- The CC BY 4.0 licence applies only to original materials for which the project holds
+  the necessary rights.
+- Any reuse of information about identifiable individuals remains subject to applicable
+  privacy and data-protection obligations.
 
 If you have questions, would like to discuss interpretations, point out errors, or share
 other uses and perspectives, we would be happy to hear from you: open an
