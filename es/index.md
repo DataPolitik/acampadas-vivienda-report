@@ -85,9 +85,17 @@ representación exhaustiva del movimiento.
 - Los informes de los bloques y del primer estudio son traducciones del original en
   inglés; las figuras y los ficheros CSV están en inglés.
 
-Los comentarios, las críticas metodológicas, las correcciones y las sugerencias son
-bienvenidos: se puede abrir una [incidencia (*issue*) en el repositorio](https://github.com/DataPolitik/acampadas-vivienda-report/issues)
-o escribir a través de la [página de contacto de Heurística](https://www.heuristica.barcelona/contactheu/).
+**Comentarios, discusión y uso de los resultados**
+
+Este repositorio está abierto a la lectura crítica, la discusión y la reutilización de
+sus resultados. Invitamos especialmente a colectivos, sindicatos y activistas a
+apropiarse de los análisis, interpretarlos desde sus propias experiencias y utilizarlos
+como consideren oportuno.
+
+Si queréis plantear preguntas, discutir interpretaciones, señalar errores o compartir
+otros usos y perspectivas, estaremos encantados de conversar: podéis abrir una
+[incidencia (*issue*) en el repositorio](https://github.com/DataPolitik/acampadas-vivienda-report/issues) o escribir a través de la
+[página de contacto de Heurística](https://www.heuristica.barcelona/contactheu/).
 
 ---
 

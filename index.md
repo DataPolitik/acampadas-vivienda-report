@@ -75,7 +75,14 @@ exhaustive representation of the movement.
 - The sample is a snowball from a nine-channel seed, not a census. See the limitations
   sections before drawing conclusions.
 
-Comments, methodological criticisms, corrections and suggestions are welcome: open an
+**Feedback, discussion, and use of the findings**
+
+This repository is open to critical examination, discussion, and reuse of its findings.
+We particularly invite collectives, unions, and activists to take ownership of the
+analyses, interpret them in light of their own experiences, and use them as they see fit.
+
+If you have questions, would like to discuss interpretations, point out errors, or share
+other uses and perspectives, we would be happy to hear from you: open an
 [issue in the repository](https://github.com/DataPolitik/acampadas-vivienda-report/issues) or write through
 [Heurística's contact page](https://www.heuristica.barcelona/contactheu/).
 
