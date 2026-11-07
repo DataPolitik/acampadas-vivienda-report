@@ -1,5 +1,7 @@
 # Housing camps on Telegram, Spain, autumn 2026
 
+<p class="subtitle" style="margin:0 0 16px;font-size:1.25em;color:#57606a">An open, documented repository of ongoing research.</p>
+
 <p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/index.html">Español</a> · <a href="ca/index.html">Català</a></p>
 
 <div style="display:flex;align-items:center;gap:32px;flex-wrap:wrap;margin:12px 0 18px"><a href="https://www.heuristica.barcelona/datapolitik/"><img src="figures/brand/datapolitik.png" alt="DataPolitik" height="52" style="display:block"></a><a href="https://www.heuristica.barcelona/"><img src="figures/brand/heuristica.png" alt="Heurística" height="26" style="display:block"></a></div>
@@ -27,6 +29,10 @@ in every block and adding those that enter the conversation. How they work, and 
 they compare, is on the [follow-up overview](followup.md); their review decisions are
 in the [follow-up review log (CSV)](followup_review_log.csv).
 
+Each observation period introduces new data and analyses. Previous reports remain
+available to document the evolution of the research, including revisions and
+changes in interpretation.
+
 ## Across the periods
 
 ![Key measures from the first period to block 3](figures/followup/trajectory.png)
@@ -47,17 +53,30 @@ in the [follow-up review log (CSV)](followup_review_log.csv).
 
 ## About this site
 
+This repository brings together successive results from ongoing research into
+Telegram communication networks surrounding housing mobilisations in Spain. It
+publishes reports, visualisations, methodological documentation, classification
+decisions and the processed evidence behind the analyses, so that the research
+process can be followed, the findings examined critically, and the evolution of the
+interpretations documented as new observations become available.
+
+The findings are provisional, subject to revision, and do not aim to provide an
+exhaustive representation of the movement.
+
 - Only public Telegram channels and groups were read, without joining them.
 - Collection, classification and analysis were carried out by an AI agent following a
   written protocol, with the team setting the protocol, taking the decisions that changed
   the sample or the classification, and reviewing the results.
-- Code and raw data are not published; the reports, the evidence files and the figures
-  are.
+- Code and raw data are not published.
 - In the evidence files, individual user accounts and hidden-name forward origins are
   pseudonymised, and the text of members' messages in group chats is removed. Channels
   are identified by their public username.
 - The sample is a snowball from a nine-channel seed, not a census. See the limitations
   sections before drawing conclusions.
+
+Comments, methodological criticisms, corrections and suggestions are welcome: open an
+[issue in the repository](https://github.com/DataPolitik/acampadas-vivienda-report/issues) or write through
+[Heurística's contact page](https://www.heuristica.barcelona/contactheu/).
 
 ---
 

@@ -1,5 +1,7 @@
 # Acampades per l'habitatge a Telegram, Espanya, tardor del 2026
 
+<p class="subtitle" style="margin:0 0 16px;font-size:1.25em;color:#57606a">Un repositori obert i documentat d'una recerca en curs.</p>
+
 <p class="lang" style="font-size:90%"><a href="../index.html">English</a> · <a href="../es/index.html">Español</a> · <strong>Català</strong></p>
 
 <div style="display:flex;align-items:center;gap:32px;flex-wrap:wrap;margin:12px 0 18px"><a href="https://www.heuristica.barcelona/datapolitik/"><img src="../figures/brand/datapolitik.png" alt="DataPolitik" height="52" style="display:block"></a><a href="https://www.heuristica.barcelona/"><img src="../figures/brand/heuristica.png" alt="Heurística" height="26" style="display:block"></a></div>
@@ -28,6 +30,10 @@ els mateixos canals i s'hi afegeixen els que entren a la conversa. Com funcionen
 comparen s'explica a la [presentació del seguiment](followup.md); les decisions de
 revisió són al [registre de revisió del seguiment (CSV, en anglès)](../followup_review_log.csv).
 
+Cada període d'observació aporta noves dades i anàlisis. Els informes anteriors
+continuen disponibles per documentar l'evolució de la recerca, incloses les
+revisions i els canvis d'interpretació.
+
 ## Al llarg dels períodes
 
 ![Mesures clau del primer període al bloc 3](../figures/followup/trajectory.png)
@@ -52,12 +58,22 @@ revisió són al [registre de revisió del seguiment (CSV, en anglès)](../follo
 
 ## Sobre aquest lloc
 
+Aquest repositori aplega els resultats successius d'una recerca en curs sobre les
+xarxes de comunicació a Telegram al voltant de les mobilitzacions per l'habitatge a
+Espanya. Publica informes, visualitzacions, documentació metodològica, decisions de
+classificació i les evidències processades en què es basen les anàlisis, perquè el
+procés de recerca es pugui seguir, els resultats es puguin examinar críticament i
+quedi documentat com evolucionen les interpretacions a mesura que arriben noves
+observacions.
+
+Els resultats són provisionals, estan subjectes a revisió i no pretenen oferir una
+representació exhaustiva del moviment.
+
 - Només es van llegir canals i grups públics de Telegram, sense unir-s'hi.
 - La recollida, la classificació i l'anàlisi les va fer un agent d'IA seguint un
   protocol escrit; l'equip va fixar el protocol, va prendre les decisions que canviaven
   la mostra o la classificació i en va revisar els resultats.
-- El codi i les dades en brut no es publiquen; els informes, els fitxers d'evidències i
-  les figures, sí.
+- El codi i les dades en brut no es publiquen.
 - Als fitxers d'evidències, els comptes d'usuaris individuals i els orígens de
   reenviaments amb nom ocult estan pseudonimitzats, i s'ha eliminat el text dels missatges
   de membres de xats de grup. Els canals s'identifiquen pel seu nom d'usuari públic.
@@ -65,6 +81,10 @@ revisió són al [registre de revisió del seguiment (CSV, en anglès)](../follo
   llegir els apartats de limitacions abans de treure'n conclusions.
 - Els informes dels blocs i del primer estudi són traduccions de l'original en anglès;
   les figures i els fitxers CSV són en anglès.
+
+Els comentaris, les crítiques metodològiques, les correccions i els suggeriments són
+benvinguts: es pot obrir una [incidència (*issue*) al repositori](https://github.com/DataPolitik/acampadas-vivienda-report/issues) o
+escriure a través de la [pàgina de contacte d'Heurística](https://www.heuristica.barcelona/contactheu/).
 
 ---
 
