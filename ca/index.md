@@ -10,7 +10,8 @@ Un estudi de [DataPolitik](https://www.heuristica.barcelona/datapolitik/), d'[He
 
 Un estudi dels canals públics de Telegram del moviment per l'habitatge a Espanya i dels
 seus aliats durant les acampades que van seguir el desnonament de Maricarmen Abascal a
-Madrid, i durant la vaga general per l'habitatge que va venir després: com es van
+Madrid, i durant la preparació de la vaga general per l'habitatge convocada per a l'11
+de novembre: com es van
 seleccionar i classificar els canals, i què mostren les seves xarxes de reenviaments i
 mencions.
 

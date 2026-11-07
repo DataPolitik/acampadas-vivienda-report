@@ -10,7 +10,8 @@ A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by [Heurís
 
 A study of the public Telegram channels of the Spanish housing movement and their
 allies during the housing camps that followed the eviction of Maricarmen Abascal in
-Madrid, and during the general strike for housing that followed: how the channels were
+Madrid, and in the run-up to the general strike for housing called for 11 November:
+how the channels were
 sampled and classified, and what their forwarding and mention networks show.
 
 ## Periods

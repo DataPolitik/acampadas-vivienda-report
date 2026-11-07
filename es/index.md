@@ -10,7 +10,8 @@ Un estudio de [DataPolitik](https://www.heuristica.barcelona/datapolitik/), de [
 
 Un estudio de los canales públicos de Telegram del movimiento por la vivienda en España
 y de sus aliados durante las acampadas que siguieron al desahucio de Maricarmen Abascal
-en Madrid, y durante la huelga general por la vivienda que vino después: cómo se
+en Madrid, y durante la preparación de la huelga general por la vivienda convocada para
+el 11 de noviembre: cómo se
 seleccionaron y clasificaron los canales, y qué muestran sus redes de reenvíos y
 menciones.
 
