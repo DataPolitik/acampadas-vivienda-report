@@ -219,5 +219,7 @@ Reading notes:
 
 ---
 
-A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by
-[Heurística](https://www.heuristica.barcelona/). · [Home](index.md) · [Follow-up overview](followup.md)
+<p><a href="https://www.heuristica.barcelona/datapolitik/"><img src="figures/brand/datapolitik.jpg" alt="DataPolitik" height="40"></a>
+&nbsp;&nbsp;<a href="https://www.heuristica.barcelona/"><img src="figures/brand/heuristica.png" alt="Heurística" height="18"></a></p>
+
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by [Heurística](https://www.heuristica.barcelona/). · [Home](index.md) · [Follow-up overview](followup.md)

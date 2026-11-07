@@ -13,6 +13,7 @@ September–October 2026*.
 - `followup_block1.md`, `followup_block2.md`, `followup_block3.md` — the follow-up's block reports
 - `followup_review_log.csv` — evidence and decision per reviewed channel, follow-up
 - `figures/followup/` — the follow-up's figures
+- `figures/brand/` — the DataPolitik and Heurística logos
 
 The site is built by GitHub Pages' default Jekyll, with no custom theme. To publish:
 repository **Settings → Pages → Deploy from a branch → `main` / root**.

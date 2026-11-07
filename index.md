@@ -1,7 +1,9 @@
 # Housing camps on Telegram, Spain, autumn 2026
 
-A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by
-[Heurística](https://www.heuristica.barcelona/), Barcelona.
+<p><a href="https://www.heuristica.barcelona/datapolitik/"><img src="figures/brand/datapolitik.jpg" alt="DataPolitik" height="72"></a>
+&nbsp;&nbsp;&nbsp;<a href="https://www.heuristica.barcelona/"><img src="figures/brand/heuristica.png" alt="Heurística" height="30"></a></p>
+
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by [Heurística](https://www.heuristica.barcelona/), Barcelona.
 
 A study of the public Telegram channels of the Spanish housing movement and their
 allies during the housing camps that followed the eviction of Maricarmen Abascal in
@@ -55,3 +57,10 @@ in the [follow-up review log (CSV)](followup_review_log.csv).
   are identified by their public username.
 - The sample is a snowball from a nine-channel seed, not a census. See the limitations
   sections before drawing conclusions.
+
+---
+
+<p><a href="https://www.heuristica.barcelona/datapolitik/"><img src="figures/brand/datapolitik.jpg" alt="DataPolitik" height="40"></a>
+&nbsp;&nbsp;<a href="https://www.heuristica.barcelona/"><img src="figures/brand/heuristica.png" alt="Heurística" height="18"></a></p>
+
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by [Heurística](https://www.heuristica.barcelona/). · [Home](index.md) · [Follow-up overview](followup.md)
