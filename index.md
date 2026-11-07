@@ -1,5 +1,8 @@
 # Housing camps on Telegram, Spain, autumn 2026
 
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by
+[Heurística](https://www.heuristica.barcelona/), Barcelona.
+
 A study of the public Telegram channels of the Spanish housing movement and their
 allies during the housing camps that followed the eviction of Maricarmen Abascal in
 Madrid, and during the general strike for housing that followed: how the channels were
@@ -42,9 +45,11 @@ in the [follow-up review log (CSV)](followup_review_log.csv).
 ## About this site
 
 - Only public Telegram channels and groups were read, without joining them.
-- The reports are published as written for the project, with internal file references
-  removed from the blocks' pages. They refer to scripts, data files and Gephi graphs
-  that are **not** published here; only the documents listed above and the figures are.
+- Collection, classification and analysis were carried out by an AI agent following a
+  written protocol, with the team setting the protocol, taking the decisions that changed
+  the sample or the classification, and reviewing the results.
+- Code and raw data are not published; the reports, the evidence files and the figures
+  are.
 - In the evidence files, individual user accounts and hidden-name forward origins are
   pseudonymised, and the text of members' messages in group chats is removed. Channels
   are identified by their public username.

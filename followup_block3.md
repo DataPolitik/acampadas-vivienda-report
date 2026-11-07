@@ -64,7 +64,7 @@ Every decision, added or not, is in the [review log](followup_review_log.csv) (b
   - Madrid: Agenda Tetuán, C.S.O. La Enredadera, Centro Social El Ocho, Agua de Mayo.
   - Others: OMAL; REAS (co-convener of the consumer strike); the youth strike committees
     of La Safor; the Coordinadora Anarquista Horizontal.
-- **media:** HispanTV, as `reporting`. It now has three own posts on Portugal's protests
+- **media:** HispanTV, as *reporting*. It now has three own posts on Portugal's protests
   and camp evictions. It had two in blocks 1 and 2, and the rule asks for three.
 
 **Not admitted:** nine candidates were unreadable (eight private, among them a channel of
@@ -83,7 +83,7 @@ hostile.
 
 ### Stance changes since block 2
 
-**No role changed.** Both opponents were `hostile` again, on weaker evidence than in
+**No role changed.** Both opponents were *hostile* again, on weaker evidence than in
 blocks 1 and 2.
 - **Nuestra España.** Its own headlines frame the camp as costly and protected, and the
   strike as a manoeuvre:
@@ -93,10 +93,10 @@ blocks 1 and 2.
     la huelga del 11-N?" (#2189);
   - "Vídeo: cuando no son en Sol, el Gobierno sí gasea manifestantes" (#2209).
 - **Multicanal Radio** forwards two of these headlines.
-- **Judgement:** read as `reporting`, both channels would return to `media`.
+- **Judgement:** read as *reporting*, both channels would return to *media*.
 
 **Critique within the movement spreads.** 13 of the 281 panel channels are
-`critical-within`, against 4 of 265 in block 2 (5 counting block 2's admitted channels).
+*critical from within*, against 4 of 265 in block 2 (5 counting block 2's admitted channels).
 All back the strike and dispute CCOO and UGT's role or the
 strike's scope:
 - **The Mesa Sindical's open letter**, posted by CGT Madrid and relayed by two CGT
@@ -111,13 +111,13 @@ strike's scope:
   cómplices" (#600). Organisations in Granada, Zaragoza and Valladolid broke with CCOO
   and UGT for the strike (El Salto Andalucía and Diario Socialista, relayed by panel
   channels).
-- **Also `critical-within`:** Liza, Diario Socialista, Presos Revolucionarios,
+- **Also *critical from within*:** Liza, Diario Socialista, Presos Revolucionarios,
   Revolución Comunista and La Idea.
 
-**Criticism aimed at the government stays `supportive`.** COSHAC's campaign "aquesta vaga
+**Criticism aimed at the government stays *supportive*.** COSHAC's campaign "aquesta vaga
 també és contra el PSC" and its actions at PSC offices are an example.
 
-**Turnover.** 91 channels changed stance: 36 went from an active stance to `none` and 27
+**Turnover.** 91 channels changed stance: 36 went from an active stance to *none* and 27
 the other way. The block's posts are almost all about building the strike: committees,
 posters, workshops, a consumer strike every Wednesday until 11N.
 
@@ -164,7 +164,7 @@ channels): 532, **76 a day** (block 2: 73).
 - On the panel at the end of block 2: 474, 68 a day (block 2, on its own panel: 69).
 - By role: 104 core, 339 ally, 83 media, 6 opponent.
 - By stance: 439 supportive, 42 reporting, 34 critical-within, 6 hostile, 11 none (the
-  last are false positives in channels read as `none`).
+  last are false positives in channels read as *none*).
 - Peaks on 27 October (103) and 2 November (101).
 
 **With and without the admitted channels.** No admitted channel makes more than 15 % of
@@ -352,22 +352,22 @@ of 30 October and France's of 5 November appear in the same channels.
 ## 5. Judgement calls that could have gone the other way
 
 **Stance**
-- **The opponents** are `hostile` on adversarial headlines without an explicit attack.
-  Read as `reporting`, both would return to `media`.
-- **The rule for `critical-within`** is made explicit this block: the critique is the
+- **The opponents** are *hostile* on adversarial headlines without an explicit attack.
+  Read as *reporting*, both would return to *media*.
+- **The rule for *critical from within*** is made explicit this block: the critique is the
   channel's own position or most of its posts. Relays of others' critiques among
-  supportive posts stay `supportive` (Red TEJAR, Malditaultraderecha, FETAP).
-- **Tetuán's housing union** `supportive`; it could be `critical-within`.
-- **Diario Socialista and mpr21** `critical-within` on news headlines; they could be
-  `reporting`.
-- **Presos Revolucionarios** `critical-within`, although it calls the strike "un
+  supportive posts stay *supportive* (Red TEJAR, Malditaultraderecha, FETAP).
+- **Tetuán's housing union** *supportive*; it could be *critical from within*.
+- **Diario Socialista and mpr21** *critical from within* on news headlines; they could be
+  *reporting*.
+- **Presos Revolucionarios** *critical from within*, although it calls the strike "un
   montaje"; it could be read as hostile.
-- **USTEA** `supportive` on its education strike for 11 November; it could be `none`.
-- **elPlural** `reporting`, on headlines only; it was `supportive` in blocks 1 and 2.
-- **La Directa and Regeneración** `supportive` on thin evidence.
+- **USTEA** *supportive* on its education strike for 11 November; it could be *none*.
+- **elPlural** *reporting*, on headlines only; it was *supportive* in blocks 1 and 2.
+- **La Directa and Regeneración** *supportive* on thin evidence.
 
 **Review**
-- **The Mallorca camp's group** admitted as `in-scope`, although its posts are members'
+- **The Mallorca camp's group** admitted as *in-scope*, although its posts are members'
   messages.
 - **Moviments Socials** admitted as an agenda channel; it could be an aggregator.
 - **HispanTV and the scope of the mobilisation:** HispanTV was admitted because
@@ -401,17 +401,10 @@ of 30 October and France's of 5 November appear in the same channels.
   Gràcia); El Salto Madrid in the panel is private too.
 - **Hashtag search:** none this block.
 
-**Data notes**
-- **Block 2 dates in the event files:** the block-3 scans added events dated in block 2:
-  10 forward and 97 link events, mostly from the channels admitted in block 3. Block 2's
-  snapshot and figures are unchanged; the dynamic graph includes them (785 block-2 edges,
-  775 at block 2's export).
-- **Short name in block 2's map:** the channel labelled "Habitatge Sta. Coloma" in block
-  2's map is the Sindicat d'Habitatge Socialista de Catalunya. Corrected in block 3's
-  map, and in the maps of blocks 1 and 2 published here, which were re-rendered with
-  the corrected name.
-
 **Not checked**
-- **Graph files:** checked as XML only (no dangling edge, users and handles
-  pseudonymised), not opened in Gephi.
 - **Network maps:** their layout varies slightly between renders.
+
+---
+
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by
+[Heurística](https://www.heuristica.barcelona/). · [Home](index.md) · [Follow-up overview](followup.md)

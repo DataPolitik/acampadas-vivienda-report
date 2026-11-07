@@ -1,4 +1,4 @@
-# Project `acampadas_vivienda` — Technical Report
+# Technical report — first study, 14 September – 5 October 2026
 
 > This page covers the first study, 14 September to 5 October 2026. The mobilisation continued: see the [follow-up](followup.md), from 6 October to the 11 November strike.
 
@@ -9,25 +9,24 @@ classified, and what the forwarding and mention networks show.
 - **Report date:** 2026-10-05
 - **Observation window:** 2026-09-14 to 2026-10-05 (21 days, starting eight days before
   the Maricarmen eviction)
-- **Tool:** tgmon (this repository), with two options added during the project
 - **Data:** public Telegram channels and groups only, read without joining
 
-Companion documents: [external_review.md](external_review.md) (tagging rule and
-decisions), [external_review_log.csv](external_review_log.csv) (evidence per channel),
-[community_analysis.md](community_analysis.md) (community detection in detail).
+Companion documents: the [external review](external_review.md) (tagging rule and
+decisions), the [evidence per channel](external_review_log.csv) (CSV), and the
+[community analysis](community_analysis.md) (community detection in detail).
 
 ---
 
 ## 1. Summary
 
-1. **The project holds 167 channels:** 24 housing channels (`in-scope`), 91 allies,
+1. **The sample holds 167 channels:** 24 housing channels, 91 allies,
    50 media and 2 out-of-scope. It grew from a 9-channel seed through forwards, a web
    search, hashtag discovery and two reviewed rounds of snowballing.
 2. **22,111 messages were scanned** in 165 channels, giving 2,403 forward events and
    5,753 link events (@-mentions and t.me links), of which 2,049 point to another
    account.
 3. **The graph has 778 nodes and 1,115 edges** (541 forward, 574 link). Only 165 nodes
-   are scanned project channels; the rest are accounts they forward or mention.
+   are scanned channels of the sample; the rest are accounts they forward or mention.
 4. **Housing channels are sources, not relays.** Allies forwarded housing content 156
    times; housing channels forwarded ally content 12 times. Housing channels almost
    never link to other Telegram accounts.
@@ -81,10 +80,10 @@ details, noted below.
 
 | Tag | Channels | What it covers |
 |---|---|---|
-| `in-scope` | 24 | Tenant unions, PAH groups, housing assemblies, the two camp channels |
-| `ally` | 91 | Parties, unions, social centres, movement agendas, solidarity and anti-repression groups, individuals' channels |
-| `media` | 50 | News outlets, magazines, publishers, commentary and info channels |
-| `out-of-scope` | 2 | A forum-thread bot and a meme channel |
+| housing | 24 | Tenant unions, PAH groups, housing assemblies, the two camp channels |
+| ally | 91 | Parties, unions, social centres, movement agendas, solidarity and anti-repression groups, individuals' channels |
+| media | 50 | News outlets, magazines, publishers, commentary and info channels |
+| out of scope | 2 | A forum-thread bot and a meme channel |
 
 All but one are broadcast channels; Acampada26s is a group.
 
@@ -136,15 +135,15 @@ Forward events between roles (origin → forwarder), self-forwards excluded:
 | core | 76 | 156 | 4 |
 | ally | 12 | 525 | 34 |
 | media | 0 | 347 | 309 |
-| external (not in project) | 0 | 396 | 467 |
+| external (not in the sample) | 0 | 396 | 467 |
 | user | 0 | 15 | 1 |
 
 ![Figure 2. Forwards between roles](figures/fig5_role_mixing.png)
 
-*Figure 2. Number of forwards by origin and forwarder role. Hidden-name origins are counted as outside the project.*
+*Figure 2. Number of forwards by origin and forwarder role. Hidden-name origins are counted as outside the sample.*
 
 - Housing channels forward almost only each other (76) and a little from allies (12).
-  They forward nothing from media or from outside the project.
+  They forward nothing from media or from outside the sample.
 - Allies are the relays: they forward allies, media, outside sources and housing
   channels.
 - Media forward media and outside sources, and housing channels only 4 times.
@@ -189,7 +188,7 @@ could not be matched to a Telegram account.
 | PAHC Baix Montseny | 0 | 0 | 1 | 0 |
 | Les Corts, Sindicat d'Habitatge Socialista, Cuadernos de Trabajo | 0 | 0 | 0 | 0 |
 
-Counts are over scanned channels only. The GEXF also shows edges to and from
+Counts are over scanned channels only. The full network also has edges to and from
 unidentified handles, which is why some of these channels have more neighbours there.
 
 ![Figure 3. Housing channels: breadth against volume of forwarding](figures/fig3_breadth_volume.png)
@@ -291,22 +290,17 @@ Counted on an early download of 459 messages from the first 20 housing channels
 
 ## 4. Methodology
 
-### 4.1 Tools and environment
+### 4.1 Tools
 
-- **tgmon** (`tgmon.py`, Python, Telethon), run from the repository root with one
-  authorised Telegram user session. Channels are read through the public API without
-  joining.
-- **Two options were added to tgmon for this project** (commit `15a61ea`, branch
-  `forwards-by-links`, documented in the README):
-  - `discover --days N`: only add channels whose posts matching the hashtag fall inside
-    the window. Before, `discover` had no time filter.
-  - `forwards-by --links`: also record @-mentions and t.me links, and build a second
-    graph (section 4.5).
-- **tgkit-new downloader**, wrapped by `scripts/download_window.py` to stop at a date,
-  for the message download used in the hashtag count.
-- **networkx 3.4** for graphs and community detection.
-- **Web search** for context and for locating channels of organisations named in the
-  press.
+- **Collection** through Telegram's public API, with tgmon, a Telegram monitoring tool
+  built on the Telethon library. Channels and groups are read without joining them.
+- **Agent-assisted work.** Collection, classification and analysis were carried out by
+  an AI agent following a written protocol, with the team setting the protocol, taking
+  the decisions that changed the sample or the classification, and reviewing the
+  results.
+- **Network analysis** with the networkx library.
+- **Web search** for the context and for locating the channels of organisations named
+  in the press.
 
 ### 4.2 Time window
 
@@ -322,14 +316,14 @@ enlargement in the later rounds.
 
 | Step | Method | Channels added | Total |
 |---|---|---|---|
-| 1. Seed | CSV supplied by the researcher: 10 channels of the housing movement; 9 had a public username | 9 | 9 |
-| 2. Forward expansion | `expand`: every channel that a project channel forwarded from in the window | 6 | 15 |
+| 1. Seed | A seed list of ten channels of the housing movement compiled for the study; 9 had a public username | 9 | 9 |
+| 2. Forward expansion | Every channel that a channel in the sample forwarded from in the window | 6 | 15 |
 | 3. Web search | Channels of camp conveners named in the press, and the participant list on acampada26s.net; each checked on Telegram's public preview | 8 | 23 |
-| 4. Hashtag discovery | `discover --days 21` on seven hashtags found in step-1 channels' posts | 48 | 71 |
-| 5. First external review | Channels appearing in the graph but not in the project (133), reviewed against the tagging rule | 61 | 132 |
+| 4. Hashtag discovery | Channels whose posts in the window used one of seven hashtags found in the seed channels' posts | 48 | 71 |
+| 5. First external review | Channels appearing in the graph but not in the sample (133), reviewed against the tagging rule | 61 | 132 |
 | 6. Second external review | The 85 channels brought in by scanning the step-5 additions | 35 | 167 |
 
-![Figure 5. Channels in the project after each sampling step](figures/fig4_sample_growth.png)
+![Figure 5. Channels in the sample after each sampling step](figures/fig4_sample_growth.png)
 
 *Figure 5. Size of the channel list after each sampling step, by the final tag of each channel.*
 
@@ -339,7 +333,7 @@ Details:
   new: within the housing channels, forwarding is closed.
 - **Step 4 hashtags:** #AcampadaPorLaVivienda (4 channels), #DecretoMaricarmen (7),
   #NiUnaMaricarmenMés (11), #NiUnaMaricarmenMás (0), #HaciaLaHuelgaGeneral (11),
-  #AcampadaSol (15), #26s (0). `discover` returns broadcast channels only, not groups.
+  #AcampadaSol (15), #26s (0). Hashtag search returns broadcast channels only, not groups.
   Six doubtful results were classified by reading their last 40 messages.
 - **Steps 5 and 6** are the only steps where a channel had to pass a test before
   being added (section 4.4). Steps 2 and 4 add whatever the method returns; their
@@ -350,7 +344,7 @@ Details:
   antifascist and anti-imperialist info channels). These were not reviewed.
 - **Not reachable.** Channels without a public username cannot be added. Two matter:
   Difusión Asamblea de Vivienda Sevilla and the València camp's group, Acampada Plaça
-  Ajuntament. Grup d'Habitatge de Sants, in the seed CSV, had no usable link.
+  Ajuntament. Grup d'Habitatge de Sants, in the seed list, had no usable link.
 - **Not found on Telegram:** the Alacant housing unions, the Asturias tenant unions,
   Derecho al Techo (Las Palmas), and the Sevilla and Zaragoza tenant unions.
 
@@ -360,27 +354,27 @@ anarchist channels, Red TEJAR and Malditaultraderecha) as much as the field itse
 
 ### 4.4 Classification
 
-**Tags.** One tag per channel, stored in `channels.json`:
+**Tags.** Each channel carries one tag:
 
 | Tag | Graph role | Definition |
 |---|---|---|
-| `in-scope` | core | Housing organisations: tenant unions, PAH, housing assemblies, camp channels |
-| `ally` | ally | Organisations and collectives that are not housing organisations; personal channels of individuals |
-| `media` | media | News outlets, magazines, publishers, programmes, commentary and info channels |
-| `out-of-scope` | not scanned | Noise |
+| housing (in-scope) | core | Housing organisations: tenant unions, PAH, housing assemblies, camp channels |
+| ally | ally | Organisations and collectives that are not housing organisations; personal channels of individuals |
+| media | media | News outlets, magazines, publishers, programmes, commentary and info channels |
+| out of scope | not scanned | Noise |
 
-The scheme evolved during the project: first `in-scope` / `out-of-scope`; then `ally`
-replaced `out-of-scope` for non-housing organisations; then `media` was split from
-`ally`. Earlier tags were revised each time so one rule holds across the list.
+The scheme evolved during the study: first housing / out of scope; then ally
+replaced out of scope for non-housing organisations; then media was split from
+ally. Earlier tags were revised each time so one rule holds across the list.
 
 **Rule for adding a channel from the graph (steps 5 and 6).**
 
 1. *Engagement test.* The channel must have at least one own post about the camps or
-   the Maricarmen eviction in the window. Being forwarded by a project channel is not
+   the Maricarmen eviction in the window. Being forwarded by a channel in the sample is not
    enough.
-2. *Tag by kind of channel:* housing organisation → `in-scope`; other organisation or
-   individual's channel → `ally`; outlet → `media`.
-3. *Aggregators and chats* are decided by reading their messages: `ally` if the
+2. *Tag by kind of channel:* housing organisation → housing; other organisation or
+   individual's channel → ally; outlet → media.
+3. *Aggregators and chats* are decided by reading their messages: ally if the
    channel speaks as a movement actor (issues or relays calls, publishes collectives'
    statements); not added if it only reposts headlines or is open chatter.
 4. *Not added:* no camp post, noise, or not readable.
@@ -396,92 +390,78 @@ were discarded.
 
 | Decision | Round 1 | Round 2 |
 |---|---|---|
-| Added as `in-scope` | 1 | 2 |
-| Added as `ally` | 37 | 12 |
-| Added as `media` | 23 | 21 |
+| Added as housing | 1 | 2 |
+| Added as ally | 37 | 12 |
+| Added as media | 23 | 21 |
 | Not added | 69 | 50 |
 
 **Judgement calls** (all recorded in the log):
 
 - Commentary and info channels run by one person or an anonymous collective are
-  `media`, not `ally`, when their camp posts comment rather than mobilise
+  media, not ally, when their camp posts comment rather than mobilise
   (Geoestrategia y Política, España en Guerra, Prima Linea and similar).
 - Movement agenda channels (Convocatorias Madrid, Convócala Málaga and similar) are
-  `ally`, because they publish calls rather than news.
-- Diario Socialista is `media` by kind, although it is the main Telegram voice of
+  ally, because they publish calls rather than news.
+- Diario Socialista is media by kind, although it is the main Telegram voice of
   Movimiento Socialista; that current's youth organisation, Coordinadora Juvenil
-  Socialista, is an `ally` with an empty channel.
-- The rule tests engagement, not stance: Grupo Ruptura is `ally` although its post
+  Socialista, is an ally with an empty channel.
+- The rule tests engagement, not stance: Grupo Ruptura is ally although its post
   criticises the camp.
-- The seed channels were kept `in-scope` as supplied, including Cuadernos de Trabajo
+- The seed channels were kept housing as supplied, including Cuadernos de Trabajo
   and the neighbourhood collective La Saïdia Comuna.
 - Channels found in steps 2 to 4 were tagged by kind without the engagement test.
 
 ### 4.5 Data collection
 
-**Forwards** (`forwards-by`). For every scanned channel, each message in the window
-that is a forward produces one event: forwarder, message id and date, origin (channel,
-group, user or hidden name), original message id and date, and views. Events are
-appended to `forward_events.ndjson` and deduplicated on forwarder and message, so
-repeated runs accumulate one dataset.
+**Forwards.** For every scanned channel, each message in the window that is a forward
+produces one event: forwarder, message id and date, origin (channel, group, user or
+hidden name), original message id and date, and views. Events are deduplicated on
+forwarder and message.
 
-**Links** (`forwards-by --links`). For every message that is *not* a forward:
+**Mentions and links.** For every message that is *not* a forward:
 
-- @-mentions (Telegram's mention entities) and URLs to `t.me` or `telegram.me` naming
-  a username, a post, or a numeric channel id. Invite links and service paths (share,
-  sticker packs and so on) are ignored.
+- @-mentions and URLs to `t.me` or `telegram.me` naming a username, a post, or a
+  numeric channel id are recorded. Invite links and service paths (share, sticker packs
+  and so on) are ignored.
 - Links inside forwarded messages are skipped; they belong to the origin.
-- One event per message, target and kind, in `link_events.ndjson`. A channel
-  referencing itself is stored and flagged as a self-link.
-- **Identifying the target without extra API calls.** A handle is matched, in order,
-  against project channels, origins already seen in forward events, and the session's
-  local entity cache. Anything else is stored as `username:<name>` with type
-  `unknown`. Username look-ups were avoided because Telegram rate-limits them
-  strictly. Many unknown handles are Instagram or X handles pasted into posts.
+- One event per message, target and kind. A channel referencing itself is recorded as
+  a self-link.
+- **Identifying the target.** A handle is matched against the sample, against origins
+  already seen in forwards, and against accounts already seen by the collection.
+  Anything else is kept as an *unidentified handle*. Handles were not looked up one by
+  one, because Telegram rate-limits such look-ups strictly. Many unidentified handles
+  are Instagram or X handles pasted into posts.
 
-**Scanned set.** All channels tagged `in-scope`, `ally` or `media` (165). Each was
-scanned once with its final tag; earlier partial scans are subsumed by deduplication.
+**Scanned set.** All channels tagged housing, ally or media (165).
 
-**Message download.** Posts of the first 20 housing channels were downloaded in
-tgkit-new's format (`posts/`) for the hashtag count. Reactor lists were requested only
-for the one group, since the API refuses them for broadcast channels.
+**Message download.** Posts of the first 20 housing channels were downloaded for the
+hashtag count.
 
 ### 4.6 Graph construction
-
-`scripts/export_gephi.py` builds the GEXF from tgmon's two graphs.
 
 - **Direction** follows the information: origin → forwarder, and referenced account →
   channel that references it.
 - **Aggregation.** One edge per ordered pair and kind. A forward edge's weight is the
-  number of forwards; a link edge's weight is mentions plus links, with both counts
-  kept. Each edge keeps the first and last date.
-- **Two edge kinds** in one file, told apart by the GEXF `kind` attribute (Gephi's
-  edge type) and by the `edge_kind` column, so a pair can have one edge of each.
+  number of forwards; a link edge's weight is mentions plus links. Each edge keeps the
+  first and last date.
+- **Two edge kinds** in one graph, so a pair of channels can have one edge of each.
 - **Self-loops** are dropped (7 forward, and all self-links).
-- **Node roles:** `core`, `ally`, `media` from the tags; `external` for identified
-  channels and groups outside the project; `unidentified` for unmatched handles;
-  `user` for individual accounts.
-- **Isolated nodes.** Scanned channels with no edge of either kind are added so that
+- **Node roles:** housing (core), ally and media from the tags; *external* for
+  identified channels and groups outside the sample; *unidentified* for unmatched
+  handles; *user* for individual accounts.
+- **Isolated nodes.** Scanned channels with no edge of either kind are kept, so that
   silence is visible (12 nodes).
-- **Pseudonymisation.** Nodes typed `user` are relabelled `user:1` … `user:20`.
-  Unidentified handles and hidden-name origins keep their text.
-- **Review attributes.** `category` and `review` are copied from the review log, so
-  channels reviewed and not added are still labelled.
-- **Community attributes.** `community_forward`, `community_link`,
-  `community_combined`, `community_full`, `community_full_name`, and a
-  `stability_<graph>` score for each.
+- **Pseudonymisation.** Individual user accounts are pseudonymised.
 
 Final graph: 778 nodes (24 core, 91 ally, 50 media, 251 external, 342 unidentified,
 20 users) and 1,115 edges.
 
 ### 4.7 Community analysis
 
-`scripts/analyze_communities.py`, following the barris project's method.
-
 - **Graphs.** Undirected; weight 1 + ln(count) so that pairs with hundreds of events
   do not swamp the rest. Four graphs: forwards, links and combined among scanned
   channels, and the whole graph with all nodes and both edge kinds.
-- **Detection.** Louvain (`networkx`, resolution 1.0).
+- **Detection.** Louvain (resolution 1.0).
 - **Stability.** 50 runs with seeds 0 to 49: number of distinct partitions, modularity
   range, and pairwise co-assignment.
 - **Labels.** Forward and link graphs use the seed-42 partition, which is also the
@@ -495,8 +475,7 @@ Final graph: 778 nodes (24 core, 91 ally, 50 media, 251 external, 342 unidentifi
 - **Comparison.** Modularity of the partition by tag, to test whether the tags explain
   the structure.
 - **Names.** Whole-graph communities were named by reading their members. Each name is
-  tied to an anchor channel in `flows/community_names.csv`, so names survive
-  renumbering.
+  tied to an anchor channel, so names survive renumbering.
 - **Whole-graph caveat.** Unscanned nodes only have ties to the channels that
   reference them, so they join that channel's community. Three whole-graph communities
   are a single scanned channel plus the accounts it cites.
@@ -504,7 +483,7 @@ Final graph: 778 nodes (24 core, 91 ally, 50 media, 251 external, 342 unidentifi
 ### 4.8 Other analyses
 
 - **Role mixing, daily volume, delay and cascades** (section 3) were computed directly
-  from the two event files. Delay is forward time minus original post time. A cascade
+  from the forward and link events. Delay is forward time minus original post time. A cascade
   groups forward events by origin channel and original message id.
 - **Hashtags** were counted with a regular expression on message text, case-folded,
   once per message.
@@ -523,13 +502,14 @@ Final graph: 778 nodes (24 core, 91 ally, 50 media, 251 external, 342 unidentifi
 - Private channels and groups, and those without a username, are invisible. This
   excludes most camp coordination, which the press describes as running on WhatsApp
   and Telegram groups.
-- Only one group is in the project; `discover` returns channels only.
+- Only one group is in the sample; hashtag search returns channels only.
+- The hashtag step does not record which hashtag found which channel.
 
 **Classification**
 
 - The engagement test is a keyword match. Image-only posts and other wordings are
   missed, and one matching post is enough to pass.
-- The `media` / `ally` boundary for commentary channels and aggregators rests on
+- The media / ally boundary for commentary channels and aggregators rests on
   reading a few messages.
 - Channels added in steps 2 to 4 did not pass the engagement test.
 
@@ -552,69 +532,18 @@ Final graph: 778 nodes (24 core, 91 ally, 50 media, 251 external, 342 unidentifi
 
 **Data protection**
 
-- `projects/` is excluded from version control. Raw event files contain numeric user
-  ids and display names of people who posted or were forwarded in groups; the
-  Acampada26s download contains sender names and reactor lists. The GEXF pseudonymises
-  user nodes but keeps unidentified handles and hidden display names as text; these
-  should be removed or pseudonymised before the file is shared.
-
-**tgmon**
-
-- `discover` overwrites `discovered_via` with `tag` for channels already in the
-  project, so the provenance label of several seed and web-search channels was lost;
-  the step counts in section 4.3 come from the run record, not from that field.
-- `discover` does not store which hashtag found a channel.
-- `--with-tag` requires all listed tags, so selecting several tags needs
-  `--exclude-tag` instead.
+- Raw data, which contain identifiers and display names of individual users who posted
+  or were forwarded in groups, are not published. In published files, individual user
+  accounts and hidden-name forward origins are pseudonymised.
 
 ---
 
 ## 6. Reproducibility
 
-Run from the repository root, with `TELEGRAM_API_ID` and `TELEGRAM_API_HASH` set and
-an authorised session.
-
-```bash
-# Collection: forwards and links for all scanned channels, then both graphs
-python tgmon.py --session <session> forwards-by --project acampadas_vivienda \
-    --days 21 --per-channel -1 --exclude-tag out-of-scope --links --graph
-
-# Rebuild the graphs without scanning (picks up tag changes)
-python tgmon.py --session <session> forwards-by --project acampadas_vivienda --graph-only
-
-# Communities, then the GEXF (in this order: the export reads the community tables)
-python projects/acampadas_vivienda/report/scripts/analyze_communities.py
-python projects/acampadas_vivienda/report/scripts/export_gephi.py
-
-# Figures (after the community analysis: the network map reads its tables)
-python projects/acampadas_vivienda/report/scripts/make_figures.py
-```
-
-Re-running the collection later moves the 21-day window; the stored events are kept
-and new ones appended. The review scripts in `scripts/review/` are one-off records of
-what was run: they contain the decision lists and expect to be run from the repository
-root with `PYTHONPATH=.`.
+The window is fixed in time and the procedure is described in section 4. Code and raw
+data are not published; the evidence per reviewed channel is.
 
 ---
 
-## 7. Files
-
-All under `projects/acampadas_vivienda/`.
-
-| File | Content |
-|---|---|
-| `channels.json` | The 167 channels with tags |
-| `channels.before-discover.json`, `channels.before-external-review.json`, `channels.before-external-review-2.json` | Lists before steps 4, 5 and 6 |
-| `discovery.log.ndjson` | tgmon's log of every add, tag change and run |
-| `posts/*.json` | Messages of the first 20 housing channels, tgkit-new format |
-| `results/_forwards_by/forward_events.ndjson`, `edges.csv`, `nodes.csv` | Forward events and graph |
-| `results/_links/link_events.ndjson`, `edges.csv`, `nodes.csv` | Link events and graph |
-| `results/_forwards_by/gephi/acampadas_vivienda_forwards.gexf` | Merged graph for Gephi |
-| `results/_forwards_by/gephi/nodes_gephi.csv`, `edges_gephi.csv` | The same as tables |
-| `report/acampadas_vivienda_technical_report.md` | This report |
-| `report/external_review.md`, `external_review_log.csv` | Tagging rule; evidence and decision per reviewed channel |
-| `report/community_analysis.md` | Community detection in detail |
-| `report/flows/communities_*.csv`, `communities_summary.json`, `community_names.csv` | Community tables, statistics and names |
-| `report/figures/fig1_timeline.png` … `fig5_role_mixing.png` | The five figures, generated by `scripts/make_figures.py` |
-| `report/scripts/export_gephi.py`, `analyze_communities.py`, `make_figures.py`, `download_window.py` | Derived-output scripts |
-| `report/scripts/review/` | One-off review scripts and the scan results they used |
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by
+[Heurística](https://www.heuristica.barcelona/). · [Home](index.md) · [Follow-up overview](followup.md)

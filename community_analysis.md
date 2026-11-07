@@ -1,24 +1,20 @@
-# Community analysis — acampadas_vivienda
+# Community analysis — first study, 14 September – 5 October 2026
 
 > This page covers the first study, 14 September to 5 October 2026. The mobilisation continued: see the [follow-up](followup.md), from 6 October to the 11 November strike.
 
-Run on 2026-10-05. Window: 2026-09-14 to 2026-10-05. Method as in the barris report.
+Run on 2026-10-05. Window: 2026-09-14 to 2026-10-05.
 
 ## Method
 
-- **Nodes:** the 165 scanned project channels (24 `in-scope`/core, 91 `ally`, 50 `media`).
+- **Nodes:** the 165 scanned channels of the sample (24 housing/core, 91 ally, 50 media).
   External and unidentified nodes are left out because their own posts were not read.
 - **Graphs:** forwards, links (@-mentions and t.me links), and the two combined.
   Edges are made undirected and weighted 1 + ln(count), so a pair that exchanges
   hundreds of forwards does not swamp the rest.
-- **Communities:** Louvain (`networkx`, seed 42, resolution 1.0).
+- **Communities:** Louvain (seed 42, resolution 1.0).
 - **Stability:** 50 random seeds; share of runs giving the same partition, modularity
   range, and how often the members of each community stay together ("cohesion").
 - **Comparison:** modularity of the partition given by the tags (core / ally / media).
-
-Script: `scripts/analyze_communities.py`. Tables: `flows/communities_forward.csv`,
-`flows/communities_link.csv`, `flows/communities_combined.csv`,
-`flows/communities_summary.json`.
 
 ## Headline numbers
 
@@ -158,12 +154,12 @@ Border nodes worth knowing about:
 
 - Only scanned channels are included; the 251 external and 342 unidentified nodes of
   the full graph are not.
-- The project list was grown from the housing seed outward through allies, so the
+- The channel list was grown from the housing seed outward through allies, so the
   antifascist and media blocks reflect how the list was built as much as the field.
 - Link ties are sensitive to signature habits (Malditaultraderecha, Convocatorias
   Madrid). Log weighting reduces this but does not remove it.
 
-## Whole-graph communities (`community_full`)
+## Whole-graph communities
 
 The communities above cover only scanned channels, which leaves most nodes of the full
 graph without a label. A further pass runs the same method on the whole graph: all 766
@@ -182,16 +178,15 @@ connected nodes (scanned, external, unidentified, users), both edge types togeth
 - **Less stable in detail:** 46 different partitions over 50 seeds, with modularity
   between 0.701 and 0.704. The blocks are robust; the assignment of border nodes is not.
 
-Table: `flows/communities_full.csv`.
 
-## Description of the whole-graph communities (`community_full`)
+## Description of the whole-graph communities
 
-Numbers are the values of `community_full` in the GEXF. "Project" counts scanned
+Numbers identify the whole-graph communities. "Sample" counts scanned
 channels (core, ally, media); "Other" counts external channels, unidentified handles
 and users, which join the community of whoever references them. Names are descriptive
 labels given by reading the members.
 
-| # | Community | Nodes | Project | Other | Housing channels | Main allies and media | Stability |
+| # | Community | Nodes | Sample | Other | Housing channels | Main allies and media | Stability |
 |---|---|---|---|---|---|---|---|
 | 1 | Malditaultraderecha sphere: antifascist counter-information, Seville and Barcelona | 129 | 18 | 111 | Sindicat de Llogateres | Malditaultraderecha, Sevilla Anticarcelaria, Palestina SOS Barcelona, Presos Revolucionarios; elPlural, Crític, Tot Barcelona | 0.87 |
 | 2 | Fullblack161 and its sources | 127 | 1 | 126 | — | Fullblack161 (international antifa info); almost all other nodes are handles it credits | 1.00 |
@@ -221,3 +216,8 @@ Reading notes:
   which Alerta Solidària mentions; it is a Catalan channel, not a Valencian one.
 - Sindicat de Llogateres (community 1) is the least firmly placed housing channel,
   with stability 0.75.
+
+---
+
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by
+[Heurística](https://www.heuristica.barcelona/). · [Home](index.md) · [Follow-up overview](followup.md)

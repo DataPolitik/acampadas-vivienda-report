@@ -37,7 +37,7 @@ Dated events, each with at least one press source. In short:
 
 ### Panel and review
 
-The project started with the first period's 167 channels: 24 in-scope, 91 ally, 50 media,
+The follow-up started with the first period's 167 channels: 24 in-scope, 91 ally, 50 media,
 2 out-of-scope. No channel was removed. The two out-of-scope channels were kept in the
 panel and given a role after reading (below). Two rounds added **98 channels**. Every
 decision, added or not, is in the [review log](followup_review_log.csv) (block 1, column
@@ -45,14 +45,13 @@ decision, added or not, is in the [review log](followup_review_log.csv) (block 1
 
 - **Review round:** 78 channels (49 ally, 28 media, 1 in-scope) out of 296 candidates
   read.
-- **Second round (expand and hashtag discovery)**, an additional round run after the
+- **Second round (forward expansion and hashtag discovery)**, an additional round run after the
   review: 20 channels (15 ally, 3 media, 2 in-scope) out of 72 candidates read.
-  - **Hashtag discovery:** tgmon's `discover` on 13 of the block's campaign hashtags
-    returned 26 channels. 15 were already in the project, **both opponents among them**;
+  - **Hashtag discovery:** Telegram's hashtag search on 13 of the block's campaign hashtags
+    returned 26 channels. 15 were already in the panel, **both opponents among them**;
     one had already been rejected; 10 were new.
-  - **Expand:** the forward origins not yet in the project or reviewed, taken from the
-    collected events instead of tgmon's `expand`, which looks up every channel by
-    username. All 63 were forwarded only by channels admitted in the review round.
+  - **Forward expansion:** the forward origins not yet in the panel or reviewed, taken from the
+    collected forward events. All 63 were forwarded only by channels admitted in the review round.
   - No candidate of either kind was hostile.
   - The design asks for one review round per block. This round is an addition and is
     kept apart in the log and in the sensitivity check below.
@@ -97,8 +96,7 @@ The two in-scope channels of the second round:
 - **Silent:** six channels posted nothing in the block.
   - Ally: @CJSocialista, @CanadaSeQueda, @convocatoriascadiz, @mitxisantifascistas.
   - In-scope: @cuadernosdetrabajo, @ghlescorts.
-- **Private:** @elsaltomadrid (El Salto Madrid, media) returned `ChannelPrivateError`. It
-  is tagged `unreadable:b1` and has no stance.
+- **Private:** @elsaltomadrid (El Salto Madrid, media) is private and has no stance.
 - **Renamed:** no username changed. Two titles changed.
   - @malagaparavivir: "Málaga para Vivir" became "**Comité de Huelga 11N • Málaga**".
   - @acampada26s: "Acampada26s" became "Acampada 26S".
@@ -365,7 +363,7 @@ lists.
   mobilisation.
 - Media: supportive when the channel takes a position in its own words, reporting when
   it carries only headlines. Borderline: Al Mayadeen, eldiario.es, Diari La Veu, Crític.
-- Passing mentions and bare X links were read as stance `none`. The links were not
+- Passing mentions and bare X links were read as stance *none*. The links were not
   followed.
 - Several supportive stances rest on one short post: MovimientoAntirrepreMad,
   oscarreinasat, podemosparla, reinonis_vlc, sentitcritic, azadijinvalencia,
@@ -389,7 +387,7 @@ lists.
 - Housing activism not tied to the mobilisation rejected (Avlaunionhtz, colabbikestein).
 - Education-strike posts not counted as the mobilisation.
 
-**Second round (expand and hashtag discovery)**
+**Second round (forward expansion and hashtag discovery)**
 - Running it at all: the design has one review round per block. Its effect is shown
   separately in the sensitivity table.
 - Sindicat de Barri del Poble-Sec as in-scope (a neighbourhood union that stops
@@ -430,19 +428,20 @@ lists.
 - **Unidentified handles:** 160 handles with no public account were not checked further.
   27 handles of users or bots were not candidates.
 - **Hashtag search coverage:** Telegram's hashtag search returns public broadcast
-  channels only, not groups. tgmon does not record which tag found which channel.
-- **Second-round links:** the second round's expand covers forward origins only. The new
+  channels only, not groups. The search does not record which tag found which channel.
+- **Second-round links:** the second round's forward expansion covers forward origins only. The new
   channels' link targets were not reviewed.
 
 **Gaps in the data**
 - **5 October:** not collected, by design.
-- **Raw margins:** the panel's raw out-of-block events were overwritten at a re-trim
-  (their counts were recorded first).
 - **Dates:** the TSJM refusal date and the number of arrests on 12 October differ
   between sources.
 
 **Not checked**
-- **Graph files:** checked as XML with no missing nodes. They were not opened in Gephi,
-  and the dynamic timeline was not played.
 - **Colours:** the network map relies on ring position and the legend where colour pairs
   fail the all-pairs colour check.
+
+---
+
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by
+[Heurística](https://www.heuristica.barcelona/). · [Home](index.md) · [Follow-up overview](followup.md)

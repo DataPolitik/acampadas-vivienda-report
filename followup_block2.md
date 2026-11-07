@@ -111,7 +111,7 @@ of these backs the strike while disputing its co-organisers.
 - **Bultza EHM-L and Supernova** object to the strike's "réformisme".
 
 **Many channels have no stance this block.** 125 of the 265 panel channels have stance
-`none` in block 2. They include the media that passed block 1's review on Maricarmen's
+*none* in block 2. They include the media that passed block 1's review on Maricarmen's
 death: MT News, Los Sombreros Blancos and franceinfo.
 
 ### Attrition
@@ -121,7 +121,7 @@ Against block 1.
 - **Silent:** 20 channels posted nothing in the block.
   - In-scope: La PAH, PAH Catalanes, Sindicato de Vivienda de Carabanchel, Cuadernos de
     trabajo, ghlescorts.
-- **Private:** El Salto Madrid, still `ChannelPrivateError`.
+- **Private:** El Salto Madrid, still private.
 - **Renamed:** one username, @airbnbcrepa → @lecitta. Three titles: the Basque antifa
   channel added "/ FAK!"; the renames of Málaga para Vivir and Acampada26s carry over from
   block 1.
@@ -156,7 +156,7 @@ channels): 511, **73 a day** against 101 in block 1.
 - On the panel at the end of block 1: 482, 69 a day.
 - By role: 83 core, 300 ally, 119 media, 9 opponent.
 - By stance: 449 supportive, 37 reporting, 12 critical-within, 9 hostile, 4 none (the
-  last are false positives in channels read as `none`).
+  last are false positives in channels read as *none*).
 - Peaks on 21 October (113) and 26 October (110).
 
 The talk about the mobilisation thins while forwarding grows. Forwards are about many
@@ -381,11 +381,10 @@ the camp nor the strike.
 - **Hashtag search:** none this block. The block's review used the graph and handle
   probing only.
 
-**Data notes**
-- **Block 1 dates in the event files:** the block-2 scans added 46 events dated in
-  block 1. They come from the one-day margin and from channels admitted in block 2.
-  Block 1's snapshot and figures are not affected; the dynamic graph includes them.
-
 **Not checked**
-- **Graph files:** checked as XML only, not opened in Gephi.
 - **Network maps:** their layout varies slightly between renders.
+
+---
+
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by
+[Heurística](https://www.heuristica.barcelona/). · [Home](index.md) · [Follow-up overview](followup.md)

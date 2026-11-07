@@ -39,6 +39,10 @@ Every review decision, added or not, is in the [follow-up review log](followup_r
 - **Fixed days.** Blocks run from midnight to midnight, Madrid time. **5 October is a
   gap:** the first study's collection ended on 5 October at 10:54 UTC and the follow-up
   starts on 6 October.
+- **Agent-assisted work.** Collection, classification and analysis were carried out by
+  an AI agent following a written protocol, with the team setting the protocol, taking
+  the decisions that changed the sample or the classification, and reviewing the
+  results.
 - **Search terms per block.** The words that mark a post as being about the mobilisation
   are revised and tested in every block, because the vocabulary moves: from the camps to
   Maricarmen's death, the decrees and the strike.
@@ -120,3 +124,8 @@ the whole sample in the first study, and stance was not recorded.
   alternatives.
 - **Context** comes from the press, with disagreements between sources noted in each
   block.
+
+---
+
+A [DataPolitik](https://www.heuristica.barcelona/datapolitik/) study by
+[Heurística](https://www.heuristica.barcelona/). · [Home](index.md) · [Follow-up overview](followup.md)
