@@ -80,6 +80,12 @@ Every decision, added or not, is in the [review log](followup_review_log.csv) (b
 - Seven candidates were private.
 - No candidate was hostile.
 
+> **Revised rule (10 November 2026).** Here *critical-within* covers channels that back
+> the strike while disputing CCOO and UGT or its strategy. The rule was later revised:
+> such channels count as supportive, with the critique recorded separately, and only
+> channels that reject the strike itself are *critical of the strike*. See the
+> [follow-up overview](followup.md). This report is kept as published.
+
 **Panel after block 2 (281 channels), by role and block-2 stance**
 
 | Role | supportive | critical-within | reporting | hostile | none | not readable | total |

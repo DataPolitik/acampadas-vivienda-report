@@ -34,9 +34,15 @@ revisión del seguimiento (CSV, en inglés)](../followup_review_log.csv).
   300 veces en el bloque). El bloque 1 tuvo una ronda adicional de expansión por
   reenvíos y de búsqueda por hashtags.
 - **Postura, bloque a bloque.** Cada canal recibe una postura para cada bloque, a partir
-  del texto completo de sus publicaciones: de apoyo; crítica desde dentro (apoya la
-  movilización pero cuestiona a sus convocantes o su estrategia); hostil; informativa; o
-  ninguna.
+  del texto completo de sus publicaciones: de apoyo; crítica con la huelga (comparte los
+  objetivos del movimiento pero rechaza o desdeña la propia huelga del 11 de noviembre);
+  hostil; informativa; o ninguna. Aparte, se registra qué critica cada canal, en
+  publicaciones propias o en reenvíos: las direcciones de CCOO y UGT, la estrategia de la
+  huelga u otras organizaciones del movimiento. *Regla revisada el 10 de noviembre de
+  2026:* hasta entonces, los canales que apoyaban la huelga mientras cuestionaban a CCOO y
+  UGT o su estrategia se clasificaban como «crítica desde dentro»; ahora cuentan como de
+  apoyo, con la crítica registrada. Los informes de bloque mantienen la etiqueta
+  anterior.
 - **Opositores.** Un canal cuyas publicaciones sobre la movilización son hostiles se
   etiqueta como *opositor*, sea cual sea su tipo. Los opositores se analizan, de modo que
   se ven sus vínculos con el resto, pero los canales que reenvían no se revisan salvo que
@@ -67,7 +73,8 @@ revisión del seguimiento (CSV, en inglés)](../followup_review_log.csv).
 | Publicaciones sobre la movilización al día, todos los canales | — | 101 | 73 | 76 | 166 |
 | Canales que reenvían al Sindicato de Inquilinas de Madrid | 14 | 10 | 1 | 2 | 5 |
 | Canales que reenvían el canal del comité de huelga de Málaga | 3 | 3 | 3 | 4 | 4 |
-| Canales con crítica desde dentro | — | 4 | 5 | 13 | 8 |
+| Canales que critican a las direcciones de CCOO y UGT (publicaciones propias o reenvíos) | — | 7 | 5 | 19 | 11 |
+| Canales críticos con la propia huelga | — | 2 | 1 | 1 | 1 |
 | Canales opositores | — | 2 | 2 | 2 | 3 |
 | Parte de los reenvíos de los cinco mayores reenviadores | 60 % | 51,1 % | 48,5 % | 46,5 % | 42,1 % |
 | Comunidades (modularidad) | 14 (0,60) | 13 (0,698) | 18 (0,735) | 19 (0,736) | 23 (0,744) |
@@ -77,7 +84,9 @@ revisión del seguimiento (CSV, en inglés)](../followup_review_log.csv).
 de toda la muestra ni se registró la postura. En el bloque 4 la lista de términos se
 amplió, así que su recuento de publicaciones sobre la movilización no es estrictamente
 comparable, y las publicaciones del 7–9 de noviembre se leyeron con menos profundidad
-para la postura (véase el informe del bloque).
+para la postura (véase el informe del bloque). Los recuentos de crítica siguen la regla
+revisada el 10 de noviembre de 2026; los reenvíos se encontraron leyendo las publicaciones
+que nombran a CCOO, UGT o las direcciones sindicales.
 
 ## Principales resultados hasta ahora
 
@@ -92,15 +101,16 @@ para la postura (véase el informe del bloque).
    publicaciones de canales de vivienda en el bloque 2, 128 de 176 en el bloque 3 y 132 en
    el bloque 4. Sus publicaciones las reenvían muchas veces los mismos tres o cuatro
    canales: volumen sin amplitud.
-3. **La movilización pasa de las acampadas a la huelga, y aparece la disidencia
-   interna.** Las publicaciones de los bloques 2 a 4 tratan casi todas de construir la
+3. **La movilización pasa de las acampadas a la huelga, y quienes la apoyan discuten
+   quién la dirige.** Las publicaciones de los bloques 2 a 4 tratan casi todas de construir la
    huelga del 11 de noviembre, y en el bloque 4, la semana anterior, las publicaciones
    sobre la movilización se duplican con creces (1.163 frente a 532, con una lista de
-   términos más amplia). Los canales que apoyan la huelga mientras cuestionan el papel de
-   CCOO y UGT, o el alcance de la huelga, pasan de 5 en el bloque 2 a 13 en el bloque 3
-   (entre ellos, el sindicato de vivienda de Granada y una carta abierta de los
-   sindicatos alternativos de Madrid) y son 8 en el bloque 4, todos contra el papel de
-   CCOO y UGT.
+   términos más amplia). Los canales que critican a las direcciones de CCOO y UGT, en
+   publicaciones propias o en reenvíos, son 7, 5, 19 y 11 en los bloques 1 a 4. Casi
+   todos apoyan la huelga, y varios pertenecen a organizaciones que firmaron la
+   convocatoria, sobre todo CGT, cuya federación de Madrid envió una carta abierta a CCOO
+   y UGT; el sindicato de vivienda de Granada convoca su propia manifestación. Los canales
+   que rechazan la propia huelga siguen siendo marginales: uno o dos por bloque.
 4. **Los grupos territoriales apenas se reenvían entre sí.** Hasta el bloque 3, todos los
    reenvíos entre canales de vivienda quedan dentro de Madrid, Barcelona, València o
    Málaga. El primer vínculo entre territorios aparece en el bloque 3, y es una mención:

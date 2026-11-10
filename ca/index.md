@@ -47,9 +47,10 @@ revisions i els canvis d'interpretació.
 2. **El canal del comitè de vaga de Màlaga concentra els reenviaments de contingut
    d'habitatge** des del bloc 2, però a través dels mateixos tres o quatre canals: volum
    sense amplitud.
-3. **La mobilització passa de les acampades a la vaga de l'11 de novembre,** i els canals
-   que donen suport a la vaga alhora que qüestionen els convocants passen de 5 a 13 en una
-   setmana, i són 8 al bloc 4, la setmana anterior a la vaga.
+3. **La mobilització passa de les acampades a la vaga de l'11 de novembre,** i qui hi
+   dona suport discuteix qui la dirigeix: els canals que critiquen les direccions de CCOO i
+   UGT passen de 5 a 19 en una setmana i són 11 al bloc 4, la setmana anterior a la vaga,
+   gairebé tots a favor de la vaga. El rebuig de la mateixa vaga continua sent marginal.
 4. **Els grups territorials d'habitatge gairebé no es reenvien entre ells**: el primer
    vincle entre territoris, al bloc 3, és un comunicat conjunt de les acampades després de
    l'accident ferroviari d'Urda, i al bloc 4 el Sindicat de Llogateres de Barcelona

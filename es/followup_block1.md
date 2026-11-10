@@ -68,6 +68,13 @@ canal, están en el [registro de revisión](../followup_review_log.csv) (bloque 
   - El diseño prevé una ronda de revisión por bloque. Esta ronda es un añadido y se
     mantiene aparte en el registro y en la prueba de sensibilidad de más abajo.
 
+> **Regla revisada (10 de noviembre de 2026).** Aquí *crítica desde dentro* abarca los
+> canales que apoyan la huelga mientras cuestionan a CCOO y UGT o su estrategia. La
+> regla se revisó después: esos canales cuentan como de apoyo, con la crítica
+> registrada aparte, y solo los que rechazan la propia huelga son *críticos con la
+> huelga*. Véase la [visión general del seguimiento](followup.md). Este informe se
+> mantiene tal como se publicó.
+
 **Panel tras el bloque 1 (265 canales), por papel y postura en el bloque 1.** Entre
 paréntesis, los canales añadidos en el bloque 1 (ronda de revisión + segunda ronda).
 

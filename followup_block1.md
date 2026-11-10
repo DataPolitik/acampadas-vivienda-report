@@ -58,6 +58,12 @@ decision, added or not, is in the [review log](followup_review_log.csv) (block 1
   - The design asks for one review round per block. This round is an addition and is
     kept apart in the log and in the sensitivity check below.
 
+> **Revised rule (10 November 2026).** Here *critical-within* covers channels that back
+> the strike while disputing CCOO and UGT or its strategy. The rule was later revised:
+> such channels count as supportive, with the critique recorded separately, and only
+> channels that reject the strike itself are *critical of the strike*. See the
+> [follow-up overview](followup.md). This report is kept as published.
+
 **Panel after block 1 (265 channels), by role and block-1 stance.** Numbers in brackets
 are the channels added in block 1 (review round + second round).
 

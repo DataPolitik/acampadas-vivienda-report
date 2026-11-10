@@ -85,6 +85,13 @@ revisió](../followup_review_log.csv) (bloc 3).
 de l'Asamblea de Vivienda de Sevilla i el grup de l'acampada de València). Cap candidat no
 era hostil.
 
+> **Regla revisada (10 de novembre del 2026).** Aquí *crítica des de dins* inclou els
+> canals que donen suport a la vaga alhora que qüestionen CCOO i UGT o la seva
+> estratègia. La regla es va revisar després: aquests canals compten com a de suport,
+> amb la crítica registrada a part, i només els que rebutgen la mateixa vaga són
+> *crítics amb la vaga*. Vegeu la [visió general del seguiment](followup.md).
+> Aquest informe es manté tal com es va publicar.
+
 **Panell després del bloc 3 (297 canals), per paper i postura al bloc 3**
 
 | Paper | de suport | crítica des de dins | informativa | hostil | cap | no llegible | total |

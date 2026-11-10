@@ -131,6 +131,13 @@ sobre la mobilització (IAC, Samidoun, Regularización Ya, La Maliciosa).
 
 ### Postura del panell
 
+> **Regla revisada (10 de novembre del 2026).** Aquí *crítica des de dins* inclou els
+> canals que donen suport a la vaga alhora que qüestionen CCOO i UGT o la seva
+> estratègia. La regla es va revisar després: aquests canals compten com a de suport,
+> amb la crítica registrada a part, i només els que rebutgen la mateixa vaga són
+> *crítics amb la vaga*. Vegeu la [visió general del seguiment](followup.md).
+> Aquest informe es manté tal com es va publicar.
+
 339 canals (els 14 canals admesos a l'execució de la setmana completa porten la postura
 de la seva revisió):
 

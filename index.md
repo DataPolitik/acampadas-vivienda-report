@@ -43,9 +43,10 @@ changes in interpretation.
    death, then by 1, 2 and 5 in blocks 2 to 4.
 2. **Málaga's strike committee channel carries the forwarding of housing content** from
    block 2, but through the same three or four channels: volume without breadth.
-3. **The mobilisation turns from the camps to the 11 November strike,** and channels that
-   back the strike while disputing its organisers grow from 5 to 13 in a week;
-   in block 4, the week before the strike, they are 8.
+3. **The mobilisation turns from the camps to the 11 November strike,** and its
+   supporters argue about who leads it: channels criticising CCOO and UGT's leaderships
+   rise from 5 to 19 in a week and are 11 in block 4, the week before the strike, almost
+   all of them backing the strike. Rejection of the strike itself stays marginal.
 4. **Territorial housing clusters barely forward each other**: the first tie across
    territories, in block 3, is a joint statement by the camps after the Urda rail crash,
    and in block 4 Barcelona's tenants' union forwards València's.

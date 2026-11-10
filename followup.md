@@ -32,8 +32,14 @@ Every review decision, added or not, is in the [follow-up review log](followup_r
   own about the mobilisation in the block (three if it posts more than 300 times in the
   block). Block 1 had an additional round of forward expansion and hashtag discovery.
 - **Stance, block by block.** Every channel gets a stance for each block, from the full
-  text of its posts: supportive; critical from within (backs the mobilisation but
-  disputes its organisers or strategy); hostile; reporting; or none.
+  text of its posts: supportive; critical of the strike (shares the movement's aims but
+  rejects or belittles the 11 November strike itself); hostile; reporting; or none.
+  Separately, the block records what a channel criticises, in its own posts or in
+  relays: CCOO and UGT's leaderships, the strike's strategy, or other organisations of
+  the movement. *Rule revised on 10 November 2026:* until then, channels that backed the
+  strike while disputing CCOO and UGT or its strategy were classed "critical from
+  within"; they now count as supportive, with the critique recorded. The block reports
+  keep the earlier label.
 - **Opponents.** A channel whose posts about the mobilisation are hostile is tagged
   *opponent*, whatever kind of channel it is. Opponents are scanned, so their ties to the
   rest are seen, but the channels they forward are not reviewed unless someone else also
@@ -62,7 +68,8 @@ Every review decision, added or not, is in the [follow-up review log](followup_r
 | Posts about the mobilisation a day, all channels | — | 101 | 73 | 76 | 166 |
 | Channels forwarding the Sindicato de Inquilinas de Madrid | 14 | 10 | 1 | 2 | 5 |
 | Channels forwarding Málaga's strike committee channel | 3 | 3 | 3 | 4 | 4 |
-| Channels critical from within | — | 4 | 5 | 13 | 8 |
+| Channels criticising CCOO and UGT's leaderships (own posts or relays) | — | 7 | 5 | 19 | 11 |
+| Channels critical of the strike itself | — | 2 | 1 | 1 | 1 |
 | Opponent channels | — | 2 | 2 | 2 | 3 |
 | Share of forwards by the top five forwarders | 60 % | 51.1 % | 48.5 % | 46.5 % | 42.1 % |
 | Communities (modularity) | 14 (0.60) | 13 (0.698) | 18 (0.735) | 19 (0.736) | 23 (0.744) |
@@ -72,7 +79,8 @@ Every review decision, added or not, is in the [follow-up review log](followup_r
 the whole sample in the first study, and stance was not recorded. In block 4 the term
 list was widened, so its count of posts about the mobilisation is not strictly
 comparable, and posts of 7–9 November were read less deeply for stance (see the block's
-report).
+report). Critique counts follow the rule revised on 10 November 2026; relays were found by
+reading the posts that name CCOO, UGT or union leaderships.
 
 ## Main findings so far
 
@@ -86,13 +94,15 @@ report).
    housing channels' posts in block 2, 128 of 176 in block 3 and 132 in block 4. Its
    posts are forwarded by the same three or four channels many times each: volume
    without breadth.
-3. **The mobilisation turns from the camps to the strike, and dissent emerges inside
-   it.** Posts in blocks 2 to 4 are almost all about building the 11 November strike, and
+3. **The mobilisation turns from the camps to the strike, and the strike's supporters
+   argue about who leads it.** Posts in blocks 2 to 4 are almost all about building the 11 November strike, and
    in block 4, the week before it, posts about the mobilisation more than double (1,163
-   against 532, with a wider term list). Channels that back the strike while disputing
-   the role of CCOO and UGT, or the strike's scope, go from 5 in block 2 to 13 in block 3,
-   among them Granada's housing union and an open letter of Madrid's alternative unions,
-   and number 8 in block 4, all disputing CCOO and UGT.
+   against 532, with a wider term list). Channels criticising CCOO and UGT's leaderships,
+   in their own posts or in relays, number 7, 5, 19 and 11 in blocks 1 to 4. Almost all
+   back the strike, and several belong to organisations that signed the call, above all
+   CGT, whose Madrid federation sent an open letter to CCOO and UGT; Granada's housing
+   union calls its own march. Channels that reject the strike itself stay marginal: one or
+   two per block.
 4. **Territorial clusters barely forward each other.** Up to block 3, every forward
    between housing channels stays within Madrid, Barcelona, València or Málaga. The first
    tie across territories appears in block 3, and it is a mention: a joint statement by

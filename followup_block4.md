@@ -113,6 +113,12 @@ mobilisation (IAC, Samidoun, Regularización Ya, La Maliciosa).
 
 ### Stance of the panel
 
+> **Revised rule (10 November 2026).** Here *critical-within* covers channels that back
+> the strike while disputing CCOO and UGT or its strategy. The rule was later revised:
+> such channels count as supportive, with the critique recorded separately, and only
+> channels that reject the strike itself are *critical of the strike*. See the
+> [follow-up overview](followup.md). This report is kept as published.
+
 339 channels (the 14 channels admitted in the full-week run carry their review stance):
 
 | Role | supportive | critical-within | reporting | hostile | none | not readable |

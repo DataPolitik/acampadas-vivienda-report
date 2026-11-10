@@ -48,9 +48,11 @@ revisiones y los cambios de interpretación.
 2. **El canal del comité de huelga de Málaga concentra los reenvíos de contenido de
    vivienda** desde el bloque 2, pero a través de los mismos tres o cuatro canales:
    volumen sin amplitud.
-3. **La movilización pasa de las acampadas a la huelga del 11 de noviembre,** y los
-   canales que apoyan la huelga mientras cuestionan a sus convocantes pasan de 5 a 13 en
-   una semana, y son 8 en el bloque 4, la semana anterior a la huelga.
+3. **La movilización pasa de las acampadas a la huelga del 11 de noviembre,** y quienes
+   la apoyan discuten quién la dirige: los canales que critican a las direcciones de CCOO
+   y UGT pasan de 5 a 19 en una semana y son 11 en el bloque 4, la semana anterior a la
+   huelga, casi todos a favor de la huelga. El rechazo de la propia huelga sigue siendo
+   marginal.
 4. **Los grupos territoriales de vivienda apenas se reenvían entre sí**: el primer
    vínculo entre territorios, en el bloque 3, es un comunicado conjunto de las acampadas
    tras el accidente ferroviario de Urda, y en el bloque 4 el Sindicat de Llogateres de

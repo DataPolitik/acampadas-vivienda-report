@@ -84,6 +84,13 @@ revisión](../followup_review_log.csv) (bloque 3).
 canal de la Asamblea de Vivienda de Sevilla y el grupo de la acampada de València).
 Ningún candidato era hostil.
 
+> **Regla revisada (10 de noviembre de 2026).** Aquí *crítica desde dentro* abarca los
+> canales que apoyan la huelga mientras cuestionan a CCOO y UGT o su estrategia. La
+> regla se revisó después: esos canales cuentan como de apoyo, con la crítica
+> registrada aparte, y solo los que rechazan la propia huelga son *críticos con la
+> huelga*. Véase la [visión general del seguimiento](followup.md). Este informe se
+> mantiene tal como se publicó.
+
 **Panel tras el bloque 3 (297 canales), por papel y postura en el bloque 3**
 
 | Papel | de apoyo | crítica desde dentro | informativa | hostil | ninguna | no legible | total |

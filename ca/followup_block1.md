@@ -68,6 +68,13 @@ revisió](../followup_review_log.csv) (bloc 1, columna `round`).
   - El disseny preveu una ronda de revisió per bloc. Aquesta ronda és un afegit i es manté
     a part al registre i a la prova de sensibilitat de més avall.
 
+> **Regla revisada (10 de novembre del 2026).** Aquí *crítica des de dins* inclou els
+> canals que donen suport a la vaga alhora que qüestionen CCOO i UGT o la seva
+> estratègia. La regla es va revisar després: aquests canals compten com a de suport,
+> amb la crítica registrada a part, i només els que rebutgen la mateixa vaga són
+> *crítics amb la vaga*. Vegeu la [visió general del seguiment](followup.md).
+> Aquest informe es manté tal com es va publicar.
+
 **Panell després del bloc 1 (265 canals), per paper i postura al bloc 1.** Entre
 parèntesis, els canals afegits al bloc 1 (ronda de revisió + segona ronda).
 

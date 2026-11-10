@@ -34,9 +34,15 @@ Totes les decisions de revisió, tant si s'hi va afegir el canal com si no, són
   bloc). El bloc 1 va tenir una ronda addicional d'expansió per reenviaments i de cerca
   per etiquetes (hashtags).
 - **Postura, bloc a bloc.** Cada canal rep una postura per a cada bloc, a partir del text
-  complet de les seves publicacions: de suport; crítica des de dins (dona suport a la
-  mobilització però en qüestiona els convocants o l'estratègia); hostil; informativa; o
-  cap.
+  complet de les seves publicacions: de suport; crítica amb la vaga (comparteix els
+  objectius del moviment però rebutja o menysté la mateixa vaga de l'11 de novembre);
+  hostil; informativa; o cap. A part, es registra què critica cada canal, en publicacions
+  pròpies o en reenviaments: les direccions de CCOO i UGT, l'estratègia de la vaga o
+  altres organitzacions del moviment. *Regla revisada el 10 de novembre del 2026:* fins
+  aleshores, els canals que donaven suport a la vaga alhora que qüestionaven CCOO i UGT o
+  la seva estratègia es classificaven com a «crítica des de dins»; ara compten com a de
+  suport, amb la crítica registrada. Els informes de bloc mantenen l'etiqueta
+  anterior.
 - **Opositors.** Un canal les publicacions del qual sobre la mobilització són hostils
   s'etiqueta com a *opositor*, sigui quin sigui el seu tipus. Els opositors s'analitzen,
   de manera que se'n veuen els vincles amb la resta, però els canals que reenvien no es
@@ -67,7 +73,8 @@ Totes les decisions de revisió, tant si s'hi va afegir el canal com si no, són
 | Publicacions sobre la mobilització al dia, tots els canals | — | 101 | 73 | 76 | 166 |
 | Canals que reenvien el Sindicato de Inquilinas de Madrid | 14 | 10 | 1 | 2 | 5 |
 | Canals que reenvien el canal del comitè de vaga de Màlaga | 3 | 3 | 3 | 4 | 4 |
-| Canals amb crítica des de dins | — | 4 | 5 | 13 | 8 |
+| Canals que critiquen les direccions de CCOO i UGT (publicacions pròpies o reenviaments) | — | 7 | 5 | 19 | 11 |
+| Canals crítics amb la mateixa vaga | — | 2 | 1 | 1 | 1 |
 | Canals opositors | — | 2 | 2 | 2 | 3 |
 | Part dels reenviaments dels cinc reenviadors més grans | 60 % | 51,1 % | 48,5 % | 46,5 % | 42,1 % |
 | Comunitats (modularitat) | 14 (0,60) | 13 (0,698) | 18 (0,735) | 19 (0,736) | 23 (0,744) |
@@ -77,7 +84,9 @@ Totes les decisions de revisió, tant si s'hi va afegir el canal com si no, són
 de tota la mostra ni es va registrar la postura. Al bloc 4 la llista de termes es va
 ampliar, així que el seu recompte de publicacions sobre la mobilització no és
 estrictament comparable, i les publicacions del 7–9 de novembre es van llegir amb menys
-profunditat per a la postura (vegeu l'informe del bloc).
+profunditat per a la postura (vegeu l'informe del bloc). Els recomptes de crítica
+segueixen la regla revisada el 10 de novembre del 2026; els reenviaments es van trobar
+llegint les publicacions que anomenen CCOO, UGT o les direccions sindicals.
 
 ## Principals resultats fins ara
 
@@ -92,14 +101,16 @@ profunditat per a la postura (vegeu l'informe del bloc).
    de publicacions de canals d'habitatge al bloc 2, 128 de 176 al bloc 3 i 132 al bloc 4.
    Les seves publicacions les reenvien moltes vegades els mateixos tres o quatre canals:
    volum sense amplitud.
-3. **La mobilització passa de les acampades a la vaga, i apareix la dissidència
-   interna.** Les publicacions dels blocs 2 a 4 tracten gairebé totes de construir la vaga
+3. **La mobilització passa de les acampades a la vaga, i qui hi dona suport discuteix
+   qui la dirigeix.** Les publicacions dels blocs 2 a 4 tracten gairebé totes de construir la vaga
    de l'11 de novembre, i al bloc 4, la setmana anterior, les publicacions sobre la
    mobilització es dupliquen amb escreix (1.163 davant de 532, amb una llista de termes
-   més àmplia). Els canals que donen suport a la vaga alhora que qüestionen el paper de
-   CCOO i UGT, o l'abast de la vaga, passen de 5 al bloc 2 a 13 al bloc 3 (entre ells, el
-   sindicat d'habitatge de Granada i una carta oberta dels sindicats alternatius de
-   Madrid) i són 8 al bloc 4, tots contra el paper de CCOO i UGT.
+   més àmplia). Els canals que critiquen les direccions de CCOO i UGT, en publicacions
+   pròpies o en reenviaments, són 7, 5, 19 i 11 als blocs 1 a 4. Gairebé tots donen
+   suport a la vaga, i diversos pertanyen a organitzacions que van signar la convocatòria,
+   sobretot la CGT, la federació de Madrid de la qual va enviar una carta oberta a CCOO i
+   UGT; el sindicat d'habitatge de Granada convoca la seva pròpia manifestació. Els canals
+   que rebutgen la mateixa vaga continuen sent marginals: un o dos per bloc.
 4. **Els grups territorials gairebé no es reenvien entre ells.** Fins al bloc 3, tots els
    reenviaments entre canals d'habitatge queden dins de Madrid, Barcelona, València o
    Màlaga. El primer vincle entre territoris apareix al bloc 3, i és una menció: un
