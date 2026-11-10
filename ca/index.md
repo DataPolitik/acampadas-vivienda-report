@@ -51,10 +51,14 @@ revisions i els canvis d'interpretació.
    dona suport discuteix qui la dirigeix: els canals que critiquen les direccions de CCOO i
    UGT passen de 5 a 19 en una setmana i són 11 al bloc 4, la setmana anterior a la vaga,
    gairebé tots a favor de la vaga. El rebuig de la mateixa vaga continua sent marginal.
-4. **Els grups territorials d'habitatge gairebé no es reenvien entre ells**: el primer
-   vincle entre territoris, al bloc 3, és un comunicat conjunt de les acampades després de
-   l'accident ferroviari d'Urda, i al bloc 4 el Sindicat de Llogateres de Barcelona
-   reenvia Llogateres València.
+4. **Els grups territorials es connecten per sota dels seus canals d'habitatge.** Els
+   canals d'habitatge gairebé no es reenvien entre territoris: el primer vincle, al bloc 3,
+   és un comunicat conjunt de les acampades després de l'accident ferroviari d'Urda. Però
+   entre el 7 i l'11 % dels vincles entre canals de territori conegut creuen territoris,
+   sostinguts per col·lectius anarquistes, antirepressius i de solidaritat amb Palestina,
+   mitjans en català i organitzacions presents a diversos territoris com la CGT, els
+   canals de Madrid i de Catalunya de la qual es connecten a través dels seus canals
+   estatals.
 5. **Els canals de les mateixes acampades gairebé no es difonen**, llevat del de Sol el
    dia del desallotjament, al bloc 4.
 6. **Els opositors continuen aïllats:** dos mitjans hostils que cap altre canal no

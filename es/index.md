@@ -53,10 +53,14 @@ revisiones y los cambios de interpretación.
    y UGT pasan de 5 a 19 en una semana y son 11 en el bloque 4, la semana anterior a la
    huelga, casi todos a favor de la huelga. El rechazo de la propia huelga sigue siendo
    marginal.
-4. **Los grupos territoriales de vivienda apenas se reenvían entre sí**: el primer
-   vínculo entre territorios, en el bloque 3, es un comunicado conjunto de las acampadas
-   tras el accidente ferroviario de Urda, y en el bloque 4 el Sindicat de Llogateres de
-   Barcelona reenvía a Llogateres València.
+4. **Los grupos territoriales se conectan por debajo de sus canales de vivienda.** Los
+   canales de vivienda apenas se reenvían entre territorios: el primer vínculo, en el
+   bloque 3, es un comunicado conjunto de las acampadas tras el accidente ferroviario de
+   Urda. Pero entre el 7 y el 11 % de los vínculos entre canales de territorio conocido
+   cruzan territorios, sostenidos por colectivos anarquistas, antirrepresivos y de
+   solidaridad con Palestina, medios en catalán y organizaciones presentes en varios
+   territorios como CGT, cuyos canales de Madrid y de Cataluña se conectan a través de sus
+   canales estatales.
 5. **Los canales de las propias acampadas apenas se difunden**, salvo el de Sol el día
    de su desalojo, en el bloque 4.
 6. **Los opositores siguen aislados:** dos medios hostiles que ningún otro canal reenvía

@@ -47,9 +47,13 @@ changes in interpretation.
    supporters argue about who leads it: channels criticising CCOO and UGT's leaderships
    rise from 5 to 19 in a week and are 11 in block 4, the week before the strike, almost
    all of them backing the strike. Rejection of the strike itself stays marginal.
-4. **Territorial housing clusters barely forward each other**: the first tie across
-   territories, in block 3, is a joint statement by the camps after the Urda rail crash,
-   and in block 4 Barcelona's tenants' union forwards València's.
+4. **Territorial clusters are linked below their housing channels.** Housing channels
+   barely forward each other across territories: the first tie, in block 3, is a joint
+   statement by the camps after the Urda rail crash. But 7–11 % of the ties among
+   channels with a known territory cross territories, carried by anarchist,
+   anti-repression and Palestine solidarity collectives, Catalan-language media, and
+   organisations present in several territories such as CGT, whose Madrid and Catalan
+   channels connect through its state-wide channels.
 5. **The camps' own channels are barely relayed**, except the Sol camp's on the day of its
    eviction, in block 4.
 6. **The opponents stay closed off:** two hostile media channels that no other channel

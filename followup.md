@@ -103,12 +103,30 @@ reading the posts that name CCOO, UGT or union leaderships.
    CGT, whose Madrid federation sent an open letter to CCOO and UGT; Granada's housing
    union calls its own march. Channels that reject the strike itself stay marginal: one or
    two per block.
-4. **Territorial clusters barely forward each other.** Up to block 3, every forward
-   between housing channels stays within Madrid, Barcelona, València or Málaga. The first
-   tie across territories appears in block 3, and it is a mention: a joint statement by
-   the camps of several cities after the Urda rail crash. In block 4 two ties cross
-   territories: the Sindicat de Llogateres (Barcelona) forwards Llogateres València, and
-   the Sol camp's channel links the Barcelona camp's.
+4. **Territorial clusters are linked below their housing channels.** Up to block 3,
+   every forward between housing channels stays within Madrid, Barcelona, València or
+   Málaga. The first tie across territories appears in block 3, and it is a mention: a
+   joint statement by the camps of several cities after the Urda rail crash. In block 4
+   two ties cross territories: the Sindicat de Llogateres (Barcelona) forwards Llogateres
+   València, and the Sol camp's channel links the Barcelona camp's. The other channels of
+   each cluster are less closed:
+    - 7–11 % of the ties among channels with a known territory cross territories in each
+      block. Anarchist and anti-repression collectives, Palestine solidarity groups and
+      Catalan-language media (between Catalonia and València) carry most of them.
+    - 40–50 % of the other territorial channels have a tie to a state-wide channel, against
+      a fifth to a third of the housing channels.
+    - Organisations present in several territories link them through their state-wide
+      channels, not directly. CGT's Madrid and Catalan channels both connect to its
+      confederal channels; in blocks 1 and 3 the Madrid and Barcelona housing channels are
+      three steps apart through CGT channels alone.
+    - Communities stay mostly territorial: about four in five channels sit in a community
+      led by their own territory. Mixing is concentrated in the anarchist and antifascist
+      community, in the CGT community of blocks 2 and 3 (with both camps in block 3), and
+      between Catalonia and València.
+
+    Territories were assigned from each channel's name, description and the places named
+    in its posts; some assignments are uncertain.
+
 5. **The camps' own channels are relayed little, except at the Sol eviction.** The Sol
    camp's channel posted 50, 32, 11 and 33 times in the four blocks and was forwarded 3,
    7, 2 and 9 times; in block 4 it was relayed by 7 channels, more than any other housing

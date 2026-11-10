@@ -111,13 +111,31 @@ llegint les publicacions que anomenen CCOO, UGT o les direccions sindicals.
    sobretot la CGT, la federació de Madrid de la qual va enviar una carta oberta a CCOO i
    UGT; el sindicat d'habitatge de Granada convoca la seva pròpia manifestació. Els canals
    que rebutgen la mateixa vaga continuen sent marginals: un o dos per bloc.
-4. **Els grups territorials gairebé no es reenvien entre ells.** Fins al bloc 3, tots els
-   reenviaments entre canals d'habitatge queden dins de Madrid, Barcelona, València o
-   Màlaga. El primer vincle entre territoris apareix al bloc 3, i és una menció: un
-   comunicat conjunt de les acampades de diverses ciutats després de l'accident
-   ferroviari d'Urda. Al bloc 4 dos vincles creuen territoris: el Sindicat de Llogateres
-   (Barcelona) reenvia Llogateres València, i el canal de l'acampada de Sol enllaça el de
-   l'acampada de Barcelona.
+4. **Els grups territorials es connecten per sota dels seus canals d'habitatge.** Fins al
+   bloc 3, tots els reenviaments entre canals d'habitatge queden dins de Madrid,
+   Barcelona, València o Màlaga. El primer vincle entre territoris apareix al bloc 3, i és
+   una menció: un comunicat conjunt de les acampades de diverses ciutats després de
+   l'accident ferroviari d'Urda. Al bloc 4 dos vincles creuen territoris: el Sindicat de
+   Llogateres (Barcelona) reenvia Llogateres València, i el canal de l'acampada de Sol
+   enllaça el de l'acampada de Barcelona. La resta de canals de cada grup són menys
+   tancats:
+    - Entre el 7 i l'11 % dels vincles entre canals de territori conegut creuen territoris
+      a cada bloc. La majoria els sostenen col·lectius anarquistes i antirepressius, grups
+      de solidaritat amb Palestina i mitjans en català (entre Catalunya i València).
+    - Entre el 40 i el 50 % de la resta de canals territorials tenen un vincle amb un canal
+      estatal, davant d'entre un cinquè i un terç dels canals d'habitatge.
+    - Les organitzacions presents a diversos territoris els uneixen a través dels seus
+      canals estatals, no directament. Els canals de la CGT de Madrid i de Catalunya es
+      connecten amb els seus canals confederals; als blocs 1 i 3, els canals d'habitatge de
+      Madrid i de Barcelona queden a tres passos només a través de canals de la CGT.
+    - Les comunitats continuen sent sobretot territorials: uns quatre de cada cinc canals
+      són en una comunitat encapçalada pel seu propi territori. La barreja es concentra a
+      la comunitat anarquista i antifeixista, a la comunitat de la CGT dels blocs 2 i 3
+      (amb les dues acampades al bloc 3) i entre Catalunya i València.
+
+    Els territoris es van assignar a partir del nom, la descripció i els llocs esmentats a
+    les publicacions de cada canal; algunes assignacions són incertes.
+
 5. **Els canals de les mateixes acampades es difonen poc, llevat del desallotjament de
    Sol.** El canal de l'acampada de Sol va publicar 50, 32, 11 i 33 vegades als quatre
    blocs i va ser reenviat 3, 7, 2 i 9 vegades; al bloc 4 el van difondre 7 canals, més

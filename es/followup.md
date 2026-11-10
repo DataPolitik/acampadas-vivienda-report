@@ -111,13 +111,32 @@ que nombran a CCOO, UGT o las direcciones sindicales.
    convocatoria, sobre todo CGT, cuya federación de Madrid envió una carta abierta a CCOO
    y UGT; el sindicato de vivienda de Granada convoca su propia manifestación. Los canales
    que rechazan la propia huelga siguen siendo marginales: uno o dos por bloque.
-4. **Los grupos territoriales apenas se reenvían entre sí.** Hasta el bloque 3, todos los
-   reenvíos entre canales de vivienda quedan dentro de Madrid, Barcelona, València o
-   Málaga. El primer vínculo entre territorios aparece en el bloque 3, y es una mención:
-   un comunicado conjunto de las acampadas de varias ciudades tras el accidente
-   ferroviario de Urda. En el bloque 4 dos vínculos cruzan territorios: el Sindicat de
-   Llogateres (Barcelona) reenvía a Llogateres València, y el canal de la acampada de Sol
-   enlaza el de la acampada de Barcelona.
+4. **Los grupos territoriales se conectan por debajo de sus canales de vivienda.** Hasta
+   el bloque 3, todos los reenvíos entre canales de vivienda quedan dentro de Madrid,
+   Barcelona, València o Málaga. El primer vínculo entre territorios aparece en el bloque
+   3, y es una mención: un comunicado conjunto de las acampadas de varias ciudades tras el
+   accidente ferroviario de Urda. En el bloque 4 dos vínculos cruzan territorios: el
+   Sindicat de Llogateres (Barcelona) reenvía a Llogateres València, y el canal de la
+   acampada de Sol enlaza el de la acampada de Barcelona. Los demás canales de cada grupo
+   están menos cerrados:
+    - Entre el 7 y el 11 % de los vínculos entre canales de territorio conocido cruzan
+      territorios en cada bloque. La mayoría los sostienen colectivos anarquistas y
+      antirrepresivos, grupos de solidaridad con Palestina y medios en catalán (entre
+      Cataluña y València).
+    - Entre el 40 y el 50 % de los demás canales territoriales tienen un vínculo con un
+      canal estatal, frente a entre un quinto y un tercio de los canales de vivienda.
+    - Las organizaciones presentes en varios territorios los unen a través de sus canales
+      estatales, no directamente. Los canales de CGT de Madrid y de Cataluña se conectan
+      con sus canales confederales; en los bloques 1 y 3, los canales de vivienda de Madrid
+      y de Barcelona quedan a tres pasos solo a través de canales de CGT.
+    - Las comunidades siguen siendo sobre todo territoriales: unos cuatro de cada cinco
+      canales están en una comunidad encabezada por su propio territorio. La mezcla se
+      concentra en la comunidad anarquista y antifascista, en la comunidad de CGT de los
+      bloques 2 y 3 (con las dos acampadas en el bloque 3) y entre Cataluña y València.
+
+    Los territorios se asignaron a partir del nombre, la descripción y los lugares citados
+    en las publicaciones de cada canal; algunas asignaciones son inciertas.
+
 5. **Los canales de las propias acampadas se difunden poco, salvo en el desalojo de
    Sol.** El canal de la acampada de Sol publicó 50, 32, 11 y 33 veces en los cuatro
    bloques y fue reenviado 3, 7, 2 y 9 veces; en el bloque 4 lo difundieron 7 canales,
