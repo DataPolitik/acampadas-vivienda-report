@@ -1,4 +1,4 @@
-# Seguimiento: del 6 de octubre al 2 de noviembre de 2026
+# Seguimiento: del 6 de octubre al 9 de noviembre de 2026
 
 <p class="lang" style="font-size:90%"><a href="../followup.html">English</a> · <strong>Español</strong> · <a href="../ca/followup.html">Català</a></p>
 
@@ -8,16 +8,15 @@ octubre, los sindicatos de inquilinas convocaron una huelga general por la vivie
 el 11 de noviembre y las acampadas empezaron a levantarse. Este seguimiento amplía el
 estudio en el tiempo, en bloques semanales, hasta la huelga.
 
-**Estado:** aquí se publican los bloques 1 a 3 (6 de octubre – 2 de noviembre). El
-bloque 4 (3–9 de noviembre, que incluye el desalojo de la acampada de Sol el 3 de
-noviembre) y el bloque 5 (10–16 de noviembre, la huelga) se añadirán cuando estén
-completos.
+**Estado:** aquí se publican los bloques 1 a 4 (6 de octubre – 9 de noviembre). El
+bloque 5 (10–16 de noviembre, la huelga) se añadirá cuando esté completo.
 
 | Bloque | Días (hora de Madrid) | Informe |
 |---|---|---|
 | 1 | 6–19 de octubre | [Bloque 1](followup_block1.md) |
 | 2 | 20–26 de octubre | [Bloque 2](followup_block2.md) |
 | 3 | 27 de octubre – 2 de noviembre | [Bloque 3](followup_block3.md) |
+| 4 | 3–9 de noviembre | [Bloque 4](followup_block4.md) |
 
 Todas las decisiones de revisión, se añadiera o no el canal, están en el [registro de
 revisión del seguimiento (CSV, en inglés)](../followup_review_log.csv).
@@ -55,72 +54,90 @@ revisión del seguimiento (CSV, en inglés)](../followup_review_log.csv).
 
 ## La trayectoria
 
-![Medidas clave del primer periodo al bloque 3](../figures/followup/trajectory.png)
+![Medidas clave del primer periodo al bloque 4](../figures/followup/trajectory.png)
 
 *Las figuras están en inglés.*
 
-| | Primer periodo | Bloque 1 | Bloque 2 | Bloque 3 |
-|---|---|---|---|---|
-| Días | 14 sep – 5 oct (20) | 6–19 oct (14) | 20–26 oct (7) | 27 oct – 2 nov (7) |
-| Canales en el panel al final | 167 | 265 | 281 | 297 |
-| Reenvíos al día, los 167 canales del primer estudio | 111,5 | 114,9 | 138,1 | 126,0 |
-| Reenvíos al día de publicaciones de canales de vivienda, mismos canales | 11,4 | 11,8 | 15,9 | 21,1 |
-| Publicaciones sobre la movilización al día, todos los canales | — | 101 | 73 | 76 |
-| Canales que reenvían al Sindicato de Inquilinas de Madrid | 14 | 10 | 1 | 2 |
-| Canales que reenvían el canal del comité de huelga de Málaga | 3 | 3 | 3 | 4 |
-| Canales con crítica desde dentro | — | 4 | 5 | 13 |
-| Canales opositores | — | 2 | 2 | 2 |
-| Parte de los reenvíos de los cinco mayores reenviadores | 60 % | 51,1 % | 48,5 % | 46,5 % |
-| Comunidades (modularidad) | 14 (0,60) | 13 (0,698) | 18 (0,735) | 19 (0,736) |
-| Coincidencia con las comunidades del periodo anterior (índice de Rand ajustado) | — | 0,512 | 0,586 | 0,587 |
+| | Primer periodo | Bloque 1 | Bloque 2 | Bloque 3 | Bloque 4 |
+|---|---|---|---|---|---|
+| Días | 14 sep – 5 oct (20) | 6–19 oct (14) | 20–26 oct (7) | 27 oct – 2 nov (7) | 3–9 nov (7) |
+| Canales en el panel al final | 167 | 265 | 281 | 297 | 339 |
+| Reenvíos al día, los 167 canales del primer estudio | 111,5 | 114,9 | 138,1 | 126,0 | 143,0 |
+| Reenvíos al día de publicaciones de canales de vivienda, mismos canales | 11,4 | 11,8 | 15,9 | 21,1 | 20,9 |
+| Publicaciones sobre la movilización al día, todos los canales | — | 101 | 73 | 76 | 166 |
+| Canales que reenvían al Sindicato de Inquilinas de Madrid | 14 | 10 | 1 | 2 | 5 |
+| Canales que reenvían el canal del comité de huelga de Málaga | 3 | 3 | 3 | 4 | 4 |
+| Canales con crítica desde dentro | — | 4 | 5 | 13 | 8 |
+| Canales opositores | — | 2 | 2 | 2 | 3 |
+| Parte de los reenvíos de los cinco mayores reenviadores | 60 % | 51,1 % | 48,5 % | 46,5 % | 42,1 % |
+| Comunidades (modularidad) | 14 (0,60) | 13 (0,698) | 18 (0,735) | 19 (0,736) | 23 (0,744) |
+| Coincidencia con las comunidades del periodo anterior (índice de Rand ajustado) | — | 0,512 | 0,586 | 0,587 | 0,403 |
 
 «—»: no medido en ese periodo. En el primer estudio no se descargaron las publicaciones
-de toda la muestra ni se registró la postura.
+de toda la muestra ni se registró la postura. En el bloque 4 la lista de términos se
+amplió, así que su recuento de publicaciones sobre la movilización no es estrictamente
+comparable, y las publicaciones del 7–9 de noviembre se leyeron con menos profundidad
+para la postura (véase el informe del bloque).
 
 ## Principales resultados hasta ahora
 
 1. **El sindicato de Madrid deja de ser el nodo central.** En el primer estudio, el
    Sindicato de Inquilinas de Madrid era reenviado por 14 canales, más que ningún otro
    canal de vivienda. En el bloque 1, tras la muerte de Maricarmen, por 10; en los
-   bloques 2 y 3, por 1 y 2. Publica mucho menos en su canal y, según su propia versión,
-   ya no mantiene un punto permanente en Sol.
+   bloques 2, 3 y 4, por 1, 2 y 5. Publica mucho menos en su canal y, según su propia
+   versión, ya no mantiene un punto permanente en Sol; no publicó nada sobre el desalojo
+   de la acampada el 3 de noviembre.
 2. **El canal de Málaga concentra los reenvíos de contenido de vivienda.** Málaga para
    Vivir, rebautizado «Comité de Huelga 11N · Málaga», suma 98 de los 130 reenvíos de
-   publicaciones de canales de vivienda en el bloque 2 y 128 de 176 en el bloque 3. Sus
-   publicaciones las reenvían muchas veces los mismos tres o cuatro canales: volumen sin
-   amplitud.
-3. **La movilización pasa de las acampadas a la huelga, y crece la disidencia interna.**
-   Las publicaciones de los bloques 2 y 3 tratan casi todas de construir la huelga del
-   11 de noviembre. Los canales que apoyan la huelga mientras cuestionan el papel de CCOO
-   y UGT, o el alcance de la huelga, pasan de 5 en el bloque 2 a 13 en el bloque 3; entre
-   ellos, el sindicato de vivienda de Granada y una carta abierta de los sindicatos
-   alternativos de Madrid.
-4. **Los grupos territoriales siguen sin reenviarse entre sí.** Todos los reenvíos entre
-   canales de vivienda quedan dentro de Madrid, Barcelona, València o Málaga. El primer
-   vínculo entre territorios aparece en el bloque 3, y es una mención: un comunicado
-   conjunto de las acampadas de varias ciudades tras el accidente ferroviario de Urda.
-5. **Los canales de las propias acampadas siguen casi sin difundirse.** El canal de la
-   acampada de Sol publicó 50, 32 y 11 veces en los tres bloques y fue reenviado 3, 7 y 2
-   veces; el de la acampada de Barcelona publicó 103, 24 y 19 veces y fue reenviado una
-   vez, una vez y ninguna.
+   publicaciones de canales de vivienda en el bloque 2, 128 de 176 en el bloque 3 y 132 en
+   el bloque 4. Sus publicaciones las reenvían muchas veces los mismos tres o cuatro
+   canales: volumen sin amplitud.
+3. **La movilización pasa de las acampadas a la huelga, y aparece la disidencia
+   interna.** Las publicaciones de los bloques 2 a 4 tratan casi todas de construir la
+   huelga del 11 de noviembre, y en el bloque 4, la semana anterior, las publicaciones
+   sobre la movilización se duplican con creces (1.163 frente a 532, con una lista de
+   términos más amplia). Los canales que apoyan la huelga mientras cuestionan el papel de
+   CCOO y UGT, o el alcance de la huelga, pasan de 5 en el bloque 2 a 13 en el bloque 3
+   (entre ellos, el sindicato de vivienda de Granada y una carta abierta de los
+   sindicatos alternativos de Madrid) y son 8 en el bloque 4, todos contra el papel de
+   CCOO y UGT.
+4. **Los grupos territoriales apenas se reenvían entre sí.** Hasta el bloque 3, todos los
+   reenvíos entre canales de vivienda quedan dentro de Madrid, Barcelona, València o
+   Málaga. El primer vínculo entre territorios aparece en el bloque 3, y es una mención:
+   un comunicado conjunto de las acampadas de varias ciudades tras el accidente
+   ferroviario de Urda. En el bloque 4 dos vínculos cruzan territorios: el Sindicat de
+   Llogateres (Barcelona) reenvía a Llogateres València, y el canal de la acampada de Sol
+   enlaza el de la acampada de Barcelona.
+5. **Los canales de las propias acampadas se difunden poco, salvo en el desalojo de
+   Sol.** El canal de la acampada de Sol publicó 50, 32, 11 y 33 veces en los cuatro
+   bloques y fue reenviado 3, 7, 2 y 9 veces; en el bloque 4 lo difundieron 7 canales,
+   más que a ningún otro canal de vivienda, y 8 de sus 9 reenvíos fueron el día del
+   desalojo. El de la acampada de Barcelona publicó 103, 24, 19 y 34 veces y fue
+   reenviado una vez, una vez, ninguna y 3 veces.
 6. **Los sindicatos de vivienda de Barcelona forman un grupo propio**, y en el bloque 3
    las acampadas de Sol y de Barcelona quedan en una misma comunidad con los sindicatos
-   de la CGT que difunden sus publicaciones. Los demás grupos territoriales (Madrid,
-   València, Málaga con el difusor andaluz) se mantienen desde el primer estudio.
-7. **Los opositores son una pareja cerrada.** Dos medios son hostiles en todos los
-   bloques: **Nuestra España Noticias** y **Multicanal Radio**. Multicanal Radio reenvía
-   a Nuestra España (149, 74 y 76 veces) y noticias del corazón; ningún otro canal
-   reenvía ni cita a ninguno de los dos. Su hostilidad está en sus propias
-   publicaciones, por ejemplo el titular de Nuestra España «La ridícula huelga general que
-   llega ocho años tarde» y el de Multicanal Radio «Sindicato de Inquilinas, la mano de la
-   Revolución de la Ultra-izquierda». En el bloque 3 su postura se apoya en indicios más
-   débiles (titulares adversos sin un ataque explícito); leídos como informativos, ambos
-   volverían a ser medios. En el primer estudio, Multicanal Radio era el segundo mayor
+   de la CGT que difunden sus publicaciones. En el bloque 4 cada acampada queda con su
+   ciudad: las agendas de Madrid, la CGT, la acampada de Sol y el sindicato de inquilinas
+   forman una comunidad, y la acampada, los sindicatos de vivienda y los comités de huelga
+   de Barcelona, otra. Los demás grupos territoriales (València, Málaga con el difusor
+   andaluz) se mantienen desde el primer estudio.
+7. **Los opositores siguen aislados.** Dos medios son hostiles en todos los bloques:
+   **Nuestra España Noticias** y **Multicanal Radio**. Multicanal Radio reenvía a Nuestra
+   España (149, 74, 76 y 88 veces) y noticias del corazón; ningún otro canal reenvía ni
+   cita a ninguno de los dos. Su hostilidad está en sus propias publicaciones, por
+   ejemplo el titular de Nuestra España «La ridícula huelga general que llega ocho años
+   tarde» y el de Multicanal Radio «Sindicato de Inquilinas, la mano de la Revolución de
+   la Ultra-izquierda». En los bloques 3 y 4 su postura se apoya en indicios más débiles
+   (titulares adversos y burla sin un ataque explícito); leídos como informativos, ambos
+   volverían a ser medios. En el bloque 4 se admitió una tercera opositora, el canal de
+   una autora (**Cristina Martín Jiménez**), por una publicación que se burla de la
+   ministra de Trabajo; enlaza el canal de RT y no tiene contacto sobre la movilización
+   con el resto del panel. En el primer estudio, Multicanal Radio era el segundo mayor
    reenviador, etiquetado como medio, porque no existía la categoría de opositor.
 
 ## La línea temporal continua
 
-![Reenvíos al día del 14 de septiembre al 2 de noviembre](../figures/followup/b3_fig1_timeline.png)
+![Reenvíos al día del 14 de septiembre al 9 de noviembre](../figures/followup/b4_fig1_timeline.png)
 
 ## Límites
 
@@ -140,7 +157,7 @@ de toda la muestra ni se registró la postura.
 
 **Cómo citar esta página.**
 
-<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Seguimiento: del 6 de octubre al 2 de noviembre de 2026</em>. En <em>Acampadas por la vivienda y redes de comunicación en Telegram en España, otoño de 2026</em>. Periodo de observación: 6 de octubre – 2 de noviembre de 2026. Versión del 7 de noviembre de 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/es/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/es/followup.html</a></p></div>
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Seguimiento: del 6 de octubre al 9 de noviembre de 2026</em>. En <em>Acampadas por la vivienda y redes de comunicación en Telegram en España, otoño de 2026</em>. Periodo de observación: 6 de octubre – 9 de noviembre de 2026. Versión del 10 de noviembre de 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/es/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/es/followup.html</a></p></div>
 
 Texto y figuras originales: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Uso y citación](index.md#use-and-citation)
 

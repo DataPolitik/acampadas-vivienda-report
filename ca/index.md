@@ -23,8 +23,8 @@ mencions.
 | Bloc 1 | 6–19 d'octubre | 265 | [Bloc 1](followup_block1.md) |
 | Bloc 2 | 20–26 d'octubre | 281 | [Bloc 2](followup_block2.md) |
 | Bloc 3 | 27 d'octubre – 2 de novembre | 297 | [Bloc 3](followup_block3.md) |
-| Bloc 4 | 3–9 de novembre | | en curs |
-| Bloc 5 | 10–16 de novembre, amb la vaga de l'11 de novembre | | pendent |
+| Bloc 4 | 3–9 de novembre | 339 | [Bloc 4](followup_block4.md) |
+| Bloc 5 | 10–16 de novembre, amb la vaga de l'11 de novembre | | en curs |
 
 A partir del bloc 1, el primer estudi s'amplia en blocs setmanals: a cada bloc s'analitzen
 els mateixos canals i s'hi afegeixen els que entren a la conversa. Com funcionen i com es
@@ -37,25 +37,28 @@ revisions i els canvis d'interpretació.
 
 ## Al llarg dels períodes
 
-![Mesures clau del primer període al bloc 3](../figures/followup/trajectory.png)
+![Mesures clau del primer període al bloc 4](../figures/followup/trajectory.png)
 
 *Les figures són en anglès.*
 
 1. **El sindicat de Madrid deixa de ser el node central.** El Sindicato de Inquilinas de
    Madrid és reenviat per 14 canals al primer estudi i per 10 al bloc 1, després de la
-   mort de Maricarmen; després, per 1 i 2 als blocs 2 i 3.
+   mort de Maricarmen; després, per 1, 2 i 5 als blocs 2 a 4.
 2. **El canal del comitè de vaga de Màlaga concentra els reenviaments de contingut
    d'habitatge** des del bloc 2, però a través dels mateixos tres o quatre canals: volum
    sense amplitud.
 3. **La mobilització passa de les acampades a la vaga de l'11 de novembre,** i els canals
    que donen suport a la vaga alhora que qüestionen els convocants passen de 5 a 13 en una
-   setmana.
-4. **Els grups territorials d'habitatge no es reenvien entre ells** en cap període; el
-   primer vincle entre territoris, al bloc 3, és un comunicat conjunt de les acampades
-   després de l'accident ferroviari d'Urda.
-5. **Els canals de les mateixes acampades gairebé no es difonen** en cap període.
-6. **Dos mitjans hostils formen una parella tancada** que cap altre canal reenvia ni cita
-   (registrat des del bloc 1, quan es va introduir la categoria d'opositor).
+   setmana, i són 8 al bloc 4, la setmana anterior a la vaga.
+4. **Els grups territorials d'habitatge gairebé no es reenvien entre ells**: el primer
+   vincle entre territoris, al bloc 3, és un comunicat conjunt de les acampades després de
+   l'accident ferroviari d'Urda, i al bloc 4 el Sindicat de Llogateres de Barcelona
+   reenvia Llogateres València.
+5. **Els canals de les mateixes acampades gairebé no es difonen**, llevat del de Sol el
+   dia del desallotjament, al bloc 4.
+6. **Els opositors continuen aïllats:** dos mitjans hostils que cap altre canal no
+   reenvia ni cita, als quals s'afegeix al bloc 4 el canal d'una autora (registrat des del
+   bloc 1, quan es va introduir la categoria d'opositor).
 
 ## Sobre aquest lloc
 

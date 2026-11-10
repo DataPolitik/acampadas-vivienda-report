@@ -22,8 +22,8 @@ sampled and classified, and what their forwarding and mention networks show.
 | Block 1 | 6–19 October | 265 | [Block 1](followup_block1.md) |
 | Block 2 | 20–26 October | 281 | [Block 2](followup_block2.md) |
 | Block 3 | 27 October – 2 November | 297 | [Block 3](followup_block3.md) |
-| Block 4 | 3–9 November | | in progress |
-| Block 5 | 10–16 November, with the 11 November strike | | to come |
+| Block 4 | 3–9 November | 339 | [Block 4](followup_block4.md) |
+| Block 5 | 10–16 November, with the 11 November strike | | in progress |
 
 Blocks 1 onwards extend the first study in weekly blocks, scanning the same channels
 in every block and adding those that enter the conversation. How they work, and how
@@ -36,21 +36,24 @@ changes in interpretation.
 
 ## Across the periods
 
-![Key measures from the first period to block 3](figures/followup/trajectory.png)
+![Key measures from the first period to block 4](figures/followup/trajectory.png)
 
 1. **The Madrid union stops being the hub.** The Sindicato de Inquilinas de Madrid is
    forwarded by 14 channels in the first study and 10 in block 1, after Maricarmen's
-   death, then by 1 and 2 in blocks 2 and 3.
+   death, then by 1, 2 and 5 in blocks 2 to 4.
 2. **Málaga's strike committee channel carries the forwarding of housing content** from
    block 2, but through the same three or four channels: volume without breadth.
 3. **The mobilisation turns from the camps to the 11 November strike,** and channels that
-   back the strike while disputing its organisers grow from 5 to 13 in a week.
-4. **Territorial housing clusters do not forward each other** in any period; the first
-   tie across territories, in block 3, is a joint statement by the camps after the Urda
-   rail crash.
-5. **The camps' own channels are barely relayed** in any period.
-6. **Two hostile media channels form a closed pair** that no other channel forwards or
-   quotes (recorded from block 1, when the opponent category was introduced).
+   back the strike while disputing its organisers grow from 5 to 13 in a week;
+   in block 4, the week before the strike, they are 8.
+4. **Territorial housing clusters barely forward each other**: the first tie across
+   territories, in block 3, is a joint statement by the camps after the Urda rail crash,
+   and in block 4 Barcelona's tenants' union forwards València's.
+5. **The camps' own channels are barely relayed**, except the Sol camp's on the day of its
+   eviction, in block 4.
+6. **The opponents stay closed off:** two hostile media channels that no other channel
+   forwards or quotes, joined in block 4 by an author's channel (recorded from block 1,
+   when the opponent category was introduced).
 
 ## About this site
 

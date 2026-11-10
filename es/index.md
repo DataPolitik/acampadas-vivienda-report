@@ -23,8 +23,8 @@ menciones.
 | Bloque 1 | 6–19 de octubre | 265 | [Bloque 1](followup_block1.md) |
 | Bloque 2 | 20–26 de octubre | 281 | [Bloque 2](followup_block2.md) |
 | Bloque 3 | 27 de octubre – 2 de noviembre | 297 | [Bloque 3](followup_block3.md) |
-| Bloque 4 | 3–9 de noviembre | | en curso |
-| Bloque 5 | 10–16 de noviembre, con la huelga del 11 de noviembre | | pendiente |
+| Bloque 4 | 3–9 de noviembre | 339 | [Bloque 4](followup_block4.md) |
+| Bloque 5 | 10–16 de noviembre, con la huelga del 11 de noviembre | | en curso |
 
 A partir del bloque 1, el primer estudio se extiende en bloques semanales: en cada bloque
 se analizan los mismos canales y se añaden los que entran en la conversación. Cómo
@@ -38,25 +38,28 @@ revisiones y los cambios de interpretación.
 
 ## A lo largo de los periodos
 
-![Medidas clave del primer periodo al bloque 3](../figures/followup/trajectory.png)
+![Medidas clave del primer periodo al bloque 4](../figures/followup/trajectory.png)
 
 *Las figuras están en inglés.*
 
 1. **El sindicato de Madrid deja de ser el nodo central.** El Sindicato de Inquilinas de
    Madrid es reenviado por 14 canales en el primer estudio y por 10 en el bloque 1, tras
-   la muerte de Maricarmen; después, por 1 y 2 en los bloques 2 y 3.
+   la muerte de Maricarmen; después, por 1, 2 y 5 en los bloques 2 a 4.
 2. **El canal del comité de huelga de Málaga concentra los reenvíos de contenido de
    vivienda** desde el bloque 2, pero a través de los mismos tres o cuatro canales:
    volumen sin amplitud.
 3. **La movilización pasa de las acampadas a la huelga del 11 de noviembre,** y los
    canales que apoyan la huelga mientras cuestionan a sus convocantes pasan de 5 a 13 en
-   una semana.
-4. **Los grupos territoriales de vivienda no se reenvían entre sí** en ningún periodo; el
-   primer vínculo entre territorios, en el bloque 3, es un comunicado conjunto de las
-   acampadas tras el accidente ferroviario de Urda.
-5. **Los canales de las propias acampadas apenas se difunden** en ningún periodo.
-6. **Dos medios hostiles forman una pareja cerrada** que ningún otro canal reenvía ni
-   cita (registrado desde el bloque 1, cuando se introdujo la categoría de opositor).
+   una semana, y son 8 en el bloque 4, la semana anterior a la huelga.
+4. **Los grupos territoriales de vivienda apenas se reenvían entre sí**: el primer
+   vínculo entre territorios, en el bloque 3, es un comunicado conjunto de las acampadas
+   tras el accidente ferroviario de Urda, y en el bloque 4 el Sindicat de Llogateres de
+   Barcelona reenvía a Llogateres València.
+5. **Los canales de las propias acampadas apenas se difunden**, salvo el de Sol el día
+   de su desalojo, en el bloque 4.
+6. **Los opositores siguen aislados:** dos medios hostiles que ningún otro canal reenvía
+   ni cita, a los que se suma en el bloque 4 el canal de una autora (registrado desde el
+   bloque 1, cuando se introdujo la categoría de opositor).
 
 ## Sobre este sitio
 
