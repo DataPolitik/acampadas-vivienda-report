@@ -55,6 +55,14 @@ changes in interpretation.
    forwards or quotes, joined in block 4 by an author's channel (recorded from block 1,
    when the opponent category was introduced).
 
+## The network in each period
+
+Forwarding and mention networks of the scanned channels, one map per period; select a
+map to open it in its report. Communities are detected separately in each period, so
+colours and positions are not comparable between maps.
+
+<div class="network-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:12px;margin:8px 0 16px"><a href="community_analysis.md#combined" style="display:block;text-decoration:none"><img src="figures/thumbs/network_first.jpg" alt="Network map: First study, 14 Sep – 5 Oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">First study<br><span style="color:#57606a">14 Sep – 5 Oct</span></span></a><a href="followup_block1.md#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b1.jpg" alt="Network map: Block 1, 6–19 Oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 1<br><span style="color:#57606a">6–19 Oct</span></span></a><a href="followup_block2.md#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b2.jpg" alt="Network map: Block 2, 20–26 Oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 2<br><span style="color:#57606a">20–26 Oct</span></span></a><a href="followup_block3.md#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b3.jpg" alt="Network map: Block 3, 27 Oct – 2 Nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 3<br><span style="color:#57606a">27 Oct – 2 Nov</span></span></a><a href="followup_block4.md#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b4.jpg" alt="Network map: Block 4, 3–9 Nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 4<br><span style="color:#57606a">3–9 Nov</span></span></a></div>
+
 ## About this site
 
 This repository brings together successive results from ongoing research into

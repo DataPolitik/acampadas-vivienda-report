@@ -60,6 +60,14 @@ revisions i els canvis d'interpretació.
    reenvia ni cita, als quals s'afegeix al bloc 4 el canal d'una autora (registrat des del
    bloc 1, quan es va introduir la categoria d'opositor).
 
+## La xarxa a cada període
+
+Xarxes de reenviaments i mencions dels canals analitzats, un mapa per període; cada mapa
+porta al seu informe. Les comunitats es detecten per separat a cada període, així que
+els colors i les posicions no són comparables entre mapes.
+
+<div class="network-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:12px;margin:8px 0 16px"><a href="community_analysis.md#combinat" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_first.jpg" alt="Mapa de la xarxa: Primer estudi, 14 set – 5 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Primer estudi<br><span style="color:#57606a">14 set – 5 oct</span></span></a><a href="followup_block1.md#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b1.jpg" alt="Mapa de la xarxa: Bloc 1, 6–19 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 1<br><span style="color:#57606a">6–19 oct</span></span></a><a href="followup_block2.md#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b2.jpg" alt="Mapa de la xarxa: Bloc 2, 20–26 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 2<br><span style="color:#57606a">20–26 oct</span></span></a><a href="followup_block3.md#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b3.jpg" alt="Mapa de la xarxa: Bloc 3, 27 oct – 2 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 3<br><span style="color:#57606a">27 oct – 2 nov</span></span></a><a href="followup_block4.md#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b4.jpg" alt="Mapa de la xarxa: Bloc 4, 3–9 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 4<br><span style="color:#57606a">3–9 nov</span></span></a></div>
+
 ## Sobre aquest lloc
 
 Aquest repositori aplega els resultats successius d'una recerca en curs sobre les
