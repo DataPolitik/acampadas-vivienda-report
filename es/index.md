@@ -38,7 +38,7 @@ revisiones y los cambios de interpretación.
 
 ## A lo largo de los periodos
 
-![Medidas clave del primer periodo al bloque 4](../figures/followup/trajectory.png)
+![Medidas clave del primer periodo al bloque 4](../figures/followup/trajectory.png?v=20261110)
 
 *Las figuras están en inglés.*
 

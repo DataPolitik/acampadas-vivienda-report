@@ -60,7 +60,7 @@ revisión del seguimiento (CSV, en inglés)](../followup_review_log.csv).
 
 ## La trayectoria
 
-![Medidas clave del primer periodo al bloque 4](../figures/followup/trajectory.png)
+![Medidas clave del primer periodo al bloque 4](../figures/followup/trajectory.png?v=20261110)
 
 *Las figuras están en inglés.*
 

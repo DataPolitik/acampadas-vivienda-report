@@ -36,7 +36,7 @@ changes in interpretation.
 
 ## Across the periods
 
-![Key measures from the first period to block 4](figures/followup/trajectory.png)
+![Key measures from the first period to block 4](figures/followup/trajectory.png?v=20261110)
 
 1. **The Madrid union stops being the hub.** The Sindicato de Inquilinas de Madrid is
    forwarded by 14 channels in the first study and 10 in block 1, after Maricarmen's

@@ -57,7 +57,7 @@ Every review decision, added or not, is in the [follow-up review log](followup_r
 
 ## The trajectory
 
-![Key measures from the first period to block 4](figures/followup/trajectory.png)
+![Key measures from the first period to block 4](figures/followup/trajectory.png?v=20261110)
 
 | | First period | Block 1 | Block 2 | Block 3 | Block 4 |
 |---|---|---|---|---|---|

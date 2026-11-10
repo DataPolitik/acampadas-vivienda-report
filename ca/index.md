@@ -37,7 +37,7 @@ revisions i els canvis d'interpretació.
 
 ## Al llarg dels períodes
 
-![Mesures clau del primer període al bloc 4](../figures/followup/trajectory.png)
+![Mesures clau del primer període al bloc 4](../figures/followup/trajectory.png?v=20261110)
 
 *Les figures són en anglès.*
 

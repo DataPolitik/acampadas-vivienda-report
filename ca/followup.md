@@ -60,7 +60,7 @@ Totes les decisions de revisió, tant si s'hi va afegir el canal com si no, són
 
 ## La trajectòria
 
-![Mesures clau del primer període al bloc 4](../figures/followup/trajectory.png)
+![Mesures clau del primer període al bloc 4](../figures/followup/trajectory.png?v=20261110)
 
 *Les figures són en anglès.*
 
