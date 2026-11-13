@@ -1,4 +1,4 @@
-# Seguiment: del 6 d'octubre al 9 de novembre del 2026
+# Seguiment: del 6 d'octubre al 12 de novembre del 2026
 
 <p class="lang" style="font-size:90%"><a href="../followup.html">English</a> · <a href="../es/followup.html">Español</a> · <strong>Català</strong></p>
 
@@ -8,8 +8,9 @@ d'octubre, els sindicats de llogateres van convocar una vaga general per l'habit
 a l'11 de novembre i les acampades van començar a aixecar-se. Aquest seguiment amplia
 l'estudi en el temps, en blocs setmanals, fins a la vaga.
 
-**Estat:** aquí es publiquen els blocs 1 a 4 (6 d'octubre – 9 de novembre). El bloc 5
-(10–16 de novembre, la vaga) s'hi afegirà quan estigui complet.
+**Estat:** aquí es publiquen els blocs 1 a 4 (6 d'octubre – 9 de novembre) i el dia de
+vaga (10 de novembre a les 22:00 – 12 de novembre a les 03:00). El bloc 5 (10–16 de
+novembre, la setmana de la vaga, dia de vaga inclòs) s'hi afegirà quan estigui complet.
 
 | Bloc | Dies (hora de Madrid) | Informe |
 |---|---|---|
@@ -17,6 +18,7 @@ l'estudi en el temps, en blocs setmanals, fins a la vaga.
 | 2 | 20–26 d'octubre | [Bloc 2](followup_block2.md) |
 | 3 | 27 d'octubre – 2 de novembre | [Bloc 3](followup_block3.md) |
 | 4 | 3–9 de novembre | [Bloc 4](followup_block4.md) |
+| Dia de vaga | 10 de novembre 22:00 – 12 de novembre 03:00, dins del bloc 5 | [Dia de vaga](followup_strike_day.md) |
 
 Totes les decisions de revisió, tant si s'hi va afegir el canal com si no, són al
 [registre de revisió del seguiment (CSV, en anglès)](../followup_review_log.csv).
@@ -163,6 +165,28 @@ llegint les publicacions que anomenen CCOO, UGT o les direccions sindicals.
    panell. Al primer estudi, Multicanal Radio era el segon reenviador més gran, etiquetat
    com a mitjà, perquè no existia la categoria d'opositor.
 
+## El dia de vaga
+
+La [pàgina del dia de vaga](followup_strike_day.md) llegeix la vaga general de l'11 de
+novembre com una finestra de 29 hores (del 10 de novembre a les 22:00 al 12 de novembre a les
+03:00, hora de Madrid), davant de les mateixes hores de dos dies feiners corrents, el 4 i el 5
+de novembre. La finestra forma part del bloc 5 i es tornarà a llegir amb la setmana sencera.
+- **Moltes més publicacions, pocs més reenviaments.** El panell va publicar 802 vegades sobre
+  la mobilització, 3,6 vegades més que els dies corrents, però va reenviar només un 15 % més
+  (355 davant de 309). Els talls de carretera, els piquets i les càrregues policials es van
+  publicar en directe; els fets del matí recollits per la premsa apareixen a Telegram a la
+  mateixa hora o abans.
+- **Els mitjans i els sindicats convocants van portar el dia.** La Directa, L'Accent, els
+  canals de CCOO i UGT el van cobrir hora a hora. Els sindicats de llogateres van publicar
+  poc, i els canals de les acampades no es van reenviar ni una vegada.
+- **Els territoris van continuar separats.** Els cinc vincles de reenviament entre canals
+  d'habitatge van quedar dins d'un mateix territori.
+- **La crítica va passar al govern**, a qui es culpa de les càrregues policials. Cap canal
+  no va ser crític amb la mateixa vaga, i la crítica a CCOO i UGT va ser més rara que als
+  blocs 3 i 4.
+- **Els opositors van continuar aïllats.** Van donar la vaga per fracassada i violenta, i no
+  van tenir contacte amb la resta del panell.
+
 ## La línia temporal contínua
 
 ![Reenviaments al dia del 14 de setembre al 9 de novembre](../figures/followup/b4_fig1_timeline.png)
@@ -185,7 +209,7 @@ llegint les publicacions que anomenen CCOO, UGT o les direccions sindicals.
 
 **Com citar aquesta pàgina.**
 
-<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Seguiment: del 6 d'octubre al 9 de novembre del 2026</em>. Dins de <em>Acampades per l'habitatge i xarxes de comunicació a Telegram a Espanya, tardor del 2026</em>. Període d'observació: 6 d'octubre – 9 de novembre del 2026. Versió del 10 de novembre del 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/ca/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/ca/followup.html</a></p></div>
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Seguiment: del 6 d'octubre al 12 de novembre del 2026</em>. Dins de <em>Acampades per l'habitatge i xarxes de comunicació a Telegram a Espanya, tardor del 2026</em>. Període d'observació: 6 d'octubre – 12 de novembre del 2026. Versió del 13 de novembre del 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/ca/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/ca/followup.html</a></p></div>
 
 Text i figures originals: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Ús i citació](index.md#use-and-citation)
 

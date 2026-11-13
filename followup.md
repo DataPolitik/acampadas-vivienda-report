@@ -1,4 +1,4 @@
-# Follow-up: 6 October to 9 November 2026
+# Follow-up: 6 October to 12 November 2026
 
 <p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/followup.html">Español</a> · <a href="ca/followup.html">Català</a></p>
 
@@ -8,8 +8,9 @@ tenant unions called a general strike for housing for 11 November, and the camps
 started to lift. This follow-up extends the study in time, in weekly blocks, up to the
 strike.
 
-**Status:** blocks 1 to 4 (6 October – 9 November) are published here. Block 5
-(10–16 November, the strike) will be added when it is complete.
+**Status:** blocks 1 to 4 (6 October – 9 November) and the strike day (10 November
+22:00 – 12 November 03:00) are published here. Block 5 (10–16 November, the week of the
+strike, strike day included) will be added when it is complete.
 
 | Block | Days (Madrid time) | Report |
 |---|---|---|
@@ -17,6 +18,7 @@ strike.
 | 2 | 20–26 October | [Block 2](followup_block2.md) |
 | 3 | 27 October – 2 November | [Block 3](followup_block3.md) |
 | 4 | 3–9 November | [Block 4](followup_block4.md) |
+| Strike day | 10 November 22:00 – 12 November 03:00, inside block 5 | [Strike day](followup_strike_day.md) |
 
 Every review decision, added or not, is in the [follow-up review log](followup_review_log.csv).
 
@@ -153,6 +155,27 @@ reading the posts that name CCOO, UGT or union leaderships.
    the first study Multicanal Radio was the second-largest forwarder, tagged media,
    because there was no opponent category.
 
+## The strike day
+
+The [strike-day page](followup_strike_day.md) reads the general strike of 11 November as a
+29-hour window (10 November 22:00 to 12 November 03:00, Madrid time), against the same clock
+hours of two ordinary weekdays, 4 and 5 November. The window is part of block 5 and will be
+read again with the whole week.
+- **Many more posts, few more forwards.** The panel posted 802 times about the mobilisation,
+  3.6 times as many as on the ordinary days, but forwarded only 15 % more (355 against 309).
+  Road cuts, pickets and police charges were posted live; the morning's press events appear
+  on Telegram the same hour or earlier.
+- **Media and the conveners' unions carried the day.** La Directa, L'Accent, CCOO's channels
+  and UGT covered it hour by hour. The tenants' unions posted little, and the camps' channels
+  were not forwarded at all.
+- **The territories stayed apart.** The five forwarding ties between housing channels were
+  all within one territory.
+- **Critique turned to the government**, blamed for the police charges. No channel was
+  critical of the strike itself, and critique of CCOO and UGT was rarer than in blocks 3
+  and 4.
+- **The opponents stayed closed off.** They called the strike a failure and violent, and had
+  no contact with the rest of the panel.
+
 ## The continuous timeline
 
 ![Forwards per day from 14 September to 9 November](figures/followup/b4_fig1_timeline.png)
@@ -173,7 +196,7 @@ reading the posts that name CCOO, UGT or union leaderships.
 
 **Cite this page.**
 
-<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Follow-up: 6 October to 9 November 2026</em>. In <em>Housing camps and Telegram communication networks in Spain, autumn 2026</em>. Observation period: 6 October – 9 November 2026. Version of 10 November 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/followup.html</a></p></div>
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Follow-up: 6 October to 12 November 2026</em>. In <em>Housing camps and Telegram communication networks in Spain, autumn 2026</em>. Observation period: 6 October – 12 November 2026. Version of 13 November 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/followup.html</a></p></div>
 
 Original text and figures: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Use and citation](index.md#use-and-citation)
 
