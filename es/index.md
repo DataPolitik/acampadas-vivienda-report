@@ -25,7 +25,7 @@ menciones.
 | Bloque 3 | 27 de octubre – 2 de noviembre | 297 | [Bloque 3](followup_block3.md) |
 | Bloque 4 | 3–9 de noviembre | 339 | [Bloque 4](followup_block4.md) |
 | Día de huelga | 10 de noviembre 22:00 – 12 de noviembre 03:00 | 352 | [Día de huelga](followup_strike_day.md) |
-| Bloque 5 | 10–16 de noviembre, con la huelga del 11 de noviembre | | en curso |
+| Bloque 5 | 10–16 de noviembre, con la huelga del 11 de noviembre | 382 | [Bloque 5](followup_block5.md) |
 
 A partir del bloque 1, el primer estudio se extiende en bloques semanales: en cada bloque
 se analizan los mismos canales y se añaden los que entran en la conversación. Cómo
@@ -39,21 +39,24 @@ revisiones y los cambios de interpretación.
 
 ## A lo largo de los periodos
 
-![Medidas clave del primer periodo al bloque 4](../figures/followup/trajectory.png?v=20261110)
+![Medidas clave del primer periodo al bloque 5](../figures/followup/trajectory.png?v=20261120)
 
 *Las figuras están en inglés.*
 
 1. **El sindicato de Madrid deja de ser el nodo central.** El Sindicato de Inquilinas de
    Madrid es reenviado por 14 canales en el primer estudio y por 10 en el bloque 1, tras
-   la muerte de Maricarmen; después, por 1, 2 y 5 en los bloques 2 a 4.
+   la muerte de Maricarmen; después, por 1, 2, 5 y 3 en los bloques 2 a 5. En la semana
+   de la huelga, COSHAC de Barcelona y EntreBarris de València se difunden más
+   ampliamente, cada uno dentro de su propia ciudad.
 2. **El canal del comité de huelga de Málaga concentra los reenvíos de contenido de
-   vivienda** desde el bloque 2, pero a través de los mismos tres o cuatro canales:
+   vivienda** desde el bloque 2, pero a través de los mismos tres a cinco canales:
    volumen sin amplitud.
 3. **La movilización pasa de las acampadas a la huelga del 11 de noviembre,** y quienes
    la apoyan discuten quién la dirige: los canales que critican a las direcciones de CCOO
    y UGT pasan de 5 a 19 en una semana y son 11 en el bloque 4, la semana anterior a la
    huelga, casi todos a favor de la huelga. El rechazo de la propia huelga sigue siendo
-   marginal.
+   marginal, y desaparece en la semana de la huelga, cuando la crítica se dirige al
+   gobierno (52 canales).
 4. **Los grupos territoriales se conectan por debajo de sus canales de vivienda.** Los
    canales de vivienda apenas se reenvían entre territorios: el primer vínculo, en el
    bloque 3, es un comunicado conjunto de las acampadas tras el accidente ferroviario de
@@ -63,7 +66,8 @@ revisiones y los cambios de interpretación.
    territorios como CGT, cuyos canales de Madrid y de Cataluña se conectan a través de sus
    canales estatales.
 5. **Los canales de las propias acampadas apenas se difunden**, salvo el de Sol el día
-   de su desalojo, en el bloque 4.
+   de su desalojo, en el bloque 4. En la semana de la huelga, mientras se levantaban las
+   últimas acampadas, no se reenvió ninguno.
 6. **Los opositores siguen aislados:** dos medios hostiles que ningún otro canal reenvía
    ni cita, a los que se suma en el bloque 4 el canal de una autora (registrado desde el
    bloque 1, cuando se introdujo la categoría de opositor).
@@ -72,8 +76,9 @@ revisiones y los cambios de interpretación.
 movilización que en un día laborable corriente, pero reenvió solo un 15 % más. Los
 medios y los sindicatos convocantes cubrieron el día en directo; los canales de vivienda
 apenas se reenviaron, y ningún vínculo entre ellos cruzó de territorio. La crítica pasó
-al gobierno por las cargas policiales. Véase la [página del día de
-huelga](followup_strike_day.md).
+al gobierno por las cargas policiales. Las publicaciones del día apenas se reenviaron
+después. Véase la [página del día de huelga](followup_strike_day.md) y el
+[bloque 5](followup_block5.md).
 
 ## La red en cada periodo
 
@@ -81,7 +86,7 @@ Redes de reenvíos y menciones de los canales analizados, un mapa por periodo; c
 lleva a su informe. Las comunidades se detectan por separado en cada periodo, así que
 los colores y las posiciones no son comparables entre mapas.
 
-<div class="network-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:12px;margin:8px 0 16px"><a href="community_analysis.html#combinado" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_first.jpg" alt="Mapa de la red: Primer estudio, 14 sep – 5 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Primer estudio<br><span style="color:#57606a">14 sep – 5 oct</span></span></a><a href="followup_block1.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b1.jpg" alt="Mapa de la red: Bloque 1, 6–19 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloque 1<br><span style="color:#57606a">6–19 oct</span></span></a><a href="followup_block2.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b2.jpg" alt="Mapa de la red: Bloque 2, 20–26 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloque 2<br><span style="color:#57606a">20–26 oct</span></span></a><a href="followup_block3.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b3.jpg" alt="Mapa de la red: Bloque 3, 27 oct – 2 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloque 3<br><span style="color:#57606a">27 oct – 2 nov</span></span></a><a href="followup_block4.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b4.jpg" alt="Mapa de la red: Bloque 4, 3–9 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloque 4<br><span style="color:#57606a">3–9 nov</span></span></a><a href="followup_strike_day.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_sd.jpg" alt="Mapa de la red: Día de huelga, 10–12 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Día de huelga<br><span style="color:#57606a">10–12 nov</span></span></a></div>
+<div class="network-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:12px;margin:8px 0 16px"><a href="community_analysis.html#combinado" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_first.jpg" alt="Mapa de la red: Primer estudio, 14 sep – 5 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Primer estudio<br><span style="color:#57606a">14 sep – 5 oct</span></span></a><a href="followup_block1.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b1.jpg" alt="Mapa de la red: Bloque 1, 6–19 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloque 1<br><span style="color:#57606a">6–19 oct</span></span></a><a href="followup_block2.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b2.jpg" alt="Mapa de la red: Bloque 2, 20–26 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloque 2<br><span style="color:#57606a">20–26 oct</span></span></a><a href="followup_block3.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b3.jpg" alt="Mapa de la red: Bloque 3, 27 oct – 2 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloque 3<br><span style="color:#57606a">27 oct – 2 nov</span></span></a><a href="followup_block4.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b4.jpg" alt="Mapa de la red: Bloque 4, 3–9 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloque 4<br><span style="color:#57606a">3–9 nov</span></span></a><a href="followup_strike_day.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_sd.jpg" alt="Mapa de la red: Día de huelga, 10–12 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Día de huelga<br><span style="color:#57606a">10–12 nov</span></span></a><a href="followup_block5.html#comunidades" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b5.jpg" alt="Mapa de la red: Bloque 5, 10–16 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloque 5<br><span style="color:#57606a">10–16 nov</span></span></a></div>
 
 ## Sobre este sitio
 

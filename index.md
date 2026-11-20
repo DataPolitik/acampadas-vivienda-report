@@ -24,7 +24,7 @@ sampled and classified, and what their forwarding and mention networks show.
 | Block 3 | 27 October – 2 November | 297 | [Block 3](followup_block3.md) |
 | Block 4 | 3–9 November | 339 | [Block 4](followup_block4.md) |
 | Strike day | 10 November 22:00 – 12 November 03:00 | 352 | [Strike day](followup_strike_day.md) |
-| Block 5 | 10–16 November, with the 11 November strike | | in progress |
+| Block 5 | 10–16 November, with the 11 November strike | 382 | [Block 5](followup_block5.md) |
 
 Blocks 1 onwards extend the first study in weekly blocks, scanning the same channels
 in every block and adding those that enter the conversation. How they work, and how
@@ -37,17 +37,19 @@ changes in interpretation.
 
 ## Across the periods
 
-![Key measures from the first period to block 4](figures/followup/trajectory.png?v=20261110)
+![Key measures from the first period to block 5](figures/followup/trajectory.png?v=20261120)
 
 1. **The Madrid union stops being the hub.** The Sindicato de Inquilinas de Madrid is
    forwarded by 14 channels in the first study and 10 in block 1, after Maricarmen's
-   death, then by 1, 2 and 5 in blocks 2 to 4.
+   death, then by 1, 2, 5 and 3 in blocks 2 to 5. In the strike week Barcelona's COSHAC
+   and València's EntreBarris are relayed more widely, each within its own city.
 2. **Málaga's strike committee channel carries the forwarding of housing content** from
-   block 2, but through the same three or four channels: volume without breadth.
+   block 2, but through the same three to five channels: volume without breadth.
 3. **The mobilisation turns from the camps to the 11 November strike,** and its
    supporters argue about who leads it: channels criticising CCOO and UGT's leaderships
    rise from 5 to 19 in a week and are 11 in block 4, the week before the strike, almost
-   all of them backing the strike. Rejection of the strike itself stays marginal.
+   all of them backing the strike. Rejection of the strike itself stays marginal, and
+   disappears in the strike week, when the critique turns to the government (52 channels).
 4. **Territorial clusters are linked below their housing channels.** Housing channels
    barely forward each other across territories: the first tie, in block 3, is a joint
    statement by the camps after the Urda rail crash. But 7–11 % of the ties among
@@ -56,7 +58,8 @@ changes in interpretation.
    organisations present in several territories such as CGT, whose Madrid and Catalan
    channels connect through its state-wide channels.
 5. **The camps' own channels are barely relayed**, except the Sol camp's on the day of its
-   eviction, in block 4.
+   eviction, in block 4. In the strike week, as the last camps came down, none was
+   forwarded.
 6. **The opponents stay closed off:** two hostile media channels that no other channel
    forwards or quotes, joined in block 4 by an author's channel (recorded from block 1,
    when the opponent category was introduced).
@@ -65,7 +68,8 @@ changes in interpretation.
 mobilisation as on ordinary weekdays, but forwarded only 15 % more. Media and the
 conveners' unions covered the day live; housing channels were seldom relayed, and no
 tie between them crossed a territory. Critique turned to the government over the
-police charges. See the [strike-day page](followup_strike_day.md).
+police charges. The day's posts were hardly forwarded afterwards. See the
+[strike-day page](followup_strike_day.md) and [block 5](followup_block5.md).
 
 ## The network in each period
 
@@ -73,7 +77,7 @@ Forwarding and mention networks of the scanned channels, one map per period; sel
 map to open it in its report. Communities are detected separately in each period, so
 colours and positions are not comparable between maps.
 
-<div class="network-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:12px;margin:8px 0 16px"><a href="community_analysis.html#combined" style="display:block;text-decoration:none"><img src="figures/thumbs/network_first.jpg" alt="Network map: First study, 14 Sep – 5 Oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">First study<br><span style="color:#57606a">14 Sep – 5 Oct</span></span></a><a href="followup_block1.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b1.jpg" alt="Network map: Block 1, 6–19 Oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 1<br><span style="color:#57606a">6–19 Oct</span></span></a><a href="followup_block2.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b2.jpg" alt="Network map: Block 2, 20–26 Oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 2<br><span style="color:#57606a">20–26 Oct</span></span></a><a href="followup_block3.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b3.jpg" alt="Network map: Block 3, 27 Oct – 2 Nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 3<br><span style="color:#57606a">27 Oct – 2 Nov</span></span></a><a href="followup_block4.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b4.jpg" alt="Network map: Block 4, 3–9 Nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 4<br><span style="color:#57606a">3–9 Nov</span></span></a><a href="followup_strike_day.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_sd.jpg" alt="Network map: Strike day, 10–12 Nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Strike day<br><span style="color:#57606a">10–12 Nov</span></span></a></div>
+<div class="network-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:12px;margin:8px 0 16px"><a href="community_analysis.html#combined" style="display:block;text-decoration:none"><img src="figures/thumbs/network_first.jpg" alt="Network map: First study, 14 Sep – 5 Oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">First study<br><span style="color:#57606a">14 Sep – 5 Oct</span></span></a><a href="followup_block1.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b1.jpg" alt="Network map: Block 1, 6–19 Oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 1<br><span style="color:#57606a">6–19 Oct</span></span></a><a href="followup_block2.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b2.jpg" alt="Network map: Block 2, 20–26 Oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 2<br><span style="color:#57606a">20–26 Oct</span></span></a><a href="followup_block3.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b3.jpg" alt="Network map: Block 3, 27 Oct – 2 Nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 3<br><span style="color:#57606a">27 Oct – 2 Nov</span></span></a><a href="followup_block4.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b4.jpg" alt="Network map: Block 4, 3–9 Nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 4<br><span style="color:#57606a">3–9 Nov</span></span></a><a href="followup_strike_day.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_sd.jpg" alt="Network map: Strike day, 10–12 Nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Strike day<br><span style="color:#57606a">10–12 Nov</span></span></a><a href="followup_block5.html#communities" style="display:block;text-decoration:none"><img src="figures/thumbs/network_b5.jpg" alt="Network map: Block 5, 10–16 Nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Block 5<br><span style="color:#57606a">10–16 Nov</span></span></a></div>
 
 ## About this site
 

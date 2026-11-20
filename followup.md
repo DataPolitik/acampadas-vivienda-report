@@ -1,4 +1,4 @@
-# Follow-up: 6 October to 12 November 2026
+# Follow-up: 6 October to 16 November 2026
 
 <p class="lang" style="font-size:90%"><strong>English</strong> · <a href="es/followup.html">Español</a> · <a href="ca/followup.html">Català</a></p>
 
@@ -8,9 +8,9 @@ tenant unions called a general strike for housing for 11 November, and the camps
 started to lift. This follow-up extends the study in time, in weekly blocks, up to the
 strike.
 
-**Status:** blocks 1 to 4 (6 October – 9 November) and the strike day (10 November
-22:00 – 12 November 03:00) are published here. Block 5 (10–16 November, the week of the
-strike, strike day included) will be added when it is complete.
+**Status:** complete. Blocks 1 to 5 (6 October – 16 November) and the strike day
+(10 November 22:00 – 12 November 03:00, inside block 5) are published here. Block 5, the
+week of the strike, is the last block.
 
 | Block | Days (Madrid time) | Report |
 |---|---|---|
@@ -19,6 +19,7 @@ strike, strike day included) will be added when it is complete.
 | 3 | 27 October – 2 November | [Block 3](followup_block3.md) |
 | 4 | 3–9 November | [Block 4](followup_block4.md) |
 | Strike day | 10 November 22:00 – 12 November 03:00, inside block 5 | [Strike day](followup_strike_day.md) |
+| 5 | 10–16 November, with the 11 November strike | [Block 5](followup_block5.md) |
 
 Every review decision, added or not, is in the [follow-up review log](followup_review_log.csv).
 
@@ -37,8 +38,8 @@ Every review decision, added or not, is in the [follow-up review log](followup_r
   text of its posts: supportive; critical of the strike (shares the movement's aims but
   rejects or belittles the 11 November strike itself); hostile; reporting; or none.
   Separately, the block records what a channel criticises, in its own posts or in
-  relays: CCOO and UGT's leaderships, the strike's strategy, or other organisations of
-  the movement. *Rule revised on 10 November 2026:* until then, channels that backed the
+  relays: CCOO and UGT's leaderships, the strike's strategy, the government (from the
+  strike day on), or other organisations of the movement. *Rule revised on 10 November 2026:* until then, channels that backed the
   strike while disputing CCOO and UGT or its strategy were classed "critical from
   within"; they now count as supportive, with the critique recorded. The block reports
   keep the earlier label.
@@ -59,43 +60,52 @@ Every review decision, added or not, is in the [follow-up review log](followup_r
 
 ## The trajectory
 
-![Key measures from the first period to block 4](figures/followup/trajectory.png?v=20261110)
+![Key measures from the first period to block 5](figures/followup/trajectory.png?v=20261120)
 
-| | First period | Block 1 | Block 2 | Block 3 | Block 4 |
-|---|---|---|---|---|---|
-| Days | 14 Sep – 5 Oct (20) | 6–19 Oct (14) | 20–26 Oct (7) | 27 Oct – 2 Nov (7) | 3–9 Nov (7) |
-| Channels in the panel at the end | 167 | 265 | 281 | 297 | 339 |
-| Forwards a day, the first study's 167 channels | 111.5 | 114.9 | 138.1 | 126.0 | 143.0 |
-| Forwards of housing channels' posts a day, same channels | 11.4 | 11.8 | 15.9 | 21.1 | 20.9 |
-| Posts about the mobilisation a day, all channels | — | 101 | 73 | 76 | 166 |
-| Channels forwarding the Sindicato de Inquilinas de Madrid | 14 | 10 | 1 | 2 | 5 |
-| Channels forwarding Málaga's strike committee channel | 3 | 3 | 3 | 4 | 4 |
-| Channels criticising CCOO and UGT's leaderships (own posts or relays) | — | 7 | 5 | 19 | 11 |
-| Channels critical of the strike itself | — | 2 | 1 | 1 | 1 |
-| Opponent channels | — | 2 | 2 | 2 | 3 |
-| Share of forwards by the top five forwarders | 60 % | 51.1 % | 48.5 % | 46.5 % | 42.1 % |
-| Communities (modularity) | 14 (0.60) | 13 (0.698) | 18 (0.735) | 19 (0.736) | 23 (0.744) |
-| Agreement with the previous period's communities (adjusted Rand index) | — | 0.512 | 0.586 | 0.587 | 0.403 |
+| | First period | Block 1 | Block 2 | Block 3 | Block 4 | Block 5 |
+|---|---|---|---|---|---|---|
+| Days | 14 Sep – 5 Oct (20) | 6–19 Oct (14) | 20–26 Oct (7) | 27 Oct – 2 Nov (7) | 3–9 Nov (7) | 10–16 Nov (7) |
+| Channels in the panel at the end | 167 | 265 | 281 | 297 | 339 | 382 |
+| Forwards a day, the first study's 167 channels | 111.5 | 114.9 | 138.1 | 126.0 | 143.0 | 133.3 |
+| Forwards of housing channels' posts a day, same channels | 11.4 | 11.8 | 15.9 | 21.1 | 20.9 | 19.6 |
+| Posts about the mobilisation a day, all channels | — | 101 | 73 | 76 | 166 | 306 |
+| Channels forwarding the Sindicato de Inquilinas de Madrid | 14 | 10 | 1 | 2 | 5 | 3 |
+| Channels forwarding Málaga's strike committee channel | 3 | 3 | 3 | 4 | 4 | 5 |
+| Channels criticising CCOO and UGT's leaderships (own posts or relays) | — | 7 | 5 | 19 | 11 | 16 |
+| Channels criticising the government (own posts or relays) | — | — | — | — | — | 52 |
+| Channels critical of the strike itself | — | 2 | 1 | 1 | 1 | 0 |
+| Opponent channels | — | 2 | 2 | 2 | 3 | 3 |
+| Share of forwards by the top five forwarders | 60 % | 51.1 % | 48.5 % | 46.5 % | 42.1 % | 35.1 % |
+| Communities (modularity) | 14 (0.60) | 13 (0.698) | 18 (0.735) | 19 (0.736) | 23 (0.744) | 27 (0.750) |
+| Agreement with the previous period's communities (adjusted Rand index) | — | 0.512 | 0.586 | 0.587 | 0.403 | 0.498 |
 
 "—": not measured in that period. Posts about the mobilisation were not downloaded for
 the whole sample in the first study, and stance was not recorded. In block 4 the term
 list was widened, so its count of posts about the mobilisation is not strictly
 comparable, and posts of 7–9 November were read less deeply for stance (see the block's
-report). Critique counts follow the rule revised on 10 November 2026; relays were found by
-reading the posts that name CCOO, UGT or union leaderships.
+report). Block 5's count uses its own, wider list again: with it, block 4 has 196 posts a day,
+not 166. Critique counts follow the rule revised on 10 November 2026; relays were found by
+reading the posts that name CCOO, UGT or union leaderships. Critique of the government was
+recorded from the strike day on. Block 5's counts include the 30 channels admitted in its
+review.
 
-## Main findings so far
+## Main findings
 
 1. **The Madrid union stops being the hub.** In the first study the Sindicato de
    Inquilinas de Madrid was forwarded by 14 channels, more than any other housing
-   channel. In block 1, after Maricarmen's death, by 10; in blocks 2, 3 and 4, by 1, 2
-   and 5. It posts much less on its channel and, by its own account, no longer keeps a
-   permanent post in Sol; it posted nothing about the camp's eviction on 3 November.
+   channel. In block 1, after Maricarmen's death, by 10; in blocks 2 to 5, by 1, 2, 5
+   and 3. It posts much less on its channel and, by its own account, no longer keeps a
+   permanent post in Sol; it posted nothing about the camp's eviction on 3 November. In the
+   strike week it is relayed mostly by CGT channels and sits in one community with them;
+   COSHAC (Barcelona, 10 channels) and EntreBarris (València, 7) are relayed more widely,
+   each only by channels of its own city.
 2. **Málaga's channel carries the forwarding of housing content.** Málaga para Vivir,
    renamed "Comité de Huelga 11N · Málaga", accounts for 98 of the 130 forwards of
-   housing channels' posts in block 2, 128 of 176 in block 3 and 132 in block 4. Its
-   posts are forwarded by the same three or four channels many times each: volume
-   without breadth.
+   housing channels' posts in block 2, 128 of 176 in block 3, 132 in block 4 and 91 of
+   200 in block 5. Its posts are forwarded by the same four or five Andalusian channels
+   many times each: volume without breadth. On the strike's eve (10 November) it
+   accounted for 64 of the 83 forwards of housing posts, the busiest day of the
+   follow-up.
 3. **The mobilisation turns from the camps to the strike, and the strike's supporters
    argue about who leads it.** Posts in blocks 2 to 4 are almost all about building the 11 November strike, and
    in block 4, the week before it, posts about the mobilisation more than double (1,163
@@ -104,14 +114,18 @@ reading the posts that name CCOO, UGT or union leaderships.
    back the strike, and several belong to organisations that signed the call, above all
    CGT, whose Madrid federation sent an open letter to CCOO and UGT; Granada's housing
    union calls its own march. Channels that reject the strike itself stay marginal: one or
-   two per block.
+   two per block, none in block 5. In the strike week the critique turns to the government:
+   52 channels blame it, or the PSC, for the police charges, the four strikers in pretrial
+   detention, the eviction of the Barcelona camp or a decree that "no soluciona". Posts about
+   the mobilisation peak on the strike day (908) and fall after it, to 142 a day on
+   12–16 November.
 4. **Territorial clusters are linked below their housing channels.** Up to block 3,
    every forward between housing channels stays within Madrid, Barcelona, València or
    Málaga. The first tie across territories appears in block 3, and it is a mention: a
    joint statement by the camps of several cities after the Urda rail crash. In block 4
    two ties cross territories: the Sindicat de Llogateres (Barcelona) forwards Llogateres
-   València, and the Sol camp's channel links the Barcelona camp's. The other channels of
-   each cluster are less closed:
+   València, and the Sol camp's channel links the Barcelona camp's. In block 5 none does.
+   The other channels of each cluster are less closed:
     - 7–11 % of the ties among channels with a known territory cross territories in each
       block. Anarchist and anti-repression collectives, Palestine solidarity groups and
       Catalan-language media (between Catalonia and València) carry most of them.
@@ -134,13 +148,18 @@ reading the posts that name CCOO, UGT or union leaderships.
    7, 2 and 9 times; in block 4 it was relayed by 7 channels, more than any other housing
    channel, and 8 of its 9 forwards came on the day of the eviction. The Barcelona camp's
    channel posted 103, 24, 19 and 34 times and was forwarded once, once, not at all and
-   3 times.
+   3 times. In block 5, as the Sevilla, València and Pontevedra camps came down (12
+   November) and the Barcelona camp was evicted (16 November), no camp channel was
+   forwarded at all.
 6. **Barcelona's housing unions emerge as a cluster of their own**, and in block 3 the
    Sol and Barcelona camps sit in one community with the CGT unions that relay their
    posts. In block 4 each camp sits with its city: Madrid's agendas, CGT, the Sol camp
    and the tenants' union form one community, and Barcelona's camp, housing unions and
-   strike committees another. The other territorial clusters (València, Málaga with the
-   Andalusian relay) persist from the first study.
+   strike committees another. In block 5 Barcelona's housing unions, with La Directa and
+   the anti-repression groups, form one of the largest communities (32 channels), the camp
+   sits with the anarchist relays, and the Madrid union with the CGT channels. The other
+   territorial clusters (València, Málaga with the Andalusian relay) persist from the
+   first study.
 7. **The opponents stay closed off.** Two media channels are hostile in every block:
    **Nuestra España Noticias** and **Multicanal Radio**. Multicanal Radio forwards
    Nuestra España (149, 74, 76 and 88 times) and celebrity gossip; no other channel
@@ -152,15 +171,17 @@ reading the posts that name CCOO, UGT or union leaderships.
    return to media. In block 4 a third opponent was admitted, an author's channel
    (**Cristina Martín Jiménez**), on one post mocking the minister of Labour; it links
    RT's channel and has no contact about the mobilisation with the rest of the panel. In
-   the first study Multicanal Radio was the second-largest forwarder, tagged media,
-   because there was no opponent category.
+   block 5 the three call the strike a failure ("El fracaso absoluto de la huelga general
+   convierte el 11-N en un batacazo histórico", Nuestra España) and still have no contact
+   with the panel about it. In the first study Multicanal Radio was the second-largest
+   forwarder, tagged media, because there was no opponent category.
 
 ## The strike day
 
 The [strike-day page](followup_strike_day.md) reads the general strike of 11 November as a
 29-hour window (10 November 22:00 to 12 November 03:00, Madrid time), against the same clock
-hours of two ordinary weekdays, 4 and 5 November. The window is part of block 5 and will be
-read again with the whole week.
+hours of two ordinary weekdays, 4 and 5 November. The window is part of block 5 and was
+read again with the [whole week](followup_block5.md).
 - **Many more posts, few more forwards.** The panel posted 802 times about the mobilisation,
   3.6 times as many as on the ordinary days, but forwarded only 15 % more (355 against 309).
   Road cuts, pickets and police charges were posted live; the morning's press events appear
@@ -175,10 +196,12 @@ read again with the whole week.
   and 4.
 - **The opponents stayed closed off.** They called the strike a failure and violent, and had
   no contact with the rest of the panel.
+- **Little afterlife.** Of the 984 forwards made on 12–16 November, 41 were of posts published
+  in the window, most of them on the morning after, about the detentions.
 
 ## The continuous timeline
 
-![Forwards per day from 14 September to 9 November](figures/followup/b4_fig1_timeline.png)
+![Forwards per day from 14 September to 16 November](figures/followup/b5_fig1_timeline.png)
 
 ## Limits
 
@@ -196,7 +219,7 @@ read again with the whole week.
 
 **Cite this page.**
 
-<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Follow-up: 6 October to 12 November 2026</em>. In <em>Housing camps and Telegram communication networks in Spain, autumn 2026</em>. Observation period: 6 October – 12 November 2026. Version of 13 November 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/followup.html</a></p></div>
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Follow-up: 6 October to 16 November 2026</em>. In <em>Housing camps and Telegram communication networks in Spain, autumn 2026</em>. Observation period: 6 October – 16 November 2026. Version of 20 November 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/followup.html</a></p></div>
 
 Original text and figures: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Use and citation](index.md#use-and-citation)
 

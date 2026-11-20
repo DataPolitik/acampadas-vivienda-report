@@ -1,4 +1,4 @@
-# Seguiment: del 6 d'octubre al 12 de novembre del 2026
+# Seguiment: del 6 d'octubre al 16 de novembre del 2026
 
 <p class="lang" style="font-size:90%"><a href="../followup.html">English</a> · <a href="../es/followup.html">Español</a> · <strong>Català</strong></p>
 
@@ -8,9 +8,9 @@ d'octubre, els sindicats de llogateres van convocar una vaga general per l'habit
 a l'11 de novembre i les acampades van començar a aixecar-se. Aquest seguiment amplia
 l'estudi en el temps, en blocs setmanals, fins a la vaga.
 
-**Estat:** aquí es publiquen els blocs 1 a 4 (6 d'octubre – 9 de novembre) i el dia de
-vaga (10 de novembre a les 22:00 – 12 de novembre a les 03:00). El bloc 5 (10–16 de
-novembre, la setmana de la vaga, dia de vaga inclòs) s'hi afegirà quan estigui complet.
+**Estat:** complet. Aquí es publiquen els blocs 1 a 5 (6 d'octubre – 16 de novembre) i el
+dia de vaga (10 de novembre a les 22:00 – 12 de novembre a les 03:00, dins del bloc 5). El
+bloc 5, la setmana de la vaga, és l'últim bloc.
 
 | Bloc | Dies (hora de Madrid) | Informe |
 |---|---|---|
@@ -19,6 +19,7 @@ novembre, la setmana de la vaga, dia de vaga inclòs) s'hi afegirà quan estigui
 | 3 | 27 d'octubre – 2 de novembre | [Bloc 3](followup_block3.md) |
 | 4 | 3–9 de novembre | [Bloc 4](followup_block4.md) |
 | Dia de vaga | 10 de novembre 22:00 – 12 de novembre 03:00, dins del bloc 5 | [Dia de vaga](followup_strike_day.md) |
+| 5 | 10–16 de novembre, amb la vaga de l'11 de novembre | [Bloc 5](followup_block5.md) |
 
 Totes les decisions de revisió, tant si s'hi va afegir el canal com si no, són al
 [registre de revisió del seguiment (CSV, en anglès)](../followup_review_log.csv).
@@ -39,8 +40,8 @@ Totes les decisions de revisió, tant si s'hi va afegir el canal com si no, són
   complet de les seves publicacions: de suport; crítica amb la vaga (comparteix els
   objectius del moviment però rebutja o menysté la mateixa vaga de l'11 de novembre);
   hostil; informativa; o cap. A part, es registra què critica cada canal, en publicacions
-  pròpies o en reenviaments: les direccions de CCOO i UGT, l'estratègia de la vaga o
-  altres organitzacions del moviment. *Regla revisada el 10 de novembre del 2026:* fins
+  pròpies o en reenviaments: les direccions de CCOO i UGT, l'estratègia de la vaga, el
+  govern (a partir del dia de vaga) o altres organitzacions del moviment. *Regla revisada el 10 de novembre del 2026:* fins
   aleshores, els canals que donaven suport a la vaga alhora que qüestionaven CCOO i UGT o
   la seva estratègia es classificaven com a «crítica des de dins»; ara compten com a de
   suport, amb la crítica registrada. Els informes de bloc mantenen l'etiqueta
@@ -62,47 +63,55 @@ Totes les decisions de revisió, tant si s'hi va afegir el canal com si no, són
 
 ## La trajectòria
 
-![Mesures clau del primer període al bloc 4](../figures/followup/trajectory.png?v=20261110)
+![Mesures clau del primer període al bloc 5](../figures/followup/trajectory.png?v=20261120)
 
 *Les figures són en anglès.*
 
-| | Primer període | Bloc 1 | Bloc 2 | Bloc 3 | Bloc 4 |
-|---|---|---|---|---|---|
-| Dies | 14 set – 5 oct (20) | 6–19 oct (14) | 20–26 oct (7) | 27 oct – 2 nov (7) | 3–9 nov (7) |
-| Canals al panell al final | 167 | 265 | 281 | 297 | 339 |
-| Reenviaments al dia, els 167 canals del primer estudi | 111,5 | 114,9 | 138,1 | 126,0 | 143,0 |
-| Reenviaments al dia de publicacions de canals d'habitatge, mateixos canals | 11,4 | 11,8 | 15,9 | 21,1 | 20,9 |
-| Publicacions sobre la mobilització al dia, tots els canals | — | 101 | 73 | 76 | 166 |
-| Canals que reenvien el Sindicato de Inquilinas de Madrid | 14 | 10 | 1 | 2 | 5 |
-| Canals que reenvien el canal del comitè de vaga de Màlaga | 3 | 3 | 3 | 4 | 4 |
-| Canals que critiquen les direccions de CCOO i UGT (publicacions pròpies o reenviaments) | — | 7 | 5 | 19 | 11 |
-| Canals crítics amb la mateixa vaga | — | 2 | 1 | 1 | 1 |
-| Canals opositors | — | 2 | 2 | 2 | 3 |
-| Part dels reenviaments dels cinc reenviadors més grans | 60 % | 51,1 % | 48,5 % | 46,5 % | 42,1 % |
-| Comunitats (modularitat) | 14 (0,60) | 13 (0,698) | 18 (0,735) | 19 (0,736) | 23 (0,744) |
-| Coincidència amb les comunitats del període anterior (índex de Rand ajustat) | — | 0,512 | 0,586 | 0,587 | 0,403 |
+| | Primer període | Bloc 1 | Bloc 2 | Bloc 3 | Bloc 4 | Bloc 5 |
+|---|---|---|---|---|---|---|
+| Dies | 14 set – 5 oct (20) | 6–19 oct (14) | 20–26 oct (7) | 27 oct – 2 nov (7) | 3–9 nov (7) | 10–16 nov (7) |
+| Canals al panell al final | 167 | 265 | 281 | 297 | 339 | 382 |
+| Reenviaments al dia, els 167 canals del primer estudi | 111,5 | 114,9 | 138,1 | 126,0 | 143,0 | 133,3 |
+| Reenviaments al dia de publicacions de canals d'habitatge, mateixos canals | 11,4 | 11,8 | 15,9 | 21,1 | 20,9 | 19,6 |
+| Publicacions sobre la mobilització al dia, tots els canals | — | 101 | 73 | 76 | 166 | 306 |
+| Canals que reenvien el Sindicato de Inquilinas de Madrid | 14 | 10 | 1 | 2 | 5 | 3 |
+| Canals que reenvien el canal del comitè de vaga de Màlaga | 3 | 3 | 3 | 4 | 4 | 5 |
+| Canals que critiquen les direccions de CCOO i UGT (publicacions pròpies o reenviaments) | — | 7 | 5 | 19 | 11 | 16 |
+| Canals que critiquen el govern (publicacions pròpies o reenviaments) | — | — | — | — | — | 52 |
+| Canals crítics amb la mateixa vaga | — | 2 | 1 | 1 | 1 | 0 |
+| Canals opositors | — | 2 | 2 | 2 | 3 | 3 |
+| Part dels reenviaments dels cinc reenviadors més grans | 60 % | 51,1 % | 48,5 % | 46,5 % | 42,1 % | 35,1 % |
+| Comunitats (modularitat) | 14 (0,60) | 13 (0,698) | 18 (0,735) | 19 (0,736) | 23 (0,744) | 27 (0,750) |
+| Coincidència amb les comunitats del període anterior (índex de Rand ajustat) | — | 0,512 | 0,586 | 0,587 | 0,403 | 0,498 |
 
 «—»: no mesurat en aquell període. Al primer estudi no es van descarregar les publicacions
 de tota la mostra ni es va registrar la postura. Al bloc 4 la llista de termes es va
 ampliar, així que el seu recompte de publicacions sobre la mobilització no és
 estrictament comparable, i les publicacions del 7–9 de novembre es van llegir amb menys
-profunditat per a la postura (vegeu l'informe del bloc). Els recomptes de crítica
-segueixen la regla revisada el 10 de novembre del 2026; els reenviaments es van trobar
-llegint les publicacions que anomenen CCOO, UGT o les direccions sindicals.
+profunditat per a la postura (vegeu l'informe del bloc). El recompte del bloc 5 torna a
+fer servir una llista pròpia, més àmplia: amb aquesta llista, el bloc 4 té 196 publicacions
+al dia, no 166. Els recomptes de crítica segueixen la regla revisada el 10 de novembre del
+2026; els reenviaments es van trobar llegint les publicacions que anomenen CCOO, UGT o les
+direccions sindicals. La crítica al govern es va registrar a partir del dia de vaga. Els
+recomptes del bloc 5 inclouen els 30 canals admesos a la seva revisió.
 
-## Principals resultats fins ara
+## Principals resultats
 
 1. **El sindicat de Madrid deixa de ser el node central.** Al primer estudi, el
    Sindicato de Inquilinas de Madrid era reenviat per 14 canals, més que cap altre canal
-   d'habitatge. Al bloc 1, després de la mort de Maricarmen, per 10; als blocs 2, 3 i 4,
-   per 1, 2 i 5. Publica molt menys al seu canal i, segons la seva pròpia versió, ja no
+   d'habitatge. Al bloc 1, després de la mort de Maricarmen, per 10; als blocs 2 a 5, per
+   1, 2, 5 i 3. Publica molt menys al seu canal i, segons la seva pròpia versió, ja no
    manté un punt permanent a Sol; no va publicar res sobre el desallotjament de
-   l'acampada el 3 de novembre.
+   l'acampada el 3 de novembre. A la setmana de la vaga el difonen sobretot canals de la
+   CGT, amb els quals comparteix comunitat; COSHAC (Barcelona, 10 canals) i EntreBarris
+   (València, 7) es difonen més àmpliament, cadascun només per canals de la seva ciutat.
 2. **El canal de Màlaga concentra els reenviaments de contingut d'habitatge.** Málaga
    para Vivir, rebatejat «Comité de Huelga 11N · Málaga», suma 98 dels 130 reenviaments
-   de publicacions de canals d'habitatge al bloc 2, 128 de 176 al bloc 3 i 132 al bloc 4.
-   Les seves publicacions les reenvien moltes vegades els mateixos tres o quatre canals:
-   volum sense amplitud.
+   de publicacions de canals d'habitatge al bloc 2, 128 de 176 al bloc 3, 132 al bloc 4 i
+   91 de 200 al bloc 5. Les seves publicacions les reenvien moltes vegades els mateixos
+   quatre o cinc canals andalusos: volum sense amplitud. La vigília de la vaga (10 de
+   novembre) va sumar 64 dels 83 reenviaments de publicacions d'habitatge, el dia amb més
+   activitat del seguiment.
 3. **La mobilització passa de les acampades a la vaga, i qui hi dona suport discuteix
    qui la dirigeix.** Les publicacions dels blocs 2 a 4 tracten gairebé totes de construir la vaga
    de l'11 de novembre, i al bloc 4, la setmana anterior, les publicacions sobre la
@@ -112,15 +121,20 @@ llegint les publicacions que anomenen CCOO, UGT o les direccions sindicals.
    suport a la vaga, i diversos pertanyen a organitzacions que van signar la convocatòria,
    sobretot la CGT, la federació de Madrid de la qual va enviar una carta oberta a CCOO i
    UGT; el sindicat d'habitatge de Granada convoca la seva pròpia manifestació. Els canals
-   que rebutgen la mateixa vaga continuen sent marginals: un o dos per bloc.
+   que rebutgen la mateixa vaga continuen sent marginals: un o dos per bloc, cap al bloc 5.
+   A la setmana de la vaga la crítica passa al govern: 52 canals el culpen, a ell o al PSC,
+   de les càrregues policials, dels quatre vaguistes en presó preventiva, del
+   desallotjament de l'acampada de Barcelona o d'un decret que «no soluciona». Les
+   publicacions sobre la mobilització arriben al màxim el dia de vaga (908) i baixen
+   després, fins a 142 al dia el 12–16 de novembre.
 4. **Els grups territorials es connecten per sota dels seus canals d'habitatge.** Fins al
    bloc 3, tots els reenviaments entre canals d'habitatge queden dins de Madrid,
    Barcelona, València o Màlaga. El primer vincle entre territoris apareix al bloc 3, i és
    una menció: un comunicat conjunt de les acampades de diverses ciutats després de
    l'accident ferroviari d'Urda. Al bloc 4 dos vincles creuen territoris: el Sindicat de
    Llogateres (Barcelona) reenvia Llogateres València, i el canal de l'acampada de Sol
-   enllaça el de l'acampada de Barcelona. La resta de canals de cada grup són menys
-   tancats:
+   enllaça el de l'acampada de Barcelona. Al bloc 5, cap. La resta de canals de cada grup
+   són menys tancats:
     - Entre el 7 i l'11 % dels vincles entre canals de territori conegut creuen territoris
       a cada bloc. La majoria els sostenen col·lectius anarquistes i antirepressius, grups
       de solidaritat amb Palestina i mitjans en català (entre Catalunya i València).
@@ -143,14 +157,19 @@ llegint les publicacions que anomenen CCOO, UGT o les direccions sindicals.
    blocs i va ser reenviat 3, 7, 2 i 9 vegades; al bloc 4 el van difondre 7 canals, més
    que cap altre canal d'habitatge, i 8 dels seus 9 reenviaments van ser el dia del
    desallotjament. El de l'acampada de Barcelona va publicar 103, 24, 19 i 34 vegades i
-   va ser reenviat una vegada, una vegada, cap i 3 vegades.
+   va ser reenviat una vegada, una vegada, cap i 3 vegades. Al bloc 5, mentre s'aixecaven
+   les acampades de Sevilla, València i Pontevedra (12 de novembre) i es desallotjava la de
+   Barcelona (16 de novembre), no es va reenviar cap canal d'acampada.
 6. **Els sindicats d'habitatge de Barcelona formen un grup propi**, i al bloc 3 les
    acampades de Sol i de Barcelona queden en una mateixa comunitat amb els sindicats de la
    CGT que en difonen les publicacions. Al bloc 4 cada acampada queda amb la seva ciutat:
    les agendes de Madrid, la CGT, l'acampada de Sol i el sindicat de llogateres formen una
    comunitat, i l'acampada, els sindicats d'habitatge i els comitès de vaga de Barcelona,
-   una altra. Els altres grups territorials (València, Màlaga amb el difusor andalús) es
-   mantenen des del primer estudi.
+   una altra. Al bloc 5 els sindicats d'habitatge de Barcelona, amb La Directa i els grups
+   antirepressius, formen una de les comunitats més grans (32 canals), l'acampada queda amb
+   els difusors anarquistes i el sindicat de Madrid amb els canals de la CGT. Els altres
+   grups territorials (València, Màlaga amb el difusor andalús) es mantenen des del primer
+   estudi.
 7. **Els opositors continuen aïllats.** Dos mitjans són hostils a tots els blocs:
    **Nuestra España Noticias** i **Multicanal Radio**. Multicanal Radio reenvia Nuestra
    España (149, 74, 76 i 88 vegades) i notícies del cor; cap altre canal no reenvia ni
@@ -162,7 +181,9 @@ llegint les publicacions que anomenen CCOO, UGT o les direccions sindicals.
    tornarien a ser mitjans. Al bloc 4 es va admetre una tercera opositora, el canal d'una
    autora (**Cristina Martín Jiménez**), per una publicació que es burla de la ministra de
    Treball; enllaça el canal de RT i no té contacte sobre la mobilització amb la resta del
-   panell. Al primer estudi, Multicanal Radio era el segon reenviador més gran, etiquetat
+   panell. Al bloc 5 els tres donen la vaga per fracassada («El fracaso absoluto de la
+   huelga general convierte el 11-N en un batacazo histórico», Nuestra España) i continuen
+   sense contacte amb el panell sobre la vaga. Al primer estudi, Multicanal Radio era el segon reenviador més gran, etiquetat
    com a mitjà, perquè no existia la categoria d'opositor.
 
 ## El dia de vaga
@@ -170,7 +191,8 @@ llegint les publicacions que anomenen CCOO, UGT o les direccions sindicals.
 La [pàgina del dia de vaga](followup_strike_day.md) llegeix la vaga general de l'11 de
 novembre com una finestra de 29 hores (del 10 de novembre a les 22:00 al 12 de novembre a les
 03:00, hora de Madrid), davant de les mateixes hores de dos dies feiners corrents, el 4 i el 5
-de novembre. La finestra forma part del bloc 5 i es tornarà a llegir amb la setmana sencera.
+de novembre. La finestra forma part del bloc 5 i es va tornar a llegir amb la [setmana
+sencera](followup_block5.md).
 - **Moltes més publicacions, pocs més reenviaments.** El panell va publicar 802 vegades sobre
   la mobilització, 3,6 vegades més que els dies corrents, però va reenviar només un 15 % més
   (355 davant de 309). Els talls de carretera, els piquets i les càrregues policials es van
@@ -186,10 +208,12 @@ de novembre. La finestra forma part del bloc 5 i es tornarà a llegir amb la set
   blocs 3 i 4.
 - **Els opositors van continuar aïllats.** Van donar la vaga per fracassada i violenta, i no
   van tenir contacte amb la resta del panell.
+- **Poc recorregut posterior.** Dels 984 reenviaments fets el 12–16 de novembre, 41 eren de
+  publicacions de la finestra, la majoria l'endemà al matí, sobre les detencions.
 
 ## La línia temporal contínua
 
-![Reenviaments al dia del 14 de setembre al 9 de novembre](../figures/followup/b4_fig1_timeline.png)
+![Reenviaments al dia del 14 de setembre al 16 de novembre](../figures/followup/b5_fig1_timeline.png)
 
 ## Límits
 
@@ -209,7 +233,7 @@ de novembre. La finestra forma part del bloc 5 i es tornarà a llegir amb la set
 
 **Com citar aquesta pàgina.**
 
-<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Seguiment: del 6 d'octubre al 12 de novembre del 2026</em>. Dins de <em>Acampades per l'habitatge i xarxes de comunicació a Telegram a Espanya, tardor del 2026</em>. Període d'observació: 6 d'octubre – 12 de novembre del 2026. Versió del 13 de novembre del 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/ca/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/ca/followup.html</a></p></div>
+<div class="citation" style="font-size:90%;border-left:3px solid #d0d7de;padding:6px 12px;margin:0 0 16px"><p class="cite-text" style="margin:0">DataPolitik (Heurística). <em>Seguiment: del 6 d'octubre al 16 de novembre del 2026</em>. Dins de <em>Acampades per l'habitatge i xarxes de comunicació a Telegram a Espanya, tardor del 2026</em>. Període d'observació: 6 d'octubre – 16 de novembre del 2026. Versió del 20 de novembre del 2026. <a href="https://datapolitik.github.io/acampadas-vivienda-report/ca/followup.html">https://datapolitik.github.io/acampadas-vivienda-report/ca/followup.html</a></p></div>
 
 Text i figures originals: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · [Ús i citació](index.md#use-and-citation)
 

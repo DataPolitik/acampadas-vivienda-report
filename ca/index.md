@@ -25,7 +25,7 @@ mencions.
 | Bloc 3 | 27 d'octubre – 2 de novembre | 297 | [Bloc 3](followup_block3.md) |
 | Bloc 4 | 3–9 de novembre | 339 | [Bloc 4](followup_block4.md) |
 | Dia de vaga | 10 de novembre 22:00 – 12 de novembre 03:00 | 352 | [Dia de vaga](followup_strike_day.md) |
-| Bloc 5 | 10–16 de novembre, amb la vaga de l'11 de novembre | | en curs |
+| Bloc 5 | 10–16 de novembre, amb la vaga de l'11 de novembre | 382 | [Bloc 5](followup_block5.md) |
 
 A partir del bloc 1, el primer estudi s'amplia en blocs setmanals: a cada bloc s'analitzen
 els mateixos canals i s'hi afegeixen els que entren a la conversa. Com funcionen i com es
@@ -38,20 +38,23 @@ revisions i els canvis d'interpretació.
 
 ## Al llarg dels períodes
 
-![Mesures clau del primer període al bloc 4](../figures/followup/trajectory.png?v=20261110)
+![Mesures clau del primer període al bloc 5](../figures/followup/trajectory.png?v=20261120)
 
 *Les figures són en anglès.*
 
 1. **El sindicat de Madrid deixa de ser el node central.** El Sindicato de Inquilinas de
    Madrid és reenviat per 14 canals al primer estudi i per 10 al bloc 1, després de la
-   mort de Maricarmen; després, per 1, 2 i 5 als blocs 2 a 4.
+   mort de Maricarmen; després, per 1, 2, 5 i 3 als blocs 2 a 5. A la setmana de la vaga,
+   COSHAC (Barcelona) i EntreBarris (València) es difonen més àmpliament, cadascun dins de
+   la seva ciutat.
 2. **El canal del comitè de vaga de Màlaga concentra els reenviaments de contingut
-   d'habitatge** des del bloc 2, però a través dels mateixos tres o quatre canals: volum
+   d'habitatge** des del bloc 2, però a través dels mateixos tres a cinc canals: volum
    sense amplitud.
 3. **La mobilització passa de les acampades a la vaga de l'11 de novembre,** i qui hi
    dona suport discuteix qui la dirigeix: els canals que critiquen les direccions de CCOO i
    UGT passen de 5 a 19 en una setmana i són 11 al bloc 4, la setmana anterior a la vaga,
-   gairebé tots a favor de la vaga. El rebuig de la mateixa vaga continua sent marginal.
+   gairebé tots a favor de la vaga. El rebuig de la mateixa vaga continua sent marginal, i
+   desapareix a la setmana de la vaga, quan la crítica passa al govern (52 canals).
 4. **Els grups territorials es connecten per sota dels seus canals d'habitatge.** Els
    canals d'habitatge gairebé no es reenvien entre territoris: el primer vincle, al bloc 3,
    és un comunicat conjunt de les acampades després de l'accident ferroviari d'Urda. Però
@@ -61,7 +64,8 @@ revisions i els canvis d'interpretació.
    canals de Madrid i de Catalunya de la qual es connecten a través dels seus canals
    estatals.
 5. **Els canals de les mateixes acampades gairebé no es difonen**, llevat del de Sol el
-   dia del desallotjament, al bloc 4.
+   dia del desallotjament, al bloc 4. A la setmana de la vaga, mentre s'aixecaven les
+   últimes acampades, no se'n va reenviar cap.
 6. **Els opositors continuen aïllats:** dos mitjans hostils que cap altre canal no
    reenvia ni cita, als quals s'afegeix al bloc 4 el canal d'una autora (registrat des del
    bloc 1, quan es va introduir la categoria d'opositor).
@@ -70,8 +74,9 @@ revisions i els canvis d'interpretació.
 mobilització que en un dia feiner corrent, però va reenviar només un 15 % més. Els
 mitjans i els sindicats convocants van cobrir el dia en directe; els canals d'habitatge
 gairebé no es van reenviar, i cap vincle entre ells no va creuar de territori. La crítica
-va passar al govern per les càrregues policials. Vegeu la [pàgina del dia de
-vaga](followup_strike_day.md).
+va passar al govern per les càrregues policials. Després, les publicacions del dia gairebé
+no es van reenviar. Vegeu la [pàgina del dia de vaga](followup_strike_day.md) i el
+[bloc 5](followup_block5.md).
 
 ## La xarxa a cada període
 
@@ -79,7 +84,7 @@ Xarxes de reenviaments i mencions dels canals analitzats, un mapa per període; 
 porta al seu informe. Les comunitats es detecten per separat a cada període, així que
 els colors i les posicions no són comparables entre mapes.
 
-<div class="network-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:12px;margin:8px 0 16px"><a href="community_analysis.html#combinat" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_first.jpg" alt="Mapa de la xarxa: Primer estudi, 14 set – 5 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Primer estudi<br><span style="color:#57606a">14 set – 5 oct</span></span></a><a href="followup_block1.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b1.jpg" alt="Mapa de la xarxa: Bloc 1, 6–19 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 1<br><span style="color:#57606a">6–19 oct</span></span></a><a href="followup_block2.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b2.jpg" alt="Mapa de la xarxa: Bloc 2, 20–26 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 2<br><span style="color:#57606a">20–26 oct</span></span></a><a href="followup_block3.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b3.jpg" alt="Mapa de la xarxa: Bloc 3, 27 oct – 2 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 3<br><span style="color:#57606a">27 oct – 2 nov</span></span></a><a href="followup_block4.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b4.jpg" alt="Mapa de la xarxa: Bloc 4, 3–9 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 4<br><span style="color:#57606a">3–9 nov</span></span></a><a href="followup_strike_day.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_sd.jpg" alt="Mapa de la xarxa: Dia de vaga, 10–12 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Dia de vaga<br><span style="color:#57606a">10–12 nov</span></span></a></div>
+<div class="network-strip" style="display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:12px;margin:8px 0 16px"><a href="community_analysis.html#combinat" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_first.jpg" alt="Mapa de la xarxa: Primer estudi, 14 set – 5 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Primer estudi<br><span style="color:#57606a">14 set – 5 oct</span></span></a><a href="followup_block1.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b1.jpg" alt="Mapa de la xarxa: Bloc 1, 6–19 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 1<br><span style="color:#57606a">6–19 oct</span></span></a><a href="followup_block2.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b2.jpg" alt="Mapa de la xarxa: Bloc 2, 20–26 oct" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 2<br><span style="color:#57606a">20–26 oct</span></span></a><a href="followup_block3.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b3.jpg" alt="Mapa de la xarxa: Bloc 3, 27 oct – 2 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 3<br><span style="color:#57606a">27 oct – 2 nov</span></span></a><a href="followup_block4.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b4.jpg" alt="Mapa de la xarxa: Bloc 4, 3–9 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 4<br><span style="color:#57606a">3–9 nov</span></span></a><a href="followup_strike_day.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_sd.jpg" alt="Mapa de la xarxa: Dia de vaga, 10–12 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Dia de vaga<br><span style="color:#57606a">10–12 nov</span></span></a><a href="followup_block5.html#comunitats" style="display:block;text-decoration:none"><img src="../figures/thumbs/network_b5.jpg" alt="Mapa de la xarxa: Bloc 5, 10–16 nov" loading="lazy" style="display:block;width:100%;border:1px solid #d0d7de;border-radius:4px"><span style="display:block;font-size:85%;margin-top:4px">Bloc 5<br><span style="color:#57606a">10–16 nov</span></span></a></div>
 
 ## Sobre aquest lloc
 
